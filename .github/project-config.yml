@@ -1,0 +1,60 @@
+name: Indian Judicial Bodies Database
+description: Tracking the documentation of all judicial and quasi-judicial bodies in India
+
+columns:
+  - name: To Do
+    description: Bodies that need to be documented
+    
+  - name: In Progress
+    description: Bodies currently being researched and documented
+    
+  - name: Review
+    description: Bodies that have been documented and need review
+    
+  - name: Completed
+    description: Bodies that have been fully documented and added to the database
+
+labels:
+  - name: special-courts
+    color: '#FF5733'
+    description: Special courts like POCSO, Fast Track, etc.
+    
+  - name: regulatory-bodies
+    color: '#33FF57'
+    description: Bodies with regulatory and quasi-judicial functions
+    
+  - name: commissions
+    color: '#3357FF'
+    description: Specialized commissions at national and state levels
+    
+  - name: military-tribunals
+    color: '#FF33A8'
+    description: Military and security-related tribunals
+    
+  - name: religious-bodies
+    color: '#33FFF6'
+    description: Religious and personal law bodies
+    
+  - name: arbitration-mediation
+    color: '#F6FF33'
+    description: Arbitration and mediation centers
+    
+  - name: odr-platforms
+    color: '#FF8333'
+    description: Online dispute resolution platforms
+    
+  - name: international-bodies
+    color: '#8333FF'
+    description: International bodies with Indian cases
+    
+  - name: high-priority
+    color: '#FF0000'
+    description: High priority items
+    
+  - name: documentation
+    color: '#0075CA'
+    description: Documentation tasks
+    
+  - name: enhancement
+    color: '#A2EEEF'
+    description: Enhancements to existing documentation

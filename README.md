@@ -135,6 +135,21 @@ All court data is stored in JSON format with the following structure:
 - **index.json**: Contains a catalog of all files in the constitutional_courts and district_courts directories
 - **archive_index.json**: Contains a catalog of all original part files in the archive directory
 
+## Future Expansion
+
+This database is part of an ongoing project to document all judicial and quasi-judicial bodies in India. See our [ROADMAP.md](ROADMAP.md) for the complete plan, which includes:
+
+- Special Courts (POCSO, Fast Track, etc.)
+- Regulatory Bodies with quasi-judicial functions
+- Specialized Commissions
+- Military and Security-Related Tribunals
+- Religious and Personal Law Bodies
+- Arbitration & Mediation Centers
+- Online Dispute Resolution Platforms
+- International Bodies with Indian cases
+
+We welcome contributions to help complete this comprehensive database.
+
 ## Updating the Database
 
 When adding new courts or updating existing information:
@@ -162,6 +177,7 @@ This database is licensed under the Apache License 2.0.
 - 🏛️ **Tribunal Takeover!** Added 86 tribunals across India (21 national, 32 state, 33 specialized)
 - 🇬🇧 Embraced proper British English spelling throughout the database
 - 📊 Updated statistics: Now tracking a grand total of 851 judicial bodies!
+- 🗺️ Created comprehensive roadmap for documenting all judicial bodies in India
 
 ### 2025-03-15
 - 🏢 Completed the district courts collection with 720 courts across 36 states/UTs
