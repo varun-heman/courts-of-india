@@ -1,0 +1,288 @@
+[
+  {
+    "name": "District and Sessions Court, Almora",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Almora district of Uttarakhand.",
+    "location": "District Court Complex, Almora, Uttarakhand 263601",
+    "website": "https://districts.ecourts.gov.in/almora",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Almora District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Bageshwar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bageshwar district of Uttarakhand.",
+    "location": "District Court Complex, Bageshwar, Uttarakhand 263642",
+    "website": "https://districts.ecourts.gov.in/bageshwar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bageshwar District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Chamoli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chamoli district of Uttarakhand.",
+    "location": "District Court Complex, Gopeshwar, Chamoli, Uttarakhand 246401",
+    "website": "https://districts.ecourts.gov.in/chamoli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chamoli District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Champawat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Champawat district of Uttarakhand.",
+    "location": "District Court Complex, Champawat, Uttarakhand 262523",
+    "website": "https://districts.ecourts.gov.in/champawat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Champawat District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Dehradun",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dehradun district of Uttarakhand.",
+    "location": "District Court Complex, Dehradun, Uttarakhand 248001",
+    "website": "https://districts.ecourts.gov.in/dehradun",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dehradun District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Haridwar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Haridwar district of Uttarakhand.",
+    "location": "District Court Complex, Haridwar, Uttarakhand 249401",
+    "website": "https://districts.ecourts.gov.in/haridwar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Haridwar District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Nainital",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nainital district of Uttarakhand.",
+    "location": "District Court Complex, Nainital, Uttarakhand 263001",
+    "website": "https://districts.ecourts.gov.in/nainital",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nainital District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Pauri Garhwal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Pauri Garhwal district of Uttarakhand.",
+    "location": "District Court Complex, Pauri, Uttarakhand 246001",
+    "website": "https://districts.ecourts.gov.in/pauri-garhwal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Pauri Garhwal District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Pithoragarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Pithoragarh district of Uttarakhand.",
+    "location": "District Court Complex, Pithoragarh, Uttarakhand 262501",
+    "website": "https://districts.ecourts.gov.in/pithoragarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Pithoragarh District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Rudraprayag",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rudraprayag district of Uttarakhand.",
+    "location": "District Court Complex, Rudraprayag, Uttarakhand 246171",
+    "website": "https://districts.ecourts.gov.in/rudraprayag",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rudraprayag District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Tehri Garhwal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tehri Garhwal district of Uttarakhand.",
+    "location": "District Court Complex, New Tehri, Uttarakhand 249001",
+    "website": "https://districts.ecourts.gov.in/tehri-garhwal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tehri Garhwal District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Udham Singh Nagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Udham Singh Nagar district of Uttarakhand.",
+    "location": "District Court Complex, Rudrapur, Udham Singh Nagar, Uttarakhand 263153",
+    "website": "https://districts.ecourts.gov.in/udham-singh-nagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Udham Singh Nagar District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Uttarkashi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Uttarkashi district of Uttarakhand.",
+    "location": "District Court Complex, Uttarkashi, Uttarakhand 249193",
+    "website": "https://districts.ecourts.gov.in/uttarkashi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Uttarkashi District",
+    "established": "2000"
+  }
+]

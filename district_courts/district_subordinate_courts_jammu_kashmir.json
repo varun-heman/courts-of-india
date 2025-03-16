@@ -1,0 +1,442 @@
+[
+  {
+    "name": "District and Sessions Court, Anantnag",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Anantnag district of Jammu and Kashmir.",
+    "location": "District Court Complex, Anantnag, Jammu and Kashmir 192101",
+    "website": "https://districts.ecourts.gov.in/anantnag",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Anantnag District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Bandipora",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bandipora district of Jammu and Kashmir.",
+    "location": "District Court Complex, Bandipora, Jammu and Kashmir 193502",
+    "website": "https://districts.ecourts.gov.in/bandipora",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bandipora District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Baramulla",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Baramulla district of Jammu and Kashmir.",
+    "location": "District Court Complex, Baramulla, Jammu and Kashmir 193101",
+    "website": "https://districts.ecourts.gov.in/baramulla",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Baramulla District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Budgam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Budgam district of Jammu and Kashmir.",
+    "location": "District Court Complex, Budgam, Jammu and Kashmir 191111",
+    "website": "https://districts.ecourts.gov.in/budgam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Budgam District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, Doda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Doda district of Jammu and Kashmir.",
+    "location": "District Court Complex, Doda, Jammu and Kashmir 182202",
+    "website": "https://districts.ecourts.gov.in/doda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Doda District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Ganderbal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ganderbal district of Jammu and Kashmir.",
+    "location": "District Court Complex, Ganderbal, Jammu and Kashmir 191201",
+    "website": "https://districts.ecourts.gov.in/ganderbal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ganderbal District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Jammu",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jammu district of Jammu and Kashmir.",
+    "location": "District Court Complex, Janipur, Jammu, Jammu and Kashmir 180007",
+    "website": "https://districts.ecourts.gov.in/jammu",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jammu District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Kathua",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kathua district of Jammu and Kashmir.",
+    "location": "District Court Complex, Kathua, Jammu and Kashmir 184101",
+    "website": "https://districts.ecourts.gov.in/kathua",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kathua District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Kishtwar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kishtwar district of Jammu and Kashmir.",
+    "location": "District Court Complex, Kishtwar, Jammu and Kashmir 182204",
+    "website": "https://districts.ecourts.gov.in/kishtwar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kishtwar District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Kulgam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kulgam district of Jammu and Kashmir.",
+    "location": "District Court Complex, Kulgam, Jammu and Kashmir 192231",
+    "website": "https://districts.ecourts.gov.in/kulgam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kulgam District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Kupwara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kupwara district of Jammu and Kashmir.",
+    "location": "District Court Complex, Kupwara, Jammu and Kashmir 193222",
+    "website": "https://districts.ecourts.gov.in/kupwara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kupwara District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, Pulwama",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Pulwama district of Jammu and Kashmir.",
+    "location": "District Court Complex, Pulwama, Jammu and Kashmir 192301",
+    "website": "https://districts.ecourts.gov.in/pulwama",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Pulwama District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, Poonch",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Poonch district of Jammu and Kashmir.",
+    "location": "District Court Complex, Poonch, Jammu and Kashmir 185101",
+    "website": "https://districts.ecourts.gov.in/poonch",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Poonch District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Rajouri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rajouri district of Jammu and Kashmir.",
+    "location": "District Court Complex, Rajouri, Jammu and Kashmir 185131",
+    "website": "https://districts.ecourts.gov.in/rajouri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rajouri District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Ramban",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ramban district of Jammu and Kashmir.",
+    "location": "District Court Complex, Ramban, Jammu and Kashmir 182144",
+    "website": "https://districts.ecourts.gov.in/ramban",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ramban District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Reasi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Reasi district of Jammu and Kashmir.",
+    "location": "District Court Complex, Reasi, Jammu and Kashmir 182311",
+    "website": "https://districts.ecourts.gov.in/reasi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Reasi District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Samba",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Samba district of Jammu and Kashmir.",
+    "location": "District Court Complex, Samba, Jammu and Kashmir 184121",
+    "website": "https://districts.ecourts.gov.in/samba",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Samba District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Shopian",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shopian district of Jammu and Kashmir.",
+    "location": "District Court Complex, Shopian, Jammu and Kashmir 192303",
+    "website": "https://districts.ecourts.gov.in/shopian",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shopian District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Srinagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Srinagar district of Jammu and Kashmir.",
+    "location": "District Court Complex, Srinagar, Jammu and Kashmir 190001",
+    "website": "https://districts.ecourts.gov.in/srinagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Srinagar District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Udhampur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Udhampur district of Jammu and Kashmir.",
+    "location": "District Court Complex, Udhampur, Jammu and Kashmir 182101",
+    "website": "https://districts.ecourts.gov.in/udhampur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Udhampur District",
+    "established": "1948"
+  }
+]

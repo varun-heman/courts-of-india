@@ -1,0 +1,530 @@
+[
+  {
+    "name": "District and Sessions Court, Bokaro",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bokaro district of Jharkhand.",
+    "location": "District Court Complex, Bokaro, Jharkhand 827001",
+    "website": "https://districts.ecourts.gov.in/bokaro",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bokaro District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Chatra",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chatra district of Jharkhand.",
+    "location": "District Court Complex, Chatra, Jharkhand 825401",
+    "website": "https://districts.ecourts.gov.in/chatra",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chatra District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Deoghar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Deoghar district of Jharkhand.",
+    "location": "District Court Complex, Deoghar, Jharkhand 814112",
+    "website": "https://districts.ecourts.gov.in/deoghar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Deoghar District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Dhanbad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dhanbad district of Jharkhand.",
+    "location": "District Court Complex, Dhanbad, Jharkhand 826001",
+    "website": "https://districts.ecourts.gov.in/dhanbad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dhanbad District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Dumka",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dumka district of Jharkhand.",
+    "location": "District Court Complex, Dumka, Jharkhand 814101",
+    "website": "https://districts.ecourts.gov.in/dumka",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dumka District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, East Singhbhum",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Singhbhum district of Jharkhand.",
+    "location": "District Court Complex, Jamshedpur, Jharkhand 831001",
+    "website": "https://districts.ecourts.gov.in/east-singhbhum",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Singhbhum District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Garhwa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Garhwa district of Jharkhand.",
+    "location": "District Court Complex, Garhwa, Jharkhand 822114",
+    "website": "https://districts.ecourts.gov.in/garhwa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Garhwa District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Giridih",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Giridih district of Jharkhand.",
+    "location": "District Court Complex, Giridih, Jharkhand 815301",
+    "website": "https://districts.ecourts.gov.in/giridih",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Giridih District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Godda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Godda district of Jharkhand.",
+    "location": "District Court Complex, Godda, Jharkhand 814133",
+    "website": "https://districts.ecourts.gov.in/godda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Godda District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Gumla",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gumla district of Jharkhand.",
+    "location": "District Court Complex, Gumla, Jharkhand 835207",
+    "website": "https://districts.ecourts.gov.in/gumla",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gumla District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Hazaribagh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hazaribagh district of Jharkhand.",
+    "location": "District Court Complex, Hazaribagh, Jharkhand 825301",
+    "website": "https://districts.ecourts.gov.in/hazaribagh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hazaribagh District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Jamtara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jamtara district of Jharkhand.",
+    "location": "District Court Complex, Jamtara, Jharkhand 815351",
+    "website": "https://districts.ecourts.gov.in/jamtara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jamtara District",
+    "established": "2001"
+  },
+  {
+    "name": "District and Sessions Court, Khunti",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Khunti district of Jharkhand.",
+    "location": "District Court Complex, Khunti, Jharkhand 835210",
+    "website": "https://districts.ecourts.gov.in/khunti",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Khunti District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Koderma",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Koderma district of Jharkhand.",
+    "location": "District Court Complex, Koderma, Jharkhand 825410",
+    "website": "https://districts.ecourts.gov.in/koderma",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Koderma District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Latehar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Latehar district of Jharkhand.",
+    "location": "District Court Complex, Latehar, Jharkhand 829207",
+    "website": "https://districts.ecourts.gov.in/latehar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Latehar District",
+    "established": "2001"
+  },
+  {
+    "name": "District and Sessions Court, Lohardaga",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lohardaga district of Jharkhand.",
+    "location": "District Court Complex, Lohardaga, Jharkhand 835302",
+    "website": "https://districts.ecourts.gov.in/lohardaga",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lohardaga District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Pakur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Pakur district of Jharkhand.",
+    "location": "District Court Complex, Pakur, Jharkhand 816107",
+    "website": "https://districts.ecourts.gov.in/pakur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Pakur District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Palamu",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Palamu district of Jharkhand.",
+    "location": "District Court Complex, Daltonganj, Jharkhand 822101",
+    "website": "https://districts.ecourts.gov.in/palamu",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Palamu District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Ramgarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ramgarh district of Jharkhand.",
+    "location": "District Court Complex, Ramgarh, Jharkhand 829122",
+    "website": "https://districts.ecourts.gov.in/ramgarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ramgarh District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Ranchi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ranchi district of Jharkhand.",
+    "location": "District Court Complex, Ranchi, Jharkhand 834001",
+    "website": "https://districts.ecourts.gov.in/ranchi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ranchi District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Sahebganj",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sahebganj district of Jharkhand.",
+    "location": "District Court Complex, Sahebganj, Jharkhand 816109",
+    "website": "https://districts.ecourts.gov.in/sahebganj",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sahebganj District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Seraikela-Kharsawan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Seraikela-Kharsawan district of Jharkhand.",
+    "location": "District Court Complex, Seraikela, Jharkhand 833219",
+    "website": "https://districts.ecourts.gov.in/seraikela-kharsawan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Seraikela-Kharsawan District",
+    "established": "2001"
+  },
+  {
+    "name": "District and Sessions Court, Simdega",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Simdega district of Jharkhand.",
+    "location": "District Court Complex, Simdega, Jharkhand 835223",
+    "website": "https://districts.ecourts.gov.in/simdega",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Simdega District",
+    "established": "2001"
+  },
+  {
+    "name": "District and Sessions Court, West Singhbhum",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Singhbhum district of Jharkhand.",
+    "location": "District Court Complex, Chaibasa, Jharkhand 833201",
+    "website": "https://districts.ecourts.gov.in/west-singhbhum",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Singhbhum District",
+    "established": "1956"
+  }
+]

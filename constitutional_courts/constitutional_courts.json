@@ -1,0 +1,1084 @@
+[
+  {
+    "name": "Supreme Court of India",
+    "type": "Supreme Court",
+    "description": "The highest judicial forum and final court of appeal under the Constitution of India. It has extensive original, appellate and advisory jurisdictions.",
+    "location": "Tilak Marg, New Delhi, Delhi 110001",
+    "website": "https://main.sci.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Notifications",
+      "Cause Lists",
+      "Court Rules",
+      "Case Status",
+      "Constitution Benches"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Constitutional matters",
+      "Civil appeals",
+      "Criminal appeals",
+      "Public Interest Litigation",
+      "Special Leave Petitions"
+    ],
+    "geographicalJurisdiction": "All India",
+    "established": "January 28, 1950"
+  },
+  {
+    "name": "Allahabad High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Uttar Pradesh. It's one of the oldest high courts in India.",
+    "location": "High Court Allahabad, Uttar Pradesh 211001",
+    "website": "https://www.allahabadhighcourt.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Uttar Pradesh",
+    "established": "March 17, 1866"
+  },
+  {
+    "name": "Allahabad High Court - Lucknow Bench",
+    "type": "High Court",
+    "description": "Lucknow Bench of the Allahabad High Court serving parts of Uttar Pradesh.",
+    "location": "High Court, Lucknow, Uttar Pradesh 226001",
+    "website": "https://www.allahabadhighcourt.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Lucknow Division of Uttar Pradesh",
+    "established": "1948"
+  },
+  {
+    "name": "Andhra Pradesh High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Andhra Pradesh.",
+    "location": "Nelapadu, Amaravati, Andhra Pradesh 522237",
+    "website": "https://aponline.gov.in/apportal/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Andhra Pradesh",
+    "established": "January 1, 2019"
+  },
+  {
+    "name": "Bombay High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the states of Maharashtra and Goa, and the Union Territories of Dadra and Nagar Haveli and Daman and Diu.",
+    "location": "High Court, Fort, Mumbai, Maharashtra 400032",
+    "website": "https://bombayhighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Maharashtra, Goa, Dadra and Nagar Haveli, Daman and Diu",
+    "established": "August 14, 1862"
+  },
+  {
+    "name": "Bombay High Court - Nagpur Bench",
+    "type": "High Court",
+    "description": "Nagpur Bench of the Bombay High Court serving Vidarbha region of Maharashtra.",
+    "location": "High Court, Civil Lines, Nagpur, Maharashtra 440001",
+    "website": "https://bombayhighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Vidarbha region of Maharashtra",
+    "established": "1936"
+  },
+  {
+    "name": "Bombay High Court - Aurangabad Bench",
+    "type": "High Court",
+    "description": "Aurangabad Bench of the Bombay High Court serving Marathwada region of Maharashtra.",
+    "location": "High Court, Aurangabad, Maharashtra 431001",
+    "website": "https://bombayhighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Marathwada region of Maharashtra",
+    "established": "1982"
+  },
+  {
+    "name": "Bombay High Court - Goa Bench at Panaji",
+    "type": "High Court",
+    "description": "Panaji Bench of the Bombay High Court serving the state of Goa.",
+    "location": "High Court, Panaji, Goa 403001",
+    "website": "https://bombayhighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Goa",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Goa",
+    "established": "1982"
+  },
+  {
+    "name": "Calcutta High Court",
+    "type": "High Court",
+    "description": "Oldest High Court in India, serves as the highest court of appeal in the state of West Bengal and the Union Territory of Andaman and Nicobar Islands.",
+    "location": "High Court, Kolkata, West Bengal 700001",
+    "website": "https://www.calcuttahighcourt.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "West Bengal, Andaman and Nicobar Islands",
+    "established": "July 1, 1862"
+  },
+  {
+    "name": "Calcutta High Court - Andaman and Nicobar Circuit Bench",
+    "type": "High Court",
+    "description": "Circuit Bench of the Calcutta High Court serving the Union Territory of Andaman and Nicobar Islands.",
+    "location": "Circuit Bench, Port Blair, Andaman and Nicobar Islands 744101",
+    "website": "https://www.calcuttahighcourt.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Andaman and Nicobar Islands",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Andaman and Nicobar Islands",
+    "established": "2015"
+  },
+  {
+    "name": "Calcutta High Court - Jalpaiguri Circuit Bench",
+    "type": "High Court",
+    "description": "Circuit Bench of the Calcutta High Court serving North Bengal region.",
+    "location": "Circuit Bench, Jalpaiguri, West Bengal 735101",
+    "website": "https://www.calcuttahighcourt.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "North Bengal districts",
+    "established": "2019"
+  },
+  {
+    "name": "Chhattisgarh High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Chhattisgarh.",
+    "location": "High Court, Bodri, Bilaspur, Chhattisgarh 495220",
+    "website": "https://highcourt.cg.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Chhattisgarh",
+    "established": "November 1, 2000"
+  },
+  {
+    "name": "Chhattisgarh High Court - Bilaspur Bench",
+    "type": "High Court",
+    "description": "Main bench of the Chhattisgarh High Court.",
+    "location": "High Court, Bodri, Bilaspur, Chhattisgarh 495220",
+    "website": "https://highcourt.cg.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Chhattisgarh",
+    "established": "November 1, 2000"
+  },
+  {
+    "name": "Delhi High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the National Capital Territory of Delhi.",
+    "location": "Sher Shah Road, New Delhi, Delhi 110503",
+    "website": "http://delhihighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "National Capital Territory of Delhi",
+    "established": "October 31, 1966"
+  },
+  {
+    "name": "Gauhati High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the states of Assam, Nagaland, Mizoram and Arunachal Pradesh.",
+    "location": "Gauhati High Court, Guwahati, Assam 781001",
+    "website": "https://ghconline.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Assam, Nagaland, Mizoram, Arunachal Pradesh",
+    "established": "March 1, 1948"
+  },
+  {
+    "name": "Gauhati High Court - Kohima Bench",
+    "type": "High Court",
+    "description": "Kohima Bench of the Gauhati High Court serving the state of Nagaland.",
+    "location": "High Court, Kohima, Nagaland 797001",
+    "website": "https://kohimahighcourt.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Nagaland",
+    "established": "December 1, 1972"
+  },
+  {
+    "name": "Gauhati High Court - Aizawl Bench",
+    "type": "High Court",
+    "description": "Aizawl Bench of the Gauhati High Court serving the state of Mizoram.",
+    "location": "High Court, Aizawl, Mizoram 796001",
+    "website": "https://ghconline.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Mizoram",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Mizoram",
+    "established": "July 5, 1990"
+  },
+  {
+    "name": "Gauhati High Court - Itanagar Permanent Bench",
+    "type": "High Court",
+    "description": "Itanagar Permanent Bench of the Gauhati High Court serving the state of Arunachal Pradesh.",
+    "location": "High Court, Naharlagun, Itanagar, Arunachal Pradesh 791110",
+    "website": "https://ghconline.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Arunachal Pradesh",
+    "established": "August 12, 2000"
+  },
+  {
+    "name": "Gujarat High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Gujarat.",
+    "location": "High Court, Sola, Ahmedabad, Gujarat 380060",
+    "website": "https://gujarathighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Gujarat",
+    "established": "May 1, 1960"
+  },
+  {
+    "name": "Gujarat High Court - Rajkot Bench",
+    "type": "High Court",
+    "description": "Rajkot Bench of the Gujarat High Court serving Saurashtra region.",
+    "location": "High Court, Rajkot, Gujarat 360001",
+    "website": "https://gujarathighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Saurashtra region of Gujarat",
+    "established": "2015"
+  },
+  {
+    "name": "Himachal Pradesh High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Himachal Pradesh.",
+    "location": "High Court, Shimla, Himachal Pradesh 171001",
+    "website": "https://hphighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Himachal Pradesh",
+    "established": "January 25, 1971"
+  },
+  {
+    "name": "Himachal Pradesh High Court - Dharamshala Circuit Bench",
+    "type": "High Court",
+    "description": "Circuit Bench of the Himachal Pradesh High Court at Dharamshala.",
+    "location": "Circuit Bench, Dharamshala, Himachal Pradesh 176215",
+    "website": "https://hphighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Kangra district and surrounding areas",
+    "established": "2013"
+  },
+  {
+    "name": "Jammu and Kashmir and Ladakh High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the Union Territories of Jammu and Kashmir and Ladakh.",
+    "location": "High Court, Jammu, Jammu and Kashmir 180001",
+    "website": "https://jkhighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Jammu and Kashmir, Ladakh",
+    "established": "March 26, 1928"
+  },
+  {
+    "name": "Jammu and Kashmir and Ladakh High Court - Srinagar Wing",
+    "type": "High Court",
+    "description": "Srinagar Wing of the Jammu and Kashmir and Ladakh High Court.",
+    "location": "High Court, Srinagar, Jammu and Kashmir 190001",
+    "website": "https://jkhighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Kashmir Valley",
+    "established": "March 26, 1928"
+  },
+  {
+    "name": "Jharkhand High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Jharkhand.",
+    "location": "High Court, Ranchi, Jharkhand 834002",
+    "website": "https://jharkhandhighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Jharkhand",
+    "established": "November 15, 2000"
+  },
+  {
+    "name": "Karnataka High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Karnataka.",
+    "location": "High Court, Bengaluru, Karnataka 560001",
+    "website": "https://karnatakajudiciary.kar.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Karnataka",
+    "established": "July 26, 1884"
+  },
+  {
+    "name": "Karnataka High Court - Dharwad Bench",
+    "type": "High Court",
+    "description": "Dharwad Bench of the Karnataka High Court serving North Karnataka region.",
+    "location": "High Court, Dharwad, Karnataka 580001",
+    "website": "https://karnatakajudiciary.kar.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "North Karnataka districts",
+    "established": "July 4, 2008"
+  },
+  {
+    "name": "Karnataka High Court - Kalaburagi Bench",
+    "type": "High Court",
+    "description": "Kalaburagi Bench of the Karnataka High Court serving Kalyana Karnataka region.",
+    "location": "High Court, Kalaburagi, Karnataka 585101",
+    "website": "https://karnatakajudiciary.kar.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Kalyana Karnataka districts",
+    "established": "July 31, 2013"
+  },
+  {
+    "name": "Kerala High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Kerala and the Union Territory of Lakshadweep.",
+    "location": "High Court, Ernakulam, Kochi, Kerala 682031",
+    "website": "https://highcourtofkerala.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Kerala, Lakshadweep",
+    "established": "November 1, 1956"
+  },
+  {
+    "name": "Madhya Pradesh High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Madhya Pradesh.",
+    "location": "High Court, Jabalpur, Madhya Pradesh 482001",
+    "website": "https://mphc.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Madhya Pradesh",
+    "established": "November 1, 1956"
+  },
+  {
+    "name": "Madhya Pradesh High Court - Indore Bench",
+    "type": "High Court",
+    "description": "Indore Bench of the Madhya Pradesh High Court serving Western Madhya Pradesh.",
+    "location": "High Court, Indore, Madhya Pradesh 452001",
+    "website": "https://mphc.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Western Madhya Pradesh districts",
+    "established": "1984"
+  },
+  {
+    "name": "Madhya Pradesh High Court - Gwalior Bench",
+    "type": "High Court",
+    "description": "Gwalior Bench of the Madhya Pradesh High Court serving Northern Madhya Pradesh.",
+    "location": "High Court, Gwalior, Madhya Pradesh 474001",
+    "website": "https://mphc.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Northern Madhya Pradesh districts",
+    "established": "1999"
+  },
+  {
+    "name": "Madras High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Tamil Nadu and the Union Territory of Puducherry.",
+    "location": "High Court, Chennai, Tamil Nadu 600104",
+    "website": "https://www.hcmadras.tn.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Tamil Nadu, Puducherry",
+    "established": "August 15, 1862"
+  },
+  {
+    "name": "Madras High Court - Madurai Bench",
+    "type": "High Court",
+    "description": "Madurai Bench of the Madras High Court serving Southern Tamil Nadu.",
+    "location": "High Court, Madurai, Tamil Nadu 625023",
+    "website": "https://www.hcmadras.tn.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Southern Tamil Nadu districts",
+    "established": "July 24, 2004"
+  },
+  {
+    "name": "Manipur High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Manipur.",
+    "location": "High Court, Imphal, Manipur 795001",
+    "website": "https://hcmimphal.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Manipur",
+    "established": "March 23, 2013"
+  },
+  {
+    "name": "Meghalaya High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Meghalaya.",
+    "location": "High Court, Shillong, Meghalaya 793001",
+    "website": "https://meghalayahighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Meghalaya",
+    "established": "March 23, 2013"
+  },
+  {
+    "name": "Orissa High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Odisha.",
+    "location": "High Court, Cuttack, Odisha 753002",
+    "website": "https://orissahighcourt.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Odisha",
+    "established": "April 3, 1948"
+  },
+  {
+    "name": "Patna High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Bihar.",
+    "location": "High Court, Patna, Bihar 800001",
+    "website": "https://patnahighcourt.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Bihar",
+    "established": "February 3, 1916"
+  },
+  {
+    "name": "Punjab and Haryana High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the states of Punjab, Haryana and the Union Territory of Chandigarh.",
+    "location": "High Court, Chandigarh 160001",
+    "website": "https://highcourtchd.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Punjab, Haryana, Chandigarh",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Punjab, Haryana, Chandigarh",
+    "established": "March 21, 1919"
+  },
+  {
+    "name": "Rajasthan High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Rajasthan.",
+    "location": "High Court, Jodhpur, Rajasthan 342001",
+    "website": "https://hcraj.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Rajasthan",
+    "established": "June 29, 1949"
+  },
+  {
+    "name": "Rajasthan High Court - Jaipur Bench",
+    "type": "High Court",
+    "description": "Jaipur Bench of the Rajasthan High Court.",
+    "location": "High Court, Jaipur, Rajasthan 302005",
+    "website": "https://hcraj.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Eastern Rajasthan districts",
+    "established": "1976"
+  },
+  {
+    "name": "Sikkim High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Sikkim.",
+    "location": "High Court, Gangtok, Sikkim 737101",
+    "website": "https://highcourtofsikkim.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Sikkim",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Sikkim",
+    "established": "May 16, 1975"
+  },
+  {
+    "name": "Telangana High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Telangana.",
+    "location": "High Court, Hyderabad, Telangana 500066",
+    "website": "https://tshc.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Telangana",
+    "established": "January 1, 2019"
+  },
+  {
+    "name": "Tripura High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Tripura.",
+    "location": "High Court, Agartala, Tripura 799001",
+    "website": "https://thc.nic.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Tripura",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Tripura",
+    "established": "March 23, 2013"
+  },
+  {
+    "name": "Uttarakhand High Court",
+    "type": "High Court",
+    "description": "Serves as the highest court of appeal in the state of Uttarakhand.",
+    "location": "High Court, Nainital, Uttarakhand 263001",
+    "website": "https://highcourtofuttarakhand.gov.in/",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status",
+      "Rules"
+    ],
+    "state": "Uttarakhand",
+    "caseTypes": [
+      "Civil appeals",
+      "Criminal appeals",
+      "Writ petitions",
+      "Original suits",
+      "Testamentary matters"
+    ],
+    "geographicalJurisdiction": "Uttarakhand",
+    "established": "November 9, 2000"
+  }
+]

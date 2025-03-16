@@ -1,0 +1,288 @@
+[
+  {
+    "name": "District and Sessions Court, Anantapur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Anantapur district of Andhra Pradesh.",
+    "location": "District Court Complex, Anantapur, Andhra Pradesh 515001",
+    "website": "https://districts.ecourts.gov.in/anantapur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Anantapur District",
+    "established": "1953"
+  },
+  {
+    "name": "District and Sessions Court, Chittoor",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chittoor district of Andhra Pradesh.",
+    "location": "District Court Complex, Chittoor, Andhra Pradesh 517001",
+    "website": "https://districts.ecourts.gov.in/chittoor",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chittoor District",
+    "established": "1911"
+  },
+  {
+    "name": "District and Sessions Court, East Godavari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Godavari district of Andhra Pradesh.",
+    "location": "District Court Complex, Rajahmundry, Andhra Pradesh 533101",
+    "website": "https://districts.ecourts.gov.in/east-godavari",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Godavari District",
+    "established": "1865"
+  },
+  {
+    "name": "District and Sessions Court, Guntur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Guntur district of Andhra Pradesh.",
+    "location": "District Court Complex, Guntur, Andhra Pradesh 522001",
+    "website": "https://districts.ecourts.gov.in/guntur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Guntur District",
+    "established": "1904"
+  },
+  {
+    "name": "District and Sessions Court, Krishna",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Krishna district of Andhra Pradesh.",
+    "location": "District Court Complex, Machilipatnam, Andhra Pradesh 521001",
+    "website": "https://districts.ecourts.gov.in/krishna",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Krishna District",
+    "established": "1859"
+  },
+  {
+    "name": "District and Sessions Court, Kurnool",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kurnool district of Andhra Pradesh.",
+    "location": "District Court Complex, Kurnool, Andhra Pradesh 518001",
+    "website": "https://districts.ecourts.gov.in/kurnool",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kurnool District",
+    "established": "1953"
+  },
+  {
+    "name": "District and Sessions Court, Nellore",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nellore district of Andhra Pradesh.",
+    "location": "District Court Complex, Nellore, Andhra Pradesh 524001",
+    "website": "https://districts.ecourts.gov.in/nellore",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nellore District",
+    "established": "1873"
+  },
+  {
+    "name": "District and Sessions Court, Prakasam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Prakasam district of Andhra Pradesh.",
+    "location": "District Court Complex, Ongole, Andhra Pradesh 523001",
+    "website": "https://districts.ecourts.gov.in/prakasam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Prakasam District",
+    "established": "1970"
+  },
+  {
+    "name": "District and Sessions Court, Srikakulam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Srikakulam district of Andhra Pradesh.",
+    "location": "District Court Complex, Srikakulam, Andhra Pradesh 532001",
+    "website": "https://districts.ecourts.gov.in/srikakulam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Srikakulam District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Visakhapatnam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Visakhapatnam district of Andhra Pradesh.",
+    "location": "District Court Complex, Visakhapatnam, Andhra Pradesh 530004",
+    "website": "https://districts.ecourts.gov.in/visakhapatnam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Visakhapatnam District",
+    "established": "1865"
+  },
+  {
+    "name": "District and Sessions Court, Vizianagaram",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Vizianagaram district of Andhra Pradesh.",
+    "location": "District Court Complex, Vizianagaram, Andhra Pradesh 535001",
+    "website": "https://districts.ecourts.gov.in/vizianagaram",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Vizianagaram District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, West Godavari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Godavari district of Andhra Pradesh.",
+    "location": "District Court Complex, Eluru, Andhra Pradesh 534001",
+    "website": "https://districts.ecourts.gov.in/west-godavari",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Godavari District",
+    "established": "1921"
+  },
+  {
+    "name": "District and Sessions Court, YSR Kadapa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving YSR Kadapa district of Andhra Pradesh.",
+    "location": "District Court Complex, Kadapa, Andhra Pradesh 516001",
+    "website": "https://districts.ecourts.gov.in/kadapa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "YSR Kadapa District",
+    "established": "1953"
+  }
+]

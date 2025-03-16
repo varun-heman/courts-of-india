@@ -1,0 +1,1080 @@
+[
+  {
+    "name": "District and Sessions Court, Alirajpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Alirajpur district of Madhya Pradesh.",
+    "location": "District Court Complex, Alirajpur, Madhya Pradesh 457887",
+    "website": "https://districts.ecourts.gov.in/alirajpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Alirajpur District",
+    "established": "2008"
+  },
+  {
+    "name": "District and Sessions Court, Anuppur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Anuppur district of Madhya Pradesh.",
+    "location": "District Court Complex, Anuppur, Madhya Pradesh 484224",
+    "website": "https://districts.ecourts.gov.in/anuppur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Anuppur District",
+    "established": "2003"
+  },
+  {
+    "name": "District and Sessions Court, Ashoknagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ashoknagar district of Madhya Pradesh.",
+    "location": "District Court Complex, Ashoknagar, Madhya Pradesh 473331",
+    "website": "https://districts.ecourts.gov.in/ashoknagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ashoknagar District",
+    "established": "2003"
+  },
+  {
+    "name": "District and Sessions Court, Balaghat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Balaghat district of Madhya Pradesh.",
+    "location": "District Court Complex, Balaghat, Madhya Pradesh 481001",
+    "website": "https://districts.ecourts.gov.in/balaghat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Balaghat District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Betul",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Betul district of Madhya Pradesh.",
+    "location": "District Court Complex, Betul, Madhya Pradesh 460001",
+    "website": "https://districts.ecourts.gov.in/betul",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Betul District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Bhind",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhind district of Madhya Pradesh.",
+    "location": "District Court Complex, Bhind, Madhya Pradesh 477001",
+    "website": "https://districts.ecourts.gov.in/bhind",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhind District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Bhopal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhopal district of Madhya Pradesh.",
+    "location": "District Court Complex, TT Nagar, Bhopal, Madhya Pradesh 462003",
+    "website": "https://districts.ecourts.gov.in/bhopal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhopal District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Burhanpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Burhanpur district of Madhya Pradesh.",
+    "location": "District Court Complex, Burhanpur, Madhya Pradesh 450331",
+    "website": "https://districts.ecourts.gov.in/burhanpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Burhanpur District",
+    "established": "2003"
+  },
+  {
+    "name": "District and Sessions Court, Chhatarpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chhatarpur district of Madhya Pradesh.",
+    "location": "District Court Complex, Chhatarpur, Madhya Pradesh 471001",
+    "website": "https://districts.ecourts.gov.in/chhatarpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chhatarpur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Chhindwara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chhindwara district of Madhya Pradesh.",
+    "location": "District Court Complex, Chhindwara, Madhya Pradesh 480001",
+    "website": "https://districts.ecourts.gov.in/chhindwara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chhindwara District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Damoh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Damoh district of Madhya Pradesh.",
+    "location": "District Court Complex, Damoh, Madhya Pradesh 470661",
+    "website": "https://districts.ecourts.gov.in/damoh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Damoh District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Datia",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Datia district of Madhya Pradesh.",
+    "location": "District Court Complex, Datia, Madhya Pradesh 475661",
+    "website": "https://districts.ecourts.gov.in/datia",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Datia District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Dewas",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dewas district of Madhya Pradesh.",
+    "location": "District Court Complex, Dewas, Madhya Pradesh 455001",
+    "website": "https://districts.ecourts.gov.in/dewas",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dewas District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Dhar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dhar district of Madhya Pradesh.",
+    "location": "District Court Complex, Dhar, Madhya Pradesh 454001",
+    "website": "https://districts.ecourts.gov.in/dhar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dhar District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Dindori",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dindori district of Madhya Pradesh.",
+    "location": "District Court Complex, Dindori, Madhya Pradesh 481880",
+    "website": "https://districts.ecourts.gov.in/dindori",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dindori District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Guna",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Guna district of Madhya Pradesh.",
+    "location": "District Court Complex, Guna, Madhya Pradesh 473001",
+    "website": "https://districts.ecourts.gov.in/guna",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Guna District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Gwalior",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gwalior district of Madhya Pradesh.",
+    "location": "District Court Complex, Gwalior, Madhya Pradesh 474001",
+    "website": "https://districts.ecourts.gov.in/gwalior",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gwalior District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Harda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Harda district of Madhya Pradesh.",
+    "location": "District Court Complex, Harda, Madhya Pradesh 461331",
+    "website": "https://districts.ecourts.gov.in/harda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Harda District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Hoshangabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hoshangabad district of Madhya Pradesh.",
+    "location": "District Court Complex, Hoshangabad, Madhya Pradesh 461001",
+    "website": "https://districts.ecourts.gov.in/hoshangabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hoshangabad District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Indore",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Indore district of Madhya Pradesh.",
+    "location": "District Court Complex, Indore, Madhya Pradesh 452001",
+    "website": "https://districts.ecourts.gov.in/indore",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Indore District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Jabalpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jabalpur district of Madhya Pradesh.",
+    "location": "District Court Complex, Jabalpur, Madhya Pradesh 482001",
+    "website": "https://districts.ecourts.gov.in/jabalpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jabalpur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Jhabua",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jhabua district of Madhya Pradesh.",
+    "location": "District Court Complex, Jhabua, Madhya Pradesh 457661",
+    "website": "https://districts.ecourts.gov.in/jhabua",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jhabua District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Katni",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Katni district of Madhya Pradesh.",
+    "location": "District Court Complex, Katni, Madhya Pradesh 483501",
+    "website": "https://districts.ecourts.gov.in/katni",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Katni District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Khandwa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Khandwa district of Madhya Pradesh.",
+    "location": "District Court Complex, Khandwa, Madhya Pradesh 450001",
+    "website": "https://districts.ecourts.gov.in/khandwa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Khandwa District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Khargone",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Khargone district of Madhya Pradesh.",
+    "location": "District Court Complex, Khargone, Madhya Pradesh 451001",
+    "website": "https://districts.ecourts.gov.in/khargone",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Khargone District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Mandla",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mandla district of Madhya Pradesh.",
+    "location": "District Court Complex, Mandla, Madhya Pradesh 481661",
+    "website": "https://districts.ecourts.gov.in/mandla",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mandla District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Mandsaur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mandsaur district of Madhya Pradesh.",
+    "location": "District Court Complex, Mandsaur, Madhya Pradesh 458001",
+    "website": "https://districts.ecourts.gov.in/mandsaur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mandsaur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Morena",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Morena district of Madhya Pradesh.",
+    "location": "District Court Complex, Morena, Madhya Pradesh 476001",
+    "website": "https://districts.ecourts.gov.in/morena",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Morena District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Narsinghpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Narsinghpur district of Madhya Pradesh.",
+    "location": "District Court Complex, Narsinghpur, Madhya Pradesh 487001",
+    "website": "https://districts.ecourts.gov.in/narsinghpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Narsinghpur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Neemuch",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Neemuch district of Madhya Pradesh.",
+    "location": "District Court Complex, Neemuch, Madhya Pradesh 458441",
+    "website": "https://districts.ecourts.gov.in/neemuch",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Neemuch District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Panna",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Panna district of Madhya Pradesh.",
+    "location": "District Court Complex, Panna, Madhya Pradesh 488001",
+    "website": "https://districts.ecourts.gov.in/panna",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Panna District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Raisen",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Raisen district of Madhya Pradesh.",
+    "location": "District Court Complex, Raisen, Madhya Pradesh 464551",
+    "website": "https://districts.ecourts.gov.in/raisen",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Raisen District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Rajgarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rajgarh district of Madhya Pradesh.",
+    "location": "District Court Complex, Rajgarh, Madhya Pradesh 465661",
+    "website": "https://districts.ecourts.gov.in/rajgarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rajgarh District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Ratlam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ratlam district of Madhya Pradesh.",
+    "location": "District Court Complex, Ratlam, Madhya Pradesh 457001",
+    "website": "https://districts.ecourts.gov.in/ratlam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ratlam District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Rewa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rewa district of Madhya Pradesh.",
+    "location": "District Court Complex, Rewa, Madhya Pradesh 486001",
+    "website": "https://districts.ecourts.gov.in/rewa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rewa District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Sagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sagar district of Madhya Pradesh.",
+    "location": "District Court Complex, Sagar, Madhya Pradesh 470001",
+    "website": "https://districts.ecourts.gov.in/sagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sagar District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Satna",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Satna district of Madhya Pradesh.",
+    "location": "District Court Complex, Satna, Madhya Pradesh 485001",
+    "website": "https://districts.ecourts.gov.in/satna",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Satna District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Sehore",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sehore district of Madhya Pradesh.",
+    "location": "District Court Complex, Sehore, Madhya Pradesh 466001",
+    "website": "https://districts.ecourts.gov.in/sehore",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sehore District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Seoni",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Seoni district of Madhya Pradesh.",
+    "location": "District Court Complex, Seoni, Madhya Pradesh 480661",
+    "website": "https://districts.ecourts.gov.in/seoni",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Seoni District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Shahdol",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shahdol district of Madhya Pradesh.",
+    "location": "District Court Complex, Shahdol, Madhya Pradesh 484001",
+    "website": "https://districts.ecourts.gov.in/shahdol",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shahdol District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Shajapur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shajapur district of Madhya Pradesh.",
+    "location": "District Court Complex, Shajapur, Madhya Pradesh 465001",
+    "website": "https://districts.ecourts.gov.in/shajapur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shajapur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Sheopur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sheopur district of Madhya Pradesh.",
+    "location": "District Court Complex, Sheopur, Madhya Pradesh 476337",
+    "website": "https://districts.ecourts.gov.in/sheopur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sheopur District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Shivpuri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shivpuri district of Madhya Pradesh.",
+    "location": "District Court Complex, Shivpuri, Madhya Pradesh 473551",
+    "website": "https://districts.ecourts.gov.in/shivpuri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shivpuri District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Sidhi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sidhi district of Madhya Pradesh.",
+    "location": "District Court Complex, Sidhi, Madhya Pradesh 486661",
+    "website": "https://districts.ecourts.gov.in/sidhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sidhi District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Singrauli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Singrauli district of Madhya Pradesh.",
+    "location": "District Court Complex, Singrauli, Madhya Pradesh 486889",
+    "website": "https://districts.ecourts.gov.in/singrauli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Singrauli District",
+    "established": "2008"
+  },
+  {
+    "name": "District and Sessions Court, Tikamgarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tikamgarh district of Madhya Pradesh.",
+    "location": "District Court Complex, Tikamgarh, Madhya Pradesh 472001",
+    "website": "https://districts.ecourts.gov.in/tikamgarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tikamgarh District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Ujjain",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ujjain district of Madhya Pradesh.",
+    "location": "District Court Complex, Ujjain, Madhya Pradesh 456001",
+    "website": "https://districts.ecourts.gov.in/ujjain",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ujjain District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Umaria",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Umaria district of Madhya Pradesh.",
+    "location": "District Court Complex, Umaria, Madhya Pradesh 484661",
+    "website": "https://districts.ecourts.gov.in/umaria",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Umaria District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Vidisha",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Vidisha district of Madhya Pradesh.",
+    "location": "District Court Complex, Vidisha, Madhya Pradesh 464001",
+    "website": "https://districts.ecourts.gov.in/vidisha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Madhya Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Vidisha District",
+    "established": "1956"
+  }
+]

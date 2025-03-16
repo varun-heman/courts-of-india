@@ -1,0 +1,618 @@
+[
+  {
+    "name": "District and Sessions Court, Bagalkot",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bagalkot district of Karnataka.",
+    "location": "District Court Complex, Bagalkot, Karnataka 587101",
+    "website": "https://districts.ecourts.gov.in/bagalkot",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bagalkot District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Bangalore Rural",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bangalore Rural district of Karnataka.",
+    "location": "District Court Complex, Bangalore Rural, Karnataka 562123",
+    "website": "https://districts.ecourts.gov.in/bangalore-rural",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bangalore Rural District",
+    "established": "1986"
+  },
+  {
+    "name": "District and Sessions Court, Bangalore Urban",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bangalore Urban district of Karnataka.",
+    "location": "City Civil Court Complex, Mayo Hall, Bangalore, Karnataka 560001",
+    "website": "https://districts.ecourts.gov.in/bangalore",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bangalore Urban District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Belgaum",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Belgaum district of Karnataka.",
+    "location": "District Court Complex, Belgaum, Karnataka 590001",
+    "website": "https://districts.ecourts.gov.in/belgaum",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Belgaum District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Bellary",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bellary district of Karnataka.",
+    "location": "District Court Complex, Bellary, Karnataka 583101",
+    "website": "https://districts.ecourts.gov.in/bellary",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bellary District",
+    "established": "1953"
+  },
+  {
+    "name": "District and Sessions Court, Bidar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bidar district of Karnataka.",
+    "location": "District Court Complex, Bidar, Karnataka 585401",
+    "website": "https://districts.ecourts.gov.in/bidar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bidar District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Bijapur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bijapur district of Karnataka.",
+    "location": "District Court Complex, Bijapur, Karnataka 586101",
+    "website": "https://districts.ecourts.gov.in/bijapur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bijapur District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Chamarajanagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chamarajanagar district of Karnataka.",
+    "location": "District Court Complex, Chamarajanagar, Karnataka 571313",
+    "website": "https://districts.ecourts.gov.in/chamarajanagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chamarajanagar District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Chickmagalur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chickmagalur district of Karnataka.",
+    "location": "District Court Complex, Chickmagalur, Karnataka 577101",
+    "website": "https://districts.ecourts.gov.in/chickmagalur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chickmagalur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Chitradurga",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chitradurga district of Karnataka.",
+    "location": "District Court Complex, Chitradurga, Karnataka 577501",
+    "website": "https://districts.ecourts.gov.in/chitradurga",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chitradurga District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Dakshina Kannada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dakshina Kannada district of Karnataka.",
+    "location": "District Court Complex, Mangalore, Karnataka 575001",
+    "website": "https://districts.ecourts.gov.in/dakshina-kannada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dakshina Kannada District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Davangere",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Davangere district of Karnataka.",
+    "location": "District Court Complex, Davangere, Karnataka 577002",
+    "website": "https://districts.ecourts.gov.in/davangere",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Davangere District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Dharwad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dharwad district of Karnataka.",
+    "location": "District Court Complex, Dharwad, Karnataka 580001",
+    "website": "https://districts.ecourts.gov.in/dharwad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dharwad District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Gadag",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gadag district of Karnataka.",
+    "location": "District Court Complex, Gadag, Karnataka 582101",
+    "website": "https://districts.ecourts.gov.in/gadag",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gadag District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Gulbarga",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gulbarga district of Karnataka.",
+    "location": "District Court Complex, Gulbarga, Karnataka 585101",
+    "website": "https://districts.ecourts.gov.in/gulbarga",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gulbarga District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Hassan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hassan district of Karnataka.",
+    "location": "District Court Complex, Hassan, Karnataka 573201",
+    "website": "https://districts.ecourts.gov.in/hassan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hassan District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Haveri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Haveri district of Karnataka.",
+    "location": "District Court Complex, Haveri, Karnataka 581110",
+    "website": "https://districts.ecourts.gov.in/haveri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Haveri District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Kodagu",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kodagu district of Karnataka.",
+    "location": "District Court Complex, Madikeri, Karnataka 571201",
+    "website": "https://districts.ecourts.gov.in/kodagu",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kodagu District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Kolar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kolar district of Karnataka.",
+    "location": "District Court Complex, Kolar, Karnataka 563101",
+    "website": "https://districts.ecourts.gov.in/kolar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kolar District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Koppal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Koppal district of Karnataka.",
+    "location": "District Court Complex, Koppal, Karnataka 583231",
+    "website": "https://districts.ecourts.gov.in/koppal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Koppal District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Mandya",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mandya district of Karnataka.",
+    "location": "District Court Complex, Mandya, Karnataka 571401",
+    "website": "https://districts.ecourts.gov.in/mandya",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mandya District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Mysore",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mysore district of Karnataka.",
+    "location": "District Court Complex, Mysore, Karnataka 570001",
+    "website": "https://districts.ecourts.gov.in/mysore",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mysore District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Raichur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Raichur district of Karnataka.",
+    "location": "District Court Complex, Raichur, Karnataka 584101",
+    "website": "https://districts.ecourts.gov.in/raichur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Raichur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Ramanagara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ramanagara district of Karnataka.",
+    "location": "District Court Complex, Ramanagara, Karnataka 562159",
+    "website": "https://districts.ecourts.gov.in/ramanagara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ramanagara District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Shimoga",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shimoga district of Karnataka.",
+    "location": "District Court Complex, Shimoga, Karnataka 577201",
+    "website": "https://districts.ecourts.gov.in/shimoga",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shimoga District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Tumkur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tumkur district of Karnataka.",
+    "location": "District Court Complex, Tumkur, Karnataka 572101",
+    "website": "https://districts.ecourts.gov.in/tumkur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tumkur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Udupi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Udupi district of Karnataka.",
+    "location": "District Court Complex, Udupi, Karnataka 576101",
+    "website": "https://districts.ecourts.gov.in/udupi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Udupi District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Uttara Kannada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Uttara Kannada district of Karnataka.",
+    "location": "District Court Complex, Karwar, Karnataka 581301",
+    "website": "https://districts.ecourts.gov.in/uttara-kannada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Uttara Kannada District",
+    "established": "1956"
+  }
+]

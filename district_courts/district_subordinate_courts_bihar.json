@@ -1,0 +1,838 @@
+[
+  {
+    "name": "District and Sessions Court, Araria",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Araria district of Bihar.",
+    "location": "District Court Complex, Araria, Bihar 854311",
+    "website": "https://districts.ecourts.gov.in/araria",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Araria District",
+    "established": "1990"
+  },
+  {
+    "name": "District and Sessions Court, Arwal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Arwal district of Bihar.",
+    "location": "District Court Complex, Arwal, Bihar 804419",
+    "website": "https://districts.ecourts.gov.in/arwal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Arwal District",
+    "established": "2001"
+  },
+  {
+    "name": "District and Sessions Court, Aurangabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Aurangabad district of Bihar.",
+    "location": "District Court Complex, Aurangabad, Bihar 824101",
+    "website": "https://districts.ecourts.gov.in/aurangabad-bihar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Aurangabad District",
+    "established": "1973"
+  },
+  {
+    "name": "District and Sessions Court, Banka",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Banka district of Bihar.",
+    "location": "District Court Complex, Banka, Bihar 813102",
+    "website": "https://districts.ecourts.gov.in/banka",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Banka District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Begusarai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Begusarai district of Bihar.",
+    "location": "District Court Complex, Begusarai, Bihar 851101",
+    "website": "https://districts.ecourts.gov.in/begusarai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Begusarai District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Bhagalpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhagalpur district of Bihar.",
+    "location": "District Court Complex, Bhagalpur, Bihar 812001",
+    "website": "https://districts.ecourts.gov.in/bhagalpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhagalpur District",
+    "established": "1864"
+  },
+  {
+    "name": "District and Sessions Court, Bhojpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhojpur district of Bihar.",
+    "location": "District Court Complex, Arrah, Bihar 802301",
+    "website": "https://districts.ecourts.gov.in/bhojpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhojpur District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Buxar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Buxar district of Bihar.",
+    "location": "District Court Complex, Buxar, Bihar 802101",
+    "website": "https://districts.ecourts.gov.in/buxar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Buxar District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Darbhanga",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Darbhanga district of Bihar.",
+    "location": "District Court Complex, Darbhanga, Bihar 846004",
+    "website": "https://districts.ecourts.gov.in/darbhanga",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Darbhanga District",
+    "established": "1875"
+  },
+  {
+    "name": "District and Sessions Court, East Champaran",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Champaran district of Bihar.",
+    "location": "District Court Complex, Motihari, Bihar 845401",
+    "website": "https://districts.ecourts.gov.in/east-champaran",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Champaran District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Gaya",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gaya district of Bihar.",
+    "location": "District Court Complex, Gaya, Bihar 823001",
+    "website": "https://districts.ecourts.gov.in/gaya",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gaya District",
+    "established": "1865"
+  },
+  {
+    "name": "District and Sessions Court, Gopalganj",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gopalganj district of Bihar.",
+    "location": "District Court Complex, Gopalganj, Bihar 841428",
+    "website": "https://districts.ecourts.gov.in/gopalganj",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gopalganj District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Jamui",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jamui district of Bihar.",
+    "location": "District Court Complex, Jamui, Bihar 811307",
+    "website": "https://districts.ecourts.gov.in/jamui",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jamui District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Jehanabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jehanabad district of Bihar.",
+    "location": "District Court Complex, Jehanabad, Bihar 804408",
+    "website": "https://districts.ecourts.gov.in/jehanabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jehanabad District",
+    "established": "1986"
+  },
+  {
+    "name": "District and Sessions Court, Kaimur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kaimur district of Bihar.",
+    "location": "District Court Complex, Bhabua, Bihar 821101",
+    "website": "https://districts.ecourts.gov.in/kaimur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kaimur District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Katihar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Katihar district of Bihar.",
+    "location": "District Court Complex, Katihar, Bihar 854105",
+    "website": "https://districts.ecourts.gov.in/katihar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Katihar District",
+    "established": "1973"
+  },
+  {
+    "name": "District and Sessions Court, Khagaria",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Khagaria district of Bihar.",
+    "location": "District Court Complex, Khagaria, Bihar 851204",
+    "website": "https://districts.ecourts.gov.in/khagaria",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Khagaria District",
+    "established": "1981"
+  },
+  {
+    "name": "District and Sessions Court, Kishanganj",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kishanganj district of Bihar.",
+    "location": "District Court Complex, Kishanganj, Bihar 855107",
+    "website": "https://districts.ecourts.gov.in/kishanganj",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kishanganj District",
+    "established": "1990"
+  },
+  {
+    "name": "District and Sessions Court, Lakhisarai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lakhisarai district of Bihar.",
+    "location": "District Court Complex, Lakhisarai, Bihar 811311",
+    "website": "https://districts.ecourts.gov.in/lakhisarai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lakhisarai District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Madhepura",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Madhepura district of Bihar.",
+    "location": "District Court Complex, Madhepura, Bihar 852113",
+    "website": "https://districts.ecourts.gov.in/madhepura",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Madhepura District",
+    "established": "1981"
+  },
+  {
+    "name": "District and Sessions Court, Madhubani",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Madhubani district of Bihar.",
+    "location": "District Court Complex, Madhubani, Bihar 847211",
+    "website": "https://districts.ecourts.gov.in/madhubani",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Madhubani District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Munger",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Munger district of Bihar.",
+    "location": "District Court Complex, Munger, Bihar 811201",
+    "website": "https://districts.ecourts.gov.in/munger",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Munger District",
+    "established": "1832"
+  },
+  {
+    "name": "District and Sessions Court, Muzaffarpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Muzaffarpur district of Bihar.",
+    "location": "District Court Complex, Muzaffarpur, Bihar 842001",
+    "website": "https://districts.ecourts.gov.in/muzaffarpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Muzaffarpur District",
+    "established": "1875"
+  },
+  {
+    "name": "District and Sessions Court, Nalanda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nalanda district of Bihar.",
+    "location": "District Court Complex, Bihar Sharif, Bihar 803101",
+    "website": "https://districts.ecourts.gov.in/nalanda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nalanda District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Nawada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nawada district of Bihar.",
+    "location": "District Court Complex, Nawada, Bihar 805110",
+    "website": "https://districts.ecourts.gov.in/nawada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nawada District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Patna",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Patna district of Bihar.",
+    "location": "District Court Complex, Patna, Bihar 800001",
+    "website": "https://districts.ecourts.gov.in/patna",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Patna District",
+    "established": "1857"
+  },
+  {
+    "name": "District and Sessions Court, Purnia",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Purnia district of Bihar.",
+    "location": "District Court Complex, Purnia, Bihar 854301",
+    "website": "https://districts.ecourts.gov.in/purnia",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Purnia District",
+    "established": "1872"
+  },
+  {
+    "name": "District and Sessions Court, Rohtas",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rohtas district of Bihar.",
+    "location": "District Court Complex, Sasaram, Bihar 821115",
+    "website": "https://districts.ecourts.gov.in/rohtas",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rohtas District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Saharsa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Saharsa district of Bihar.",
+    "location": "District Court Complex, Saharsa, Bihar 852201",
+    "website": "https://districts.ecourts.gov.in/saharsa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Saharsa District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Samastipur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Samastipur district of Bihar.",
+    "location": "District Court Complex, Samastipur, Bihar 848101",
+    "website": "https://districts.ecourts.gov.in/samastipur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Samastipur District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Saran",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Saran district of Bihar.",
+    "location": "District Court Complex, Chapra, Bihar 841301",
+    "website": "https://districts.ecourts.gov.in/saran",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Saran District",
+    "established": "1872"
+  },
+  {
+    "name": "District and Sessions Court, Sheikhpura",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sheikhpura district of Bihar.",
+    "location": "District Court Complex, Sheikhpura, Bihar 811105",
+    "website": "https://districts.ecourts.gov.in/sheikhpura",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sheikhpura District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Sheohar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sheohar district of Bihar.",
+    "location": "District Court Complex, Sheohar, Bihar 843329",
+    "website": "https://districts.ecourts.gov.in/sheohar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sheohar District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Sitamarhi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sitamarhi district of Bihar.",
+    "location": "District Court Complex, Sitamarhi, Bihar 843302",
+    "website": "https://districts.ecourts.gov.in/sitamarhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sitamarhi District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Siwan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Siwan district of Bihar.",
+    "location": "District Court Complex, Siwan, Bihar 841226",
+    "website": "https://districts.ecourts.gov.in/siwan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Siwan District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Supaul",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Supaul district of Bihar.",
+    "location": "District Court Complex, Supaul, Bihar 852131",
+    "website": "https://districts.ecourts.gov.in/supaul",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Supaul District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Vaishali",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Vaishali district of Bihar.",
+    "location": "District Court Complex, Hajipur, Bihar 844101",
+    "website": "https://districts.ecourts.gov.in/vaishali",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Vaishali District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, West Champaran",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Champaran district of Bihar.",
+    "location": "District Court Complex, Bettiah, Bihar 845438",
+    "website": "https://districts.ecourts.gov.in/west-champaran",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Champaran District",
+    "established": "1866"
+  }
+]

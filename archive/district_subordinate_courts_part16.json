@@ -1,0 +1,376 @@
+[
+  {
+    "name": "District and Sessions Court, Adilabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Adilabad district of Telangana.",
+    "location": "District Court Complex, Adilabad, Telangana 504001",
+    "website": "https://districts.ecourts.gov.in/adilabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Adilabad District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Bhadradri Kothagudem",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhadradri Kothagudem district of Telangana.",
+    "location": "District Court Complex, Kothagudem, Telangana 507101",
+    "website": "https://districts.ecourts.gov.in/bhadradri-kothagudem",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhadradri Kothagudem District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Hyderabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hyderabad district of Telangana.",
+    "location": "City Civil Court Complex, Hyderabad, Telangana 500001",
+    "website": "https://districts.ecourts.gov.in/hyderabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hyderabad District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Jagtial",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jagtial district of Telangana.",
+    "location": "District Court Complex, Jagtial, Telangana 505327",
+    "website": "https://districts.ecourts.gov.in/jagtial",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jagtial District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Jangaon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jangaon district of Telangana.",
+    "location": "District Court Complex, Jangaon, Telangana 506167",
+    "website": "https://districts.ecourts.gov.in/jangaon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jangaon District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Jayashankar Bhupalpally",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jayashankar Bhupalpally district of Telangana.",
+    "location": "District Court Complex, Bhupalpally, Telangana 506169",
+    "website": "https://districts.ecourts.gov.in/jayashankar-bhupalpally",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jayashankar Bhupalpally District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Jogulamba Gadwal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jogulamba Gadwal district of Telangana.",
+    "location": "District Court Complex, Gadwal, Telangana 509125",
+    "website": "https://districts.ecourts.gov.in/jogulamba-gadwal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jogulamba Gadwal District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Kamareddy",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kamareddy district of Telangana.",
+    "location": "District Court Complex, Kamareddy, Telangana 503111",
+    "website": "https://districts.ecourts.gov.in/kamareddy",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kamareddy District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Karimnagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Karimnagar district of Telangana.",
+    "location": "District Court Complex, Karimnagar, Telangana 505001",
+    "website": "https://districts.ecourts.gov.in/karimnagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Karimnagar District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Khammam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Khammam district of Telangana.",
+    "location": "District Court Complex, Khammam, Telangana 507001",
+    "website": "https://districts.ecourts.gov.in/khammam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Khammam District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Kumuram Bheem Asifabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kumuram Bheem Asifabad district of Telangana.",
+    "location": "District Court Complex, Asifabad, Telangana 504293",
+    "website": "https://districts.ecourts.gov.in/kumuram-bheem-asifabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kumuram Bheem Asifabad District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Mahabubabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mahabubabad district of Telangana.",
+    "location": "District Court Complex, Mahabubabad, Telangana 506101",
+    "website": "https://districts.ecourts.gov.in/mahabubabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mahabubabad District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Mahabubnagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mahabubnagar district of Telangana.",
+    "location": "District Court Complex, Mahabubnagar, Telangana 509001",
+    "website": "https://districts.ecourts.gov.in/mahabubnagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mahabubnagar District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Mancherial",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mancherial district of Telangana.",
+    "location": "District Court Complex, Mancherial, Telangana 504208",
+    "website": "https://districts.ecourts.gov.in/mancherial",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mancherial District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Medak",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Medak district of Telangana.",
+    "location": "District Court Complex, Medak, Telangana 502110",
+    "website": "https://districts.ecourts.gov.in/medak",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Medak District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Medchal-Malkajgiri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Medchal-Malkajgiri district of Telangana.",
+    "location": "District Court Complex, Medchal, Telangana 501401",
+    "website": "https://districts.ecourts.gov.in/medchal-malkajgiri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Medchal-Malkajgiri District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Mulugu",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mulugu district of Telangana.",
+    "location": "District Court Complex, Mulugu, Telangana 506343",
+    "website": "https://districts.ecourts.gov.in/mulugu",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mulugu District",
+    "established": "2019"
+  }
+]

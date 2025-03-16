@@ -1,0 +1,222 @@
+[
+  {
+    "name": "District and Sessions Court, Sant Kabir Nagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sant Kabir Nagar district of Uttar Pradesh.",
+    "location": "District Court Complex, Khalilabad, Sant Kabir Nagar, Uttar Pradesh 272175",
+    "website": "https://districts.ecourts.gov.in/sant-kabir-nagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sant Kabir Nagar District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Shahjahanpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shahjahanpur district of Uttar Pradesh.",
+    "location": "District Court Complex, Shahjahanpur, Uttar Pradesh 242001",
+    "website": "https://districts.ecourts.gov.in/shahjahanpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shahjahanpur District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Shamli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shamli district of Uttar Pradesh.",
+    "location": "District Court Complex, Shamli, Uttar Pradesh 247776",
+    "website": "https://districts.ecourts.gov.in/shamli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shamli District",
+    "established": "2011"
+  },
+  {
+    "name": "District and Sessions Court, Shravasti",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shravasti district of Uttar Pradesh.",
+    "location": "District Court Complex, Bhinga, Shravasti, Uttar Pradesh 271831",
+    "website": "https://districts.ecourts.gov.in/shravasti",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shravasti District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Siddharthnagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Siddharthnagar district of Uttar Pradesh.",
+    "location": "District Court Complex, Navgarh, Siddharthnagar, Uttar Pradesh 272207",
+    "website": "https://districts.ecourts.gov.in/siddharthnagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Siddharthnagar District",
+    "established": "1988"
+  },
+  {
+    "name": "District and Sessions Court, Sitapur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sitapur district of Uttar Pradesh.",
+    "location": "District Court Complex, Sitapur, Uttar Pradesh 261001",
+    "website": "https://districts.ecourts.gov.in/sitapur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sitapur District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Sonbhadra",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sonbhadra district of Uttar Pradesh.",
+    "location": "District Court Complex, Robertsganj, Sonbhadra, Uttar Pradesh 231216",
+    "website": "https://districts.ecourts.gov.in/sonbhadra",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sonbhadra District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Sultanpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sultanpur district of Uttar Pradesh.",
+    "location": "District Court Complex, Sultanpur, Uttar Pradesh 228001",
+    "website": "https://districts.ecourts.gov.in/sultanpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sultanpur District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Unnao",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Unnao district of Uttar Pradesh.",
+    "location": "District Court Complex, Unnao, Uttar Pradesh 209801",
+    "website": "https://districts.ecourts.gov.in/unnao",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Unnao District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Varanasi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Varanasi district of Uttar Pradesh.",
+    "location": "District Court Complex, Varanasi, Uttar Pradesh 221001",
+    "website": "https://districts.ecourts.gov.in/varanasi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Varanasi District",
+    "established": "1950"
+  }
+]

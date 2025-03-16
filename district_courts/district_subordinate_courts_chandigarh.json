@@ -1,0 +1,152 @@
+[
+  {
+    "name": "District and Sessions Court, Chandigarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving the Union Territory of Chandigarh.",
+    "location": "District Court Complex, Sector 43, Chandigarh 160022",
+    "website": "https://districts.ecourts.gov.in/chandigarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chandigarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Entire Union Territory of Chandigarh",
+    "established": "1966"
+  },
+  {
+    "name": "Chief Judicial Magistrate Court, Chandigarh",
+    "type": "Subordinate Court",
+    "description": "Chief Judicial Magistrate Court serving Chandigarh.",
+    "location": "District Court Complex, Sector 43, Chandigarh 160022",
+    "website": "https://districts.ecourts.gov.in/chandigarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chandigarh",
+    "caseTypes": [
+      "Criminal cases",
+      "Summary trials",
+      "Petty offenses"
+    ],
+    "geographicalJurisdiction": "Entire Union Territory of Chandigarh",
+    "established": "1966"
+  },
+  {
+    "name": "Civil Judge (Senior Division) Court, Chandigarh",
+    "type": "Subordinate Court",
+    "description": "Civil Judge (Senior Division) Court serving Chandigarh.",
+    "location": "District Court Complex, Sector 43, Chandigarh 160022",
+    "website": "https://districts.ecourts.gov.in/chandigarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chandigarh",
+    "caseTypes": [
+      "Civil suits",
+      "Rent cases",
+      "Family disputes",
+      "Property matters"
+    ],
+    "geographicalJurisdiction": "Entire Union Territory of Chandigarh",
+    "established": "1966"
+  },
+  {
+    "name": "Civil Judge (Junior Division) Court, Chandigarh",
+    "type": "Subordinate Court",
+    "description": "Civil Judge (Junior Division) Court serving Chandigarh.",
+    "location": "District Court Complex, Sector 43, Chandigarh 160022",
+    "website": "https://districts.ecourts.gov.in/chandigarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chandigarh",
+    "caseTypes": [
+      "Civil suits of lower value",
+      "Small causes",
+      "Minor disputes"
+    ],
+    "geographicalJurisdiction": "Entire Union Territory of Chandigarh",
+    "established": "1966"
+  },
+  {
+    "name": "Special Court for Economic Offences, Chandigarh",
+    "type": "Special Court",
+    "description": "Special Court dealing with economic offences in Chandigarh.",
+    "location": "District Court Complex, Sector 43, Chandigarh 160022",
+    "website": "https://districts.ecourts.gov.in/chandigarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chandigarh",
+    "caseTypes": [
+      "Economic offences",
+      "Financial frauds",
+      "Tax evasion cases"
+    ],
+    "geographicalJurisdiction": "Entire Union Territory of Chandigarh",
+    "established": "1992"
+  },
+  {
+    "name": "Family Court, Chandigarh",
+    "type": "Special Court",
+    "description": "Family Court dealing with matrimonial and family matters in Chandigarh.",
+    "location": "District Court Complex, Sector 43, Chandigarh 160022",
+    "website": "https://districts.ecourts.gov.in/chandigarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chandigarh",
+    "caseTypes": [
+      "Divorce cases",
+      "Maintenance applications",
+      "Child custody disputes",
+      "Matrimonial matters"
+    ],
+    "geographicalJurisdiction": "Entire Union Territory of Chandigarh",
+    "established": "1988"
+  },
+  {
+    "name": "Special Court for NDPS Cases, Chandigarh",
+    "type": "Special Court",
+    "description": "Special Court dealing with cases under the Narcotic Drugs and Psychotropic Substances Act in Chandigarh.",
+    "location": "District Court Complex, Sector 43, Chandigarh 160022",
+    "website": "https://districts.ecourts.gov.in/chandigarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chandigarh",
+    "caseTypes": [
+      "Drug trafficking cases",
+      "Possession of narcotic substances",
+      "NDPS Act violations"
+    ],
+    "geographicalJurisdiction": "Entire Union Territory of Chandigarh",
+    "established": "1989"
+  }
+]

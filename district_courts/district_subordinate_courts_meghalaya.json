@@ -1,0 +1,266 @@
+[
+  {
+    "name": "District and Sessions Court, East Khasi Hills",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Khasi Hills district of Meghalaya.",
+    "location": "District Court Complex, Shillong, East Khasi Hills, Meghalaya 793001",
+    "website": "https://districts.ecourts.gov.in/east-khasi-hills",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Khasi Hills District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, West Khasi Hills",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Khasi Hills district of Meghalaya.",
+    "location": "District Court Complex, Nongstoin, West Khasi Hills, Meghalaya 793119",
+    "website": "https://districts.ecourts.gov.in/west-khasi-hills",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Khasi Hills District",
+    "established": "1976"
+  },
+  {
+    "name": "District and Sessions Court, South West Khasi Hills",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving South West Khasi Hills district of Meghalaya.",
+    "location": "District Court Complex, Mawkyrwat, South West Khasi Hills, Meghalaya 793114",
+    "website": "https://districts.ecourts.gov.in/south-west-khasi-hills",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "South West Khasi Hills District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, East Jaintia Hills",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Jaintia Hills district of Meghalaya.",
+    "location": "District Court Complex, Khliehriat, East Jaintia Hills, Meghalaya 793200",
+    "website": "https://districts.ecourts.gov.in/east-jaintia-hills",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Jaintia Hills District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, West Jaintia Hills",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Jaintia Hills district of Meghalaya.",
+    "location": "District Court Complex, Jowai, West Jaintia Hills, Meghalaya 793150",
+    "website": "https://districts.ecourts.gov.in/west-jaintia-hills",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Jaintia Hills District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Ri-Bhoi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ri-Bhoi district of Meghalaya.",
+    "location": "District Court Complex, Nongpoh, Ri-Bhoi, Meghalaya 793102",
+    "website": "https://districts.ecourts.gov.in/ri-bhoi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ri-Bhoi District",
+    "established": "1992"
+  },
+  {
+    "name": "District and Sessions Court, West Garo Hills",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Garo Hills district of Meghalaya.",
+    "location": "District Court Complex, Tura, West Garo Hills, Meghalaya 794001",
+    "website": "https://districts.ecourts.gov.in/west-garo-hills",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Garo Hills District",
+    "established": "1976"
+  },
+  {
+    "name": "District and Sessions Court, East Garo Hills",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Garo Hills district of Meghalaya.",
+    "location": "District Court Complex, Williamnagar, East Garo Hills, Meghalaya 794111",
+    "website": "https://districts.ecourts.gov.in/east-garo-hills",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Garo Hills District",
+    "established": "1976"
+  },
+  {
+    "name": "District and Sessions Court, South Garo Hills",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving South Garo Hills district of Meghalaya.",
+    "location": "District Court Complex, Baghmara, South Garo Hills, Meghalaya 794102",
+    "website": "https://districts.ecourts.gov.in/south-garo-hills",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "South Garo Hills District",
+    "established": "1992"
+  },
+  {
+    "name": "District and Sessions Court, North Garo Hills",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving North Garo Hills district of Meghalaya.",
+    "location": "District Court Complex, Resubelpara, North Garo Hills, Meghalaya 794108",
+    "website": "https://districts.ecourts.gov.in/north-garo-hills",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "North Garo Hills District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, South West Garo Hills",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving South West Garo Hills district of Meghalaya.",
+    "location": "District Court Complex, Ampati, South West Garo Hills, Meghalaya 794115",
+    "website": "https://districts.ecourts.gov.in/south-west-garo-hills",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "South West Garo Hills District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Eastern West Khasi Hills",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Eastern West Khasi Hills district of Meghalaya.",
+    "location": "District Court Complex, Mairang, Eastern West Khasi Hills, Meghalaya 793120",
+    "website": "https://districts.ecourts.gov.in/eastern-west-khasi-hills",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Meghalaya",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Eastern West Khasi Hills District",
+    "established": "2021"
+  }
+]

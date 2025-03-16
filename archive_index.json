@@ -1,0 +1,111 @@
+{
+  "archive": {
+    "description": "Contains the original part files used to create the organized state-wise court files",
+    "files": [
+      {
+        "filename": "district_subordinate_courts_part1.json",
+        "description": "Original file containing district courts for Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chhattisgarh, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir, Jharkhand, Karnataka"
+      },
+      {
+        "filename": "district_subordinate_courts_part2.json",
+        "description": "Original file containing district courts for Kerala, Ladakh, Madhya Pradesh"
+      },
+      {
+        "filename": "district_subordinate_courts_part3.json",
+        "description": "Original file containing district courts for Maharashtra"
+      },
+      {
+        "filename": "district_subordinate_courts_part4.json",
+        "description": "Original file containing district courts for Manipur"
+      },
+      {
+        "filename": "district_subordinate_courts_part5.json",
+        "description": "Original file containing district courts for Meghalaya"
+      },
+      {
+        "filename": "district_subordinate_courts_part6.json",
+        "description": "Original file containing district courts for Mizoram"
+      },
+      {
+        "filename": "district_subordinate_courts_part7.json",
+        "description": "Original file containing district courts for Nagaland"
+      },
+      {
+        "filename": "district_subordinate_courts_part8.json",
+        "description": "Original file containing district courts for Odisha (part 1)"
+      },
+      {
+        "filename": "district_subordinate_courts_part9.json",
+        "description": "Original file containing district courts for Odisha (part 2)"
+      },
+      {
+        "filename": "district_subordinate_courts_part10.json",
+        "description": "Original file containing district courts for Punjab"
+      },
+      {
+        "filename": "district_subordinate_courts_part11.json",
+        "description": "Original file containing district courts for Rajasthan (part 1)"
+      },
+      {
+        "filename": "district_subordinate_courts_part12.json",
+        "description": "Original file containing district courts for Rajasthan (part 2)"
+      },
+      {
+        "filename": "district_subordinate_courts_part13.json",
+        "description": "Original file containing district courts for Sikkim"
+      },
+      {
+        "filename": "district_subordinate_courts_part14.json",
+        "description": "Original file containing district courts for Tamil Nadu (part 1)"
+      },
+      {
+        "filename": "district_subordinate_courts_part15.json",
+        "description": "Original file containing district courts for Tamil Nadu (part 2)"
+      },
+      {
+        "filename": "district_subordinate_courts_part16.json",
+        "description": "Original file containing district courts for Telangana (part 1)"
+      },
+      {
+        "filename": "district_subordinate_courts_part17.json",
+        "description": "Original file containing district courts for Telangana (part 2)"
+      },
+      {
+        "filename": "district_subordinate_courts_part18.json",
+        "description": "Original file containing district courts for Tripura"
+      },
+      {
+        "filename": "district_subordinate_courts_part19.json",
+        "description": "Original file containing district courts for Uttar Pradesh (part 1)"
+      },
+      {
+        "filename": "district_subordinate_courts_part20.json",
+        "description": "Original file containing district courts for Uttar Pradesh (part 2)"
+      },
+      {
+        "filename": "district_subordinate_courts_part21.json",
+        "description": "Original file containing district courts for Uttar Pradesh (part 3)"
+      },
+      {
+        "filename": "district_subordinate_courts_part22.json",
+        "description": "Original file containing district courts for Uttar Pradesh (part 4)"
+      },
+      {
+        "filename": "district_subordinate_courts_part23.json",
+        "description": "Original file containing district courts for Uttar Pradesh (part 5)"
+      },
+      {
+        "filename": "district_subordinate_courts_part24.json",
+        "description": "Original file containing district courts for Uttarakhand"
+      },
+      {
+        "filename": "district_subordinate_courts_part25.json",
+        "description": "Original file containing district courts for West Bengal (part 1)"
+      },
+      {
+        "filename": "district_subordinate_courts_part26.json",
+        "description": "Original file containing district courts for West Bengal (part 2)"
+      }
+    ]
+  }
+}

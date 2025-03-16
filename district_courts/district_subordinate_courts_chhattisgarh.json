@@ -1,0 +1,596 @@
+[
+  {
+    "name": "District and Sessions Court, Balod",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Balod district of Chhattisgarh.",
+    "location": "District Court Complex, Balod, Chhattisgarh 491226",
+    "website": "https://districts.ecourts.gov.in/balod",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Balod District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Baloda Bazar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Baloda Bazar district of Chhattisgarh.",
+    "location": "District Court Complex, Baloda Bazar, Chhattisgarh 493332",
+    "website": "https://districts.ecourts.gov.in/balodabazar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Baloda Bazar District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Balrampur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Balrampur district of Chhattisgarh.",
+    "location": "District Court Complex, Balrampur, Chhattisgarh 497119",
+    "website": "https://districts.ecourts.gov.in/balrampur-cg",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Balrampur District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Bastar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bastar district of Chhattisgarh.",
+    "location": "District Court Complex, Jagdalpur, Chhattisgarh 494001",
+    "website": "https://districts.ecourts.gov.in/bastar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bastar District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Bemetara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bemetara district of Chhattisgarh.",
+    "location": "District Court Complex, Bemetara, Chhattisgarh 491335",
+    "website": "https://districts.ecourts.gov.in/bemetara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bemetara District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Bijapur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bijapur district of Chhattisgarh.",
+    "location": "District Court Complex, Bijapur, Chhattisgarh 494444",
+    "website": "https://districts.ecourts.gov.in/bijapur-cg",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bijapur District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Bilaspur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bilaspur district of Chhattisgarh.",
+    "location": "District Court Complex, Bilaspur, Chhattisgarh 495001",
+    "website": "https://districts.ecourts.gov.in/bilaspur-cg",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bilaspur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Dantewada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dantewada district of Chhattisgarh.",
+    "location": "District Court Complex, Dantewada, Chhattisgarh 494449",
+    "website": "https://districts.ecourts.gov.in/dantewada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dantewada District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Dhamtari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dhamtari district of Chhattisgarh.",
+    "location": "District Court Complex, Dhamtari, Chhattisgarh 493773",
+    "website": "https://districts.ecourts.gov.in/dhamtari",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dhamtari District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Durg",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Durg district of Chhattisgarh.",
+    "location": "District Court Complex, Durg, Chhattisgarh 491001",
+    "website": "https://districts.ecourts.gov.in/durg",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Durg District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Gariaband",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gariaband district of Chhattisgarh.",
+    "location": "District Court Complex, Gariaband, Chhattisgarh 493889",
+    "website": "https://districts.ecourts.gov.in/gariaband",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gariaband District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Janjgir-Champa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Janjgir-Champa district of Chhattisgarh.",
+    "location": "District Court Complex, Janjgir, Chhattisgarh 495668",
+    "website": "https://districts.ecourts.gov.in/janjgir-champa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Janjgir-Champa District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Jashpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jashpur district of Chhattisgarh.",
+    "location": "District Court Complex, Jashpur Nagar, Chhattisgarh 496331",
+    "website": "https://districts.ecourts.gov.in/jashpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jashpur District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Kabirdham",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kabirdham district of Chhattisgarh.",
+    "location": "District Court Complex, Kawardha, Chhattisgarh 491995",
+    "website": "https://districts.ecourts.gov.in/kawardha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kabirdham District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Kanker",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kanker district of Chhattisgarh.",
+    "location": "District Court Complex, Kanker, Chhattisgarh 494334",
+    "website": "https://districts.ecourts.gov.in/kanker",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kanker District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Kondagaon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kondagaon district of Chhattisgarh.",
+    "location": "District Court Complex, Kondagaon, Chhattisgarh 494226",
+    "website": "https://districts.ecourts.gov.in/kondagaon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kondagaon District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Korba",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Korba district of Chhattisgarh.",
+    "location": "District Court Complex, Korba, Chhattisgarh 495677",
+    "website": "https://districts.ecourts.gov.in/korba",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Korba District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Korea",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Korea district of Chhattisgarh.",
+    "location": "District Court Complex, Baikunthpur, Chhattisgarh 497335",
+    "website": "https://districts.ecourts.gov.in/korea",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Korea District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Mahasamund",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mahasamund district of Chhattisgarh.",
+    "location": "District Court Complex, Mahasamund, Chhattisgarh 493445",
+    "website": "https://districts.ecourts.gov.in/mahasamund",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mahasamund District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Mungeli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mungeli district of Chhattisgarh.",
+    "location": "District Court Complex, Mungeli, Chhattisgarh 495334",
+    "website": "https://districts.ecourts.gov.in/mungeli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mungeli District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Narayanpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Narayanpur district of Chhattisgarh.",
+    "location": "District Court Complex, Narayanpur, Chhattisgarh 494661",
+    "website": "https://districts.ecourts.gov.in/narayanpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Narayanpur District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Raigarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Raigarh district of Chhattisgarh.",
+    "location": "District Court Complex, Raigarh, Chhattisgarh 496001",
+    "website": "https://districts.ecourts.gov.in/raigarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Raigarh District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Raipur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Raipur district of Chhattisgarh.",
+    "location": "District Court Complex, Raipur, Chhattisgarh 492001",
+    "website": "https://districts.ecourts.gov.in/raipur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Raipur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Rajnandgaon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rajnandgaon district of Chhattisgarh.",
+    "location": "District Court Complex, Rajnandgaon, Chhattisgarh 491441",
+    "website": "https://districts.ecourts.gov.in/rajnandgaon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rajnandgaon District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Sukma",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sukma district of Chhattisgarh.",
+    "location": "District Court Complex, Sukma, Chhattisgarh 494111",
+    "website": "https://districts.ecourts.gov.in/sukma",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sukma District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Surajpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Surajpur district of Chhattisgarh.",
+    "location": "District Court Complex, Surajpur, Chhattisgarh 497229",
+    "website": "https://districts.ecourts.gov.in/surajpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Surajpur District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Surguja",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Surguja district of Chhattisgarh.",
+    "location": "District Court Complex, Ambikapur, Chhattisgarh 497001",
+    "website": "https://districts.ecourts.gov.in/surguja",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Surguja District",
+    "established": "1956"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "name": "District and Sessions Court, Lakshadweep",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving the Union Territory of Lakshadweep.",
+    "location": "District Court Complex, Kavaratti, Lakshadweep 682555",
+    "website": "https://districts.ecourts.gov.in/lakshadweep",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Lakshadweep",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Entire Union Territory of Lakshadweep",
+    "established": "1964"
+  },
+  {
+    "name": "Chief Judicial Magistrate Court, Kavaratti",
+    "type": "Subordinate Court",
+    "description": "Chief Judicial Magistrate Court serving Lakshadweep.",
+    "location": "District Court Complex, Kavaratti, Lakshadweep 682555",
+    "website": "https://districts.ecourts.gov.in/lakshadweep",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Lakshadweep",
+    "caseTypes": [
+      "Criminal cases",
+      "Summary trials",
+      "Petty offenses"
+    ],
+    "geographicalJurisdiction": "Entire Union Territory of Lakshadweep",
+    "established": "1964"
+  },
+  {
+    "name": "Civil Judge (Senior Division) Court, Kavaratti",
+    "type": "Subordinate Court",
+    "description": "Civil Judge (Senior Division) Court serving Lakshadweep.",
+    "location": "District Court Complex, Kavaratti, Lakshadweep 682555",
+    "website": "https://districts.ecourts.gov.in/lakshadweep",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Lakshadweep",
+    "caseTypes": [
+      "Civil suits",
+      "Rent cases",
+      "Family disputes",
+      "Property matters"
+    ],
+    "geographicalJurisdiction": "Entire Union Territory of Lakshadweep",
+    "established": "1964"
+  },
+  {
+    "name": "Judicial Magistrate First Class Court, Minicoy",
+    "type": "Subordinate Court",
+    "description": "Judicial Magistrate First Class Court serving Minicoy Island of Lakshadweep.",
+    "location": "Court Complex, Minicoy Island, Lakshadweep 682559",
+    "website": "https://districts.ecourts.gov.in/lakshadweep",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Lakshadweep",
+    "caseTypes": [
+      "Criminal cases",
+      "Summary trials",
+      "Petty offenses"
+    ],
+    "geographicalJurisdiction": "Minicoy Island",
+    "established": "1990"
+  },
+  {
+    "name": "Judicial Magistrate First Class Court, Andrott",
+    "type": "Subordinate Court",
+    "description": "Judicial Magistrate First Class Court serving Andrott Island of Lakshadweep.",
+    "location": "Court Complex, Andrott Island, Lakshadweep 682551",
+    "website": "https://districts.ecourts.gov.in/lakshadweep",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Lakshadweep",
+    "caseTypes": [
+      "Criminal cases",
+      "Summary trials",
+      "Petty offenses"
+    ],
+    "geographicalJurisdiction": "Andrott Island",
+    "established": "1990"
+  }
+]

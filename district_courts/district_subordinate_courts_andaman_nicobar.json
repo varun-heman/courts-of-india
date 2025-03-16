@@ -1,0 +1,150 @@
+[
+  {
+    "name": "District and Sessions Court, Andaman and Nicobar Islands",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving the Union Territory of Andaman and Nicobar Islands.",
+    "location": "District Court Complex, Port Blair, Andaman and Nicobar Islands 744101",
+    "website": "https://districts.ecourts.gov.in/andaman-nicobar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andaman and Nicobar Islands",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Entire Union Territory of Andaman and Nicobar Islands",
+    "established": "1956"
+  },
+  {
+    "name": "Chief Judicial Magistrate Court, Port Blair",
+    "type": "Subordinate Court",
+    "description": "Chief Judicial Magistrate Court serving Port Blair region of Andaman and Nicobar Islands.",
+    "location": "District Court Complex, Port Blair, Andaman and Nicobar Islands 744101",
+    "website": "https://districts.ecourts.gov.in/andaman-nicobar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andaman and Nicobar Islands",
+    "caseTypes": [
+      "Criminal cases",
+      "Summary trials",
+      "Petty offenses"
+    ],
+    "geographicalJurisdiction": "Port Blair Region",
+    "established": "1956"
+  },
+  {
+    "name": "Civil Judge (Junior Division) Court, Car Nicobar",
+    "type": "Subordinate Court",
+    "description": "Civil Judge Court serving Car Nicobar region of Andaman and Nicobar Islands.",
+    "location": "Court Complex, Car Nicobar, Andaman and Nicobar Islands 744301",
+    "website": "https://districts.ecourts.gov.in/andaman-nicobar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andaman and Nicobar Islands",
+    "caseTypes": [
+      "Civil suits",
+      "Small causes",
+      "Minor criminal cases"
+    ],
+    "geographicalJurisdiction": "Car Nicobar Island",
+    "established": "1980"
+  },
+  {
+    "name": "Civil Judge (Junior Division) Court, Mayabunder",
+    "type": "Subordinate Court",
+    "description": "Civil Judge Court serving Mayabunder region of Andaman and Nicobar Islands.",
+    "location": "Court Complex, Mayabunder, Andaman and Nicobar Islands 744204",
+    "website": "https://districts.ecourts.gov.in/andaman-nicobar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andaman and Nicobar Islands",
+    "caseTypes": [
+      "Civil suits",
+      "Small causes",
+      "Minor criminal cases"
+    ],
+    "geographicalJurisdiction": "Mayabunder Region, North and Middle Andaman",
+    "established": "1985"
+  },
+  {
+    "name": "Civil Judge (Junior Division) Court, Campbell Bay",
+    "type": "Subordinate Court",
+    "description": "Civil Judge Court serving Campbell Bay region of Andaman and Nicobar Islands.",
+    "location": "Court Complex, Campbell Bay, Great Nicobar, Andaman and Nicobar Islands 744302",
+    "website": "https://districts.ecourts.gov.in/andaman-nicobar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andaman and Nicobar Islands",
+    "caseTypes": [
+      "Civil suits",
+      "Small causes",
+      "Minor criminal cases"
+    ],
+    "geographicalJurisdiction": "Great Nicobar Island",
+    "established": "1990"
+  },
+  {
+    "name": "Civil Judge (Junior Division) Court, Havelock",
+    "type": "Subordinate Court",
+    "description": "Civil Judge Court serving Havelock (Swaraj Dweep) region of Andaman and Nicobar Islands.",
+    "location": "Court Complex, Havelock Island, Andaman and Nicobar Islands 744211",
+    "website": "https://districts.ecourts.gov.in/andaman-nicobar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andaman and Nicobar Islands",
+    "caseTypes": [
+      "Civil suits",
+      "Small causes",
+      "Minor criminal cases"
+    ],
+    "geographicalJurisdiction": "Havelock Island (Swaraj Dweep)",
+    "established": "2010"
+  },
+  {
+    "name": "Civil Judge (Junior Division) Court, Diglipur",
+    "type": "Subordinate Court",
+    "description": "Civil Judge Court serving Diglipur region of Andaman and Nicobar Islands.",
+    "location": "Court Complex, Diglipur, North Andaman, Andaman and Nicobar Islands 744202",
+    "website": "https://districts.ecourts.gov.in/andaman-nicobar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andaman and Nicobar Islands",
+    "caseTypes": [
+      "Civil suits",
+      "Small causes",
+      "Minor criminal cases"
+    ],
+    "geographicalJurisdiction": "Diglipur Region, North Andaman",
+    "established": "1995"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "name": "District and Sessions Court, Kandhamal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kandhamal district of Odisha.",
+    "location": "District Court Complex, Phulbani, Kandhamal, Odisha 762001",
+    "website": "https://districts.ecourts.gov.in/kandhamal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kandhamal District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Kendrapara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kendrapara district of Odisha.",
+    "location": "District Court Complex, Kendrapara, Odisha 754211",
+    "website": "https://districts.ecourts.gov.in/kendrapara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kendrapara District",
+    "established": "1993"
+  },
+  {
+    "name": "District and Sessions Court, Keonjhar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Keonjhar district of Odisha.",
+    "location": "District Court Complex, Keonjhar, Odisha 758001",
+    "website": "https://districts.ecourts.gov.in/keonjhar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Keonjhar District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Khordha",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Khordha district of Odisha.",
+    "location": "District Court Complex, Khordha, Odisha 752055",
+    "website": "https://districts.ecourts.gov.in/khordha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Khordha District",
+    "established": "1993"
+  },
+  {
+    "name": "District and Sessions Court, Koraput",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Koraput district of Odisha.",
+    "location": "District Court Complex, Koraput, Odisha 764020",
+    "website": "https://districts.ecourts.gov.in/koraput",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Koraput District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Malkangiri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Malkangiri district of Odisha.",
+    "location": "District Court Complex, Malkangiri, Odisha 764045",
+    "website": "https://districts.ecourts.gov.in/malkangiri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Malkangiri District",
+    "established": "1992"
+  },
+  {
+    "name": "District and Sessions Court, Mayurbhanj",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mayurbhanj district of Odisha.",
+    "location": "District Court Complex, Baripada, Mayurbhanj, Odisha 757001",
+    "website": "https://districts.ecourts.gov.in/mayurbhanj",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mayurbhanj District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Nabarangpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nabarangpur district of Odisha.",
+    "location": "District Court Complex, Nabarangpur, Odisha 764059",
+    "website": "https://districts.ecourts.gov.in/nabarangpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nabarangpur District",
+    "established": "1992"
+  },
+  {
+    "name": "District and Sessions Court, Nayagarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nayagarh district of Odisha.",
+    "location": "District Court Complex, Nayagarh, Odisha 752069",
+    "website": "https://districts.ecourts.gov.in/nayagarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nayagarh District",
+    "established": "1993"
+  },
+  {
+    "name": "District and Sessions Court, Nuapada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nuapada district of Odisha.",
+    "location": "District Court Complex, Nuapada, Odisha 766105",
+    "website": "https://districts.ecourts.gov.in/nuapada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nuapada District",
+    "established": "1993"
+  },
+  {
+    "name": "District and Sessions Court, Puri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Puri district of Odisha.",
+    "location": "District Court Complex, Puri, Odisha 752001",
+    "website": "https://districts.ecourts.gov.in/puri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Puri District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Rayagada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rayagada district of Odisha.",
+    "location": "District Court Complex, Rayagada, Odisha 765001",
+    "website": "https://districts.ecourts.gov.in/rayagada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rayagada District",
+    "established": "1992"
+  },
+  {
+    "name": "District and Sessions Court, Sambalpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sambalpur district of Odisha.",
+    "location": "District Court Complex, Sambalpur, Odisha 768001",
+    "website": "https://districts.ecourts.gov.in/sambalpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sambalpur District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Sonepur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sonepur district of Odisha.",
+    "location": "District Court Complex, Sonepur, Odisha 767017",
+    "website": "https://districts.ecourts.gov.in/sonepur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sonepur District",
+    "established": "1993"
+  },
+  {
+    "name": "District and Sessions Court, Sundargarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sundargarh district of Odisha.",
+    "location": "District Court Complex, Sundargarh, Odisha 770001",
+    "website": "https://districts.ecourts.gov.in/sundargarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sundargarh District",
+    "established": "1948"
+  }
+]

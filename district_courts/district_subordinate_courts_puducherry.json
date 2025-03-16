@@ -1,0 +1,198 @@
+[
+  {
+    "name": "District and Sessions Court, Puducherry",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Puducherry region of the Union Territory of Puducherry.",
+    "location": "District Court Complex, Puducherry 605001",
+    "website": "https://districts.ecourts.gov.in/puducherry",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Puducherry",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Puducherry Region",
+    "established": "1963"
+  },
+  {
+    "name": "District and Sessions Court, Karaikal",
+    "type": "District Court",
+    "description": "District and Sessions Court serving Karaikal region of the Union Territory of Puducherry.",
+    "location": "District Court Complex, Karaikal, Puducherry 609602",
+    "website": "https://districts.ecourts.gov.in/karaikal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Puducherry",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Karaikal Region",
+    "established": "1963"
+  },
+  {
+    "name": "District and Sessions Court, Mahe",
+    "type": "District Court",
+    "description": "District and Sessions Court serving Mahe region of the Union Territory of Puducherry.",
+    "location": "District Court Complex, Mahe, Puducherry 673310",
+    "website": "https://districts.ecourts.gov.in/mahe",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Puducherry",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mahe Region",
+    "established": "1963"
+  },
+  {
+    "name": "District and Sessions Court, Yanam",
+    "type": "District Court",
+    "description": "District and Sessions Court serving Yanam region of the Union Territory of Puducherry.",
+    "location": "District Court Complex, Yanam, Puducherry 533464",
+    "website": "https://districts.ecourts.gov.in/yanam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Puducherry",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Yanam Region",
+    "established": "1963"
+  },
+  {
+    "name": "Chief Judicial Magistrate Court, Puducherry",
+    "type": "Subordinate Court",
+    "description": "Chief Judicial Magistrate Court serving Puducherry region.",
+    "location": "District Court Complex, Puducherry 605001",
+    "website": "https://districts.ecourts.gov.in/puducherry",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Puducherry",
+    "caseTypes": [
+      "Criminal cases",
+      "Summary trials",
+      "Petty offenses"
+    ],
+    "geographicalJurisdiction": "Puducherry Region",
+    "established": "1963"
+  },
+  {
+    "name": "Chief Judicial Magistrate Court, Karaikal",
+    "type": "Subordinate Court",
+    "description": "Chief Judicial Magistrate Court serving Karaikal region.",
+    "location": "District Court Complex, Karaikal, Puducherry 609602",
+    "website": "https://districts.ecourts.gov.in/karaikal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Puducherry",
+    "caseTypes": [
+      "Criminal cases",
+      "Summary trials",
+      "Petty offenses"
+    ],
+    "geographicalJurisdiction": "Karaikal Region",
+    "established": "1963"
+  },
+  {
+    "name": "Civil Judge (Senior Division) Court, Puducherry",
+    "type": "Subordinate Court",
+    "description": "Civil Judge (Senior Division) Court serving Puducherry region.",
+    "location": "District Court Complex, Puducherry 605001",
+    "website": "https://districts.ecourts.gov.in/puducherry",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Puducherry",
+    "caseTypes": [
+      "Civil suits",
+      "Rent cases",
+      "Family disputes",
+      "Property matters"
+    ],
+    "geographicalJurisdiction": "Puducherry Region",
+    "established": "1963"
+  },
+  {
+    "name": "Civil Judge (Senior Division) Court, Karaikal",
+    "type": "Subordinate Court",
+    "description": "Civil Judge (Senior Division) Court serving Karaikal region.",
+    "location": "District Court Complex, Karaikal, Puducherry 609602",
+    "website": "https://districts.ecourts.gov.in/karaikal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Puducherry",
+    "caseTypes": [
+      "Civil suits",
+      "Rent cases",
+      "Family disputes",
+      "Property matters"
+    ],
+    "geographicalJurisdiction": "Karaikal Region",
+    "established": "1963"
+  },
+  {
+    "name": "Family Court, Puducherry",
+    "type": "Special Court",
+    "description": "Family Court dealing with matrimonial and family matters in Puducherry region.",
+    "location": "District Court Complex, Puducherry 605001",
+    "website": "https://districts.ecourts.gov.in/puducherry",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Puducherry",
+    "caseTypes": [
+      "Divorce cases",
+      "Maintenance applications",
+      "Child custody disputes",
+      "Matrimonial matters"
+    ],
+    "geographicalJurisdiction": "Puducherry Region",
+    "established": "1990"
+  }
+]

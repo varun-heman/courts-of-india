@@ -1,0 +1,508 @@
+[
+  {
+    "name": "District and Sessions Court, Amritsar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Amritsar district of Punjab.",
+    "location": "District Court Complex, Amritsar, Punjab 143001",
+    "website": "https://districts.ecourts.gov.in/amritsar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Amritsar District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Barnala",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Barnala district of Punjab.",
+    "location": "District Court Complex, Barnala, Punjab 148101",
+    "website": "https://districts.ecourts.gov.in/barnala",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Barnala District",
+    "established": "2006"
+  },
+  {
+    "name": "District and Sessions Court, Bathinda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bathinda district of Punjab.",
+    "location": "District Court Complex, Bathinda, Punjab 151001",
+    "website": "https://districts.ecourts.gov.in/bathinda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bathinda District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Faridkot",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Faridkot district of Punjab.",
+    "location": "District Court Complex, Faridkot, Punjab 151203",
+    "website": "https://districts.ecourts.gov.in/faridkot",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Faridkot District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Fatehgarh Sahib",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Fatehgarh Sahib district of Punjab.",
+    "location": "District Court Complex, Fatehgarh Sahib, Punjab 140406",
+    "website": "https://districts.ecourts.gov.in/fatehgarh-sahib",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Fatehgarh Sahib District",
+    "established": "1992"
+  },
+  {
+    "name": "District and Sessions Court, Fazilka",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Fazilka district of Punjab.",
+    "location": "District Court Complex, Fazilka, Punjab 152123",
+    "website": "https://districts.ecourts.gov.in/fazilka",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Fazilka District",
+    "established": "2011"
+  },
+  {
+    "name": "District and Sessions Court, Ferozepur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ferozepur district of Punjab.",
+    "location": "District Court Complex, Ferozepur, Punjab 152002",
+    "website": "https://districts.ecourts.gov.in/ferozepur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ferozepur District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Gurdaspur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gurdaspur district of Punjab.",
+    "location": "District Court Complex, Gurdaspur, Punjab 143521",
+    "website": "https://districts.ecourts.gov.in/gurdaspur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gurdaspur District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Hoshiarpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hoshiarpur district of Punjab.",
+    "location": "District Court Complex, Hoshiarpur, Punjab 146001",
+    "website": "https://districts.ecourts.gov.in/hoshiarpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hoshiarpur District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Jalandhar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jalandhar district of Punjab.",
+    "location": "District Court Complex, Jalandhar, Punjab 144001",
+    "website": "https://districts.ecourts.gov.in/jalandhar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jalandhar District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Kapurthala",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kapurthala district of Punjab.",
+    "location": "District Court Complex, Kapurthala, Punjab 144601",
+    "website": "https://districts.ecourts.gov.in/kapurthala",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kapurthala District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Ludhiana",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ludhiana district of Punjab.",
+    "location": "District Court Complex, Ludhiana, Punjab 141001",
+    "website": "https://districts.ecourts.gov.in/ludhiana",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ludhiana District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Mansa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mansa district of Punjab.",
+    "location": "District Court Complex, Mansa, Punjab 151505",
+    "website": "https://districts.ecourts.gov.in/mansa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mansa District",
+    "established": "1992"
+  },
+  {
+    "name": "District and Sessions Court, Moga",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Moga district of Punjab.",
+    "location": "District Court Complex, Moga, Punjab 142001",
+    "website": "https://districts.ecourts.gov.in/moga",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Moga District",
+    "established": "1995"
+  },
+  {
+    "name": "District and Sessions Court, Muktsar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sri Muktsar Sahib district of Punjab.",
+    "location": "District Court Complex, Sri Muktsar Sahib, Punjab 152026",
+    "website": "https://districts.ecourts.gov.in/muktsar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sri Muktsar Sahib District",
+    "established": "1995"
+  },
+  {
+    "name": "District and Sessions Court, Nawanshahr",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shahid Bhagat Singh Nagar (Nawanshahr) district of Punjab.",
+    "location": "District Court Complex, Nawanshahr, Punjab 144514",
+    "website": "https://districts.ecourts.gov.in/nawanshahr",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shahid Bhagat Singh Nagar District",
+    "established": "1995"
+  },
+  {
+    "name": "District and Sessions Court, Pathankot",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Pathankot district of Punjab.",
+    "location": "District Court Complex, Pathankot, Punjab 145001",
+    "website": "https://districts.ecourts.gov.in/pathankot",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Pathankot District",
+    "established": "2011"
+  },
+  {
+    "name": "District and Sessions Court, Patiala",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Patiala district of Punjab.",
+    "location": "District Court Complex, Patiala, Punjab 147001",
+    "website": "https://districts.ecourts.gov.in/patiala",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Patiala District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Rupnagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rupnagar district of Punjab.",
+    "location": "District Court Complex, Rupnagar, Punjab 140001",
+    "website": "https://districts.ecourts.gov.in/rupnagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rupnagar District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Sangrur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sangrur district of Punjab.",
+    "location": "District Court Complex, Sangrur, Punjab 148001",
+    "website": "https://districts.ecourts.gov.in/sangrur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sangrur District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, SAS Nagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving SAS Nagar (Mohali) district of Punjab.",
+    "location": "District Court Complex, Mohali, Punjab 160055",
+    "website": "https://districts.ecourts.gov.in/mohali",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "SAS Nagar District",
+    "established": "2006"
+  },
+  {
+    "name": "District and Sessions Court, Tarn Taran",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tarn Taran district of Punjab.",
+    "location": "District Court Complex, Tarn Taran, Punjab 143401",
+    "website": "https://districts.ecourts.gov.in/tarn-taran",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tarn Taran District",
+    "established": "2006"
+  },
+  {
+    "name": "District and Sessions Court, Malerkotla",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Malerkotla district of Punjab.",
+    "location": "District Court Complex, Malerkotla, Punjab 148023",
+    "website": "https://districts.ecourts.gov.in/malerkotla",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Punjab",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Malerkotla District",
+    "established": "2021"
+  }
+]

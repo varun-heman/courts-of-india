@@ -1,0 +1,332 @@
+[
+  {
+    "name": "District and Sessions Court, Ariyalur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ariyalur district of Tamil Nadu.",
+    "location": "District Court Complex, Ariyalur, Tamil Nadu 621704",
+    "website": "https://districts.ecourts.gov.in/ariyalur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ariyalur District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Chennai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chennai district of Tamil Nadu.",
+    "location": "District Court Complex, Chennai, Tamil Nadu 600104",
+    "website": "https://districts.ecourts.gov.in/chennai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chennai District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Coimbatore",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Coimbatore district of Tamil Nadu.",
+    "location": "District Court Complex, Coimbatore, Tamil Nadu 641018",
+    "website": "https://districts.ecourts.gov.in/coimbatore",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Coimbatore District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Cuddalore",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Cuddalore district of Tamil Nadu.",
+    "location": "District Court Complex, Cuddalore, Tamil Nadu 607001",
+    "website": "https://districts.ecourts.gov.in/cuddalore",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Cuddalore District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Dharmapuri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dharmapuri district of Tamil Nadu.",
+    "location": "District Court Complex, Dharmapuri, Tamil Nadu 636701",
+    "website": "https://districts.ecourts.gov.in/dharmapuri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dharmapuri District",
+    "established": "1965"
+  },
+  {
+    "name": "District and Sessions Court, Dindigul",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dindigul district of Tamil Nadu.",
+    "location": "District Court Complex, Dindigul, Tamil Nadu 624001",
+    "website": "https://districts.ecourts.gov.in/dindigul",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dindigul District",
+    "established": "1985"
+  },
+  {
+    "name": "District and Sessions Court, Erode",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Erode district of Tamil Nadu.",
+    "location": "District Court Complex, Erode, Tamil Nadu 638011",
+    "website": "https://districts.ecourts.gov.in/erode",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Erode District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, Kallakurichi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kallakurichi district of Tamil Nadu.",
+    "location": "District Court Complex, Kallakurichi, Tamil Nadu 606202",
+    "website": "https://districts.ecourts.gov.in/kallakurichi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kallakurichi District",
+    "established": "2019"
+  },
+  {
+    "name": "District and Sessions Court, Kancheepuram",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kancheepuram district of Tamil Nadu.",
+    "location": "District Court Complex, Kancheepuram, Tamil Nadu 631501",
+    "website": "https://districts.ecourts.gov.in/kancheepuram",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kancheepuram District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Karur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Karur district of Tamil Nadu.",
+    "location": "District Court Complex, Karur, Tamil Nadu 639001",
+    "website": "https://districts.ecourts.gov.in/karur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Karur District",
+    "established": "1996"
+  },
+  {
+    "name": "District and Sessions Court, Krishnagiri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Krishnagiri district of Tamil Nadu.",
+    "location": "District Court Complex, Krishnagiri, Tamil Nadu 635001",
+    "website": "https://districts.ecourts.gov.in/krishnagiri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Krishnagiri District",
+    "established": "2004"
+  },
+  {
+    "name": "District and Sessions Court, Madurai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Madurai district of Tamil Nadu.",
+    "location": "District Court Complex, Madurai, Tamil Nadu 625020",
+    "website": "https://districts.ecourts.gov.in/madurai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Madurai District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Mayiladuthurai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mayiladuthurai district of Tamil Nadu.",
+    "location": "District Court Complex, Mayiladuthurai, Tamil Nadu 609001",
+    "website": "https://districts.ecourts.gov.in/mayiladuthurai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mayiladuthurai District",
+    "established": "2020"
+  },
+  {
+    "name": "District and Sessions Court, Nagapattinam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nagapattinam district of Tamil Nadu.",
+    "location": "District Court Complex, Nagapattinam, Tamil Nadu 611001",
+    "website": "https://districts.ecourts.gov.in/nagapattinam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nagapattinam District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Namakkal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Namakkal district of Tamil Nadu.",
+    "location": "District Court Complex, Namakkal, Tamil Nadu 637001",
+    "website": "https://districts.ecourts.gov.in/namakkal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tamil Nadu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Namakkal District",
+    "established": "1997"
+  }
+]

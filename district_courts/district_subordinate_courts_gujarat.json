@@ -1,0 +1,706 @@
+[
+  {
+    "name": "District and Sessions Court, Ahmedabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ahmedabad district of Gujarat.",
+    "location": "District Court Complex, Bhadra, Ahmedabad, Gujarat 380001",
+    "website": "https://districts.ecourts.gov.in/ahmedabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ahmedabad District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Amreli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Amreli district of Gujarat.",
+    "location": "District Court Complex, Amreli, Gujarat 365601",
+    "website": "https://districts.ecourts.gov.in/amreli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Amreli District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Anand",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Anand district of Gujarat.",
+    "location": "District Court Complex, Anand, Gujarat 388001",
+    "website": "https://districts.ecourts.gov.in/anand",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Anand District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Aravalli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Aravalli district of Gujarat.",
+    "location": "District Court Complex, Modasa, Gujarat 383315",
+    "website": "https://districts.ecourts.gov.in/aravalli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Aravalli District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Banaskantha",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Banaskantha district of Gujarat.",
+    "location": "District Court Complex, Palanpur, Gujarat 385001",
+    "website": "https://districts.ecourts.gov.in/banaskantha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Banaskantha District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Bharuch",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bharuch district of Gujarat.",
+    "location": "District Court Complex, Bharuch, Gujarat 392001",
+    "website": "https://districts.ecourts.gov.in/bharuch",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bharuch District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Bhavnagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhavnagar district of Gujarat.",
+    "location": "District Court Complex, Bhavnagar, Gujarat 364001",
+    "website": "https://districts.ecourts.gov.in/bhavnagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhavnagar District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Botad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Botad district of Gujarat.",
+    "location": "District Court Complex, Botad, Gujarat 364710",
+    "website": "https://districts.ecourts.gov.in/botad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Botad District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Chhota Udaipur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chhota Udaipur district of Gujarat.",
+    "location": "District Court Complex, Chhota Udaipur, Gujarat 391165",
+    "website": "https://districts.ecourts.gov.in/chhota-udaipur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chhota Udaipur District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Dahod",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dahod district of Gujarat.",
+    "location": "District Court Complex, Dahod, Gujarat 389151",
+    "website": "https://districts.ecourts.gov.in/dahod",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dahod District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Devbhumi Dwarka",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Devbhumi Dwarka district of Gujarat.",
+    "location": "District Court Complex, Khambhalia, Gujarat 361305",
+    "website": "https://districts.ecourts.gov.in/devbhumi-dwarka",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Devbhumi Dwarka District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Gandhinagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gandhinagar district of Gujarat.",
+    "location": "District Court Complex, Sector 11, Gandhinagar, Gujarat 382011",
+    "website": "https://districts.ecourts.gov.in/gandhinagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gandhinagar District",
+    "established": "1964"
+  },
+  {
+    "name": "District and Sessions Court, Gir Somnath",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gir Somnath district of Gujarat.",
+    "location": "District Court Complex, Veraval, Gujarat 362265",
+    "website": "https://districts.ecourts.gov.in/gir-somnath",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gir Somnath District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Jamnagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jamnagar district of Gujarat.",
+    "location": "District Court Complex, Jamnagar, Gujarat 361001",
+    "website": "https://districts.ecourts.gov.in/jamnagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jamnagar District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Junagadh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Junagadh district of Gujarat.",
+    "location": "District Court Complex, Junagadh, Gujarat 362001",
+    "website": "https://districts.ecourts.gov.in/junagadh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Junagadh District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Kachchh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kachchh district of Gujarat.",
+    "location": "District Court Complex, Bhuj, Gujarat 370001",
+    "website": "https://districts.ecourts.gov.in/kachchh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kachchh District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Kheda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kheda district of Gujarat.",
+    "location": "District Court Complex, Nadiad, Gujarat 387001",
+    "website": "https://districts.ecourts.gov.in/kheda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kheda District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Mahisagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mahisagar district of Gujarat.",
+    "location": "District Court Complex, Lunavada, Gujarat 389230",
+    "website": "https://districts.ecourts.gov.in/mahisagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mahisagar District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Mehsana",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mehsana district of Gujarat.",
+    "location": "District Court Complex, Mehsana, Gujarat 384001",
+    "website": "https://districts.ecourts.gov.in/mehsana",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mehsana District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Morbi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Morbi district of Gujarat.",
+    "location": "District Court Complex, Morbi, Gujarat 363641",
+    "website": "https://districts.ecourts.gov.in/morbi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Morbi District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Narmada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Narmada district of Gujarat.",
+    "location": "District Court Complex, Rajpipla, Gujarat 393145",
+    "website": "https://districts.ecourts.gov.in/narmada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Narmada District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Navsari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Navsari district of Gujarat.",
+    "location": "District Court Complex, Navsari, Gujarat 396445",
+    "website": "https://districts.ecourts.gov.in/navsari",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Navsari District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Panchmahal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Panchmahal district of Gujarat.",
+    "location": "District Court Complex, Godhra, Gujarat 389001",
+    "website": "https://districts.ecourts.gov.in/panchmahal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Panchmahal District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Patan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Patan district of Gujarat.",
+    "location": "District Court Complex, Patan, Gujarat 384265",
+    "website": "https://districts.ecourts.gov.in/patan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Patan District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Porbandar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Porbandar district of Gujarat.",
+    "location": "District Court Complex, Porbandar, Gujarat 360575",
+    "website": "https://districts.ecourts.gov.in/porbandar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Porbandar District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Rajkot",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rajkot district of Gujarat.",
+    "location": "District Court Complex, Rajkot, Gujarat 360001",
+    "website": "https://districts.ecourts.gov.in/rajkot",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rajkot District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Sabarkantha",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sabarkantha district of Gujarat.",
+    "location": "District Court Complex, Himmatnagar, Gujarat 383001",
+    "website": "https://districts.ecourts.gov.in/sabarkantha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sabarkantha District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Surat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Surat district of Gujarat.",
+    "location": "District Court Complex, Athwalines, Surat, Gujarat 395001",
+    "website": "https://districts.ecourts.gov.in/surat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Surat District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Surendranagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Surendranagar district of Gujarat.",
+    "location": "District Court Complex, Surendranagar, Gujarat 363001",
+    "website": "https://districts.ecourts.gov.in/surendranagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Surendranagar District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Tapi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tapi district of Gujarat.",
+    "location": "District Court Complex, Vyara, Gujarat 394650",
+    "website": "https://districts.ecourts.gov.in/tapi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tapi District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Vadodara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Vadodara district of Gujarat.",
+    "location": "District Court Complex, Vadodara, Gujarat 390001",
+    "website": "https://districts.ecourts.gov.in/vadodara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Vadodara District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Valsad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Valsad district of Gujarat.",
+    "location": "District Court Complex, Valsad, Gujarat 396001",
+    "website": "https://districts.ecourts.gov.in/valsad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Valsad District",
+    "established": "1960"
+  }
+]

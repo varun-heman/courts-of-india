@@ -1,0 +1,486 @@
+[
+  {
+    "name": "District and Sessions Court, Alipore",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving South 24 Parganas district of West Bengal.",
+    "location": "District Court Complex, Alipore, Kolkata, West Bengal 700027",
+    "website": "https://districts.ecourts.gov.in/south-24-parganas",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "South 24 Parganas District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Bankura",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bankura district of West Bengal.",
+    "location": "District Court Complex, Bankura, West Bengal 722101",
+    "website": "https://districts.ecourts.gov.in/bankura",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bankura District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Barasat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving North 24 Parganas district of West Bengal.",
+    "location": "District Court Complex, Barasat, West Bengal 700124",
+    "website": "https://districts.ecourts.gov.in/north-24-parganas",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "North 24 Parganas District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Burdwan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Purba Bardhaman district of West Bengal.",
+    "location": "District Court Complex, Burdwan, West Bengal 713101",
+    "website": "https://districts.ecourts.gov.in/purba-bardhaman",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Purba Bardhaman District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Cooch Behar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Cooch Behar district of West Bengal.",
+    "location": "District Court Complex, Cooch Behar, West Bengal 736101",
+    "website": "https://districts.ecourts.gov.in/cooch-behar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Cooch Behar District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Dakshin Dinajpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dakshin Dinajpur district of West Bengal.",
+    "location": "District Court Complex, Balurghat, Dakshin Dinajpur, West Bengal 733101",
+    "website": "https://districts.ecourts.gov.in/dakshin-dinajpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dakshin Dinajpur District",
+    "established": "1992"
+  },
+  {
+    "name": "District and Sessions Court, Darjeeling",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Darjeeling district of West Bengal.",
+    "location": "District Court Complex, Darjeeling, West Bengal 734101",
+    "website": "https://districts.ecourts.gov.in/darjeeling",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Darjeeling District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Hooghly",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hooghly district of West Bengal.",
+    "location": "District Court Complex, Chinsurah, Hooghly, West Bengal 712101",
+    "website": "https://districts.ecourts.gov.in/hooghly",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hooghly District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Howrah",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Howrah district of West Bengal.",
+    "location": "District Court Complex, Howrah, West Bengal 711101",
+    "website": "https://districts.ecourts.gov.in/howrah",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Howrah District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Jalpaiguri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jalpaiguri district of West Bengal.",
+    "location": "District Court Complex, Jalpaiguri, West Bengal 735101",
+    "website": "https://districts.ecourts.gov.in/jalpaiguri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jalpaiguri District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Kalimpong",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kalimpong district of West Bengal.",
+    "location": "District Court Complex, Kalimpong, West Bengal 734301",
+    "website": "https://districts.ecourts.gov.in/kalimpong",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kalimpong District",
+    "established": "2017"
+  },
+  {
+    "name": "District and Sessions Court, Kolkata",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kolkata district of West Bengal.",
+    "location": "City Civil Court Building, Kolkata, West Bengal 700001",
+    "website": "https://districts.ecourts.gov.in/kolkata",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kolkata District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Malda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Malda district of West Bengal.",
+    "location": "District Court Complex, English Bazar, Malda, West Bengal 732101",
+    "website": "https://districts.ecourts.gov.in/malda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Malda District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Murshidabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Murshidabad district of West Bengal.",
+    "location": "District Court Complex, Berhampore, Murshidabad, West Bengal 742101",
+    "website": "https://districts.ecourts.gov.in/murshidabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Murshidabad District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Nadia",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nadia district of West Bengal.",
+    "location": "District Court Complex, Krishnagar, Nadia, West Bengal 741101",
+    "website": "https://districts.ecourts.gov.in/nadia",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nadia District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Paschim Bardhaman",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Paschim Bardhaman district of West Bengal.",
+    "location": "District Court Complex, Asansol, Paschim Bardhaman, West Bengal 713301",
+    "website": "https://districts.ecourts.gov.in/paschim-bardhaman",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Paschim Bardhaman District",
+    "established": "2017"
+  },
+  {
+    "name": "District and Sessions Court, Paschim Medinipur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Paschim Medinipur district of West Bengal.",
+    "location": "District Court Complex, Midnapore, Paschim Medinipur, West Bengal 721101",
+    "website": "https://districts.ecourts.gov.in/paschim-medinipur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Paschim Medinipur District",
+    "established": "2002"
+  },
+  {
+    "name": "District and Sessions Court, Purba Medinipur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Purba Medinipur district of West Bengal.",
+    "location": "District Court Complex, Tamluk, Purba Medinipur, West Bengal 721636",
+    "website": "https://districts.ecourts.gov.in/purba-medinipur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Purba Medinipur District",
+    "established": "2002"
+  },
+  {
+    "name": "District and Sessions Court, Purulia",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Purulia district of West Bengal.",
+    "location": "District Court Complex, Purulia, West Bengal 723101",
+    "website": "https://districts.ecourts.gov.in/purulia",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Purulia District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Uttar Dinajpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Uttar Dinajpur district of West Bengal.",
+    "location": "District Court Complex, Raiganj, Uttar Dinajpur, West Bengal 733134",
+    "website": "https://districts.ecourts.gov.in/uttar-dinajpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Uttar Dinajpur District",
+    "established": "1992"
+  },
+  {
+    "name": "District and Sessions Court, Jhargram",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jhargram district of West Bengal.",
+    "location": "District Court Complex, Jhargram, West Bengal 721507",
+    "website": "https://districts.ecourts.gov.in/jhargram",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jhargram District",
+    "established": "2017"
+  },
+  {
+    "name": "District and Sessions Court, Alipurduar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Alipurduar district of West Bengal.",
+    "location": "District Court Complex, Alipurduar, West Bengal 736121",
+    "website": "https://districts.ecourts.gov.in/alipurduar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "West Bengal",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Alipurduar District",
+    "established": "2014"
+  }
+]

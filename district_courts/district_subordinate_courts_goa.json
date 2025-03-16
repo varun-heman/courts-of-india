@@ -1,0 +1,46 @@
+[
+  {
+    "name": "District and Sessions Court, North Goa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving North Goa district of Goa.",
+    "location": "District Court Complex, Panaji, Goa 403001",
+    "website": "https://districts.ecourts.gov.in/north-goa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Goa",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "North Goa District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, South Goa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving South Goa district of Goa.",
+    "location": "District Court Complex, Margao, Goa 403601",
+    "website": "https://districts.ecourts.gov.in/south-goa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Goa",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "South Goa District",
+    "established": "1987"
+  }
+]

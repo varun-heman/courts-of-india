@@ -1,0 +1,728 @@
+[
+  {
+    "name": "District and Sessions Court, Baksa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Baksa district of Assam.",
+    "location": "District Court Complex, Mushalpur, Assam 781372",
+    "website": "https://districts.ecourts.gov.in/baksa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Baksa District",
+    "established": "2004"
+  },
+  {
+    "name": "District and Sessions Court, Barpeta",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Barpeta district of Assam.",
+    "location": "District Court Complex, Barpeta, Assam 781301",
+    "website": "https://districts.ecourts.gov.in/barpeta",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Barpeta District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Biswanath",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Biswanath district of Assam.",
+    "location": "District Court Complex, Biswanath Chariali, Assam 784176",
+    "website": "https://districts.ecourts.gov.in/biswanath",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Biswanath District",
+    "established": "2015"
+  },
+  {
+    "name": "District and Sessions Court, Bongaigaon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bongaigaon district of Assam.",
+    "location": "District Court Complex, Bongaigaon, Assam 783380",
+    "website": "https://districts.ecourts.gov.in/bongaigaon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bongaigaon District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Cachar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Cachar district of Assam.",
+    "location": "District Court Complex, Silchar, Assam 788001",
+    "website": "https://districts.ecourts.gov.in/cachar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Cachar District",
+    "established": "1832"
+  },
+  {
+    "name": "District and Sessions Court, Charaideo",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Charaideo district of Assam.",
+    "location": "District Court Complex, Sonari, Assam 785690",
+    "website": "https://districts.ecourts.gov.in/charaideo",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Charaideo District",
+    "established": "2015"
+  },
+  {
+    "name": "District and Sessions Court, Chirang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chirang district of Assam.",
+    "location": "District Court Complex, Kajalgaon, Assam 783385",
+    "website": "https://districts.ecourts.gov.in/chirang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chirang District",
+    "established": "2004"
+  },
+  {
+    "name": "District and Sessions Court, Darrang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Darrang district of Assam.",
+    "location": "District Court Complex, Mangaldoi, Assam 784125",
+    "website": "https://districts.ecourts.gov.in/darrang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Darrang District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Dhemaji",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dhemaji district of Assam.",
+    "location": "District Court Complex, Dhemaji, Assam 787057",
+    "website": "https://districts.ecourts.gov.in/dhemaji",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dhemaji District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Dhubri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dhubri district of Assam.",
+    "location": "District Court Complex, Dhubri, Assam 783301",
+    "website": "https://districts.ecourts.gov.in/dhubri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dhubri District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Dibrugarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dibrugarh district of Assam.",
+    "location": "District Court Complex, Dibrugarh, Assam 786001",
+    "website": "https://districts.ecourts.gov.in/dibrugarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dibrugarh District",
+    "established": "1840"
+  },
+  {
+    "name": "District and Sessions Court, Dima Hasao",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dima Hasao district of Assam.",
+    "location": "District Court Complex, Haflong, Assam 788819",
+    "website": "https://districts.ecourts.gov.in/dima-hasao",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dima Hasao District",
+    "established": "1970"
+  },
+  {
+    "name": "District and Sessions Court, Goalpara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Goalpara district of Assam.",
+    "location": "District Court Complex, Goalpara, Assam 783101",
+    "website": "https://districts.ecourts.gov.in/goalpara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Goalpara District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Golaghat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Golaghat district of Assam.",
+    "location": "District Court Complex, Golaghat, Assam 785621",
+    "website": "https://districts.ecourts.gov.in/golaghat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Golaghat District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Hailakandi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hailakandi district of Assam.",
+    "location": "District Court Complex, Hailakandi, Assam 788151",
+    "website": "https://districts.ecourts.gov.in/hailakandi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hailakandi District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Hojai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hojai district of Assam.",
+    "location": "District Court Complex, Hojai, Assam 782435",
+    "website": "https://districts.ecourts.gov.in/hojai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hojai District",
+    "established": "2015"
+  },
+  {
+    "name": "District and Sessions Court, Jorhat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jorhat district of Assam.",
+    "location": "District Court Complex, Jorhat, Assam 785001",
+    "website": "https://districts.ecourts.gov.in/jorhat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jorhat District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Kamrup",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kamrup district of Assam.",
+    "location": "District Court Complex, Amingaon, Assam 781031",
+    "website": "https://districts.ecourts.gov.in/kamrup",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kamrup District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Kamrup Metropolitan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kamrup Metropolitan district of Assam.",
+    "location": "District Court Complex, Guwahati, Assam 781001",
+    "website": "https://districts.ecourts.gov.in/kamrup-metropolitan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kamrup Metropolitan District",
+    "established": "2003"
+  },
+  {
+    "name": "District and Sessions Court, Karbi Anglong",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Karbi Anglong district of Assam.",
+    "location": "District Court Complex, Diphu, Assam 782460",
+    "website": "https://districts.ecourts.gov.in/karbi-anglong",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Karbi Anglong District",
+    "established": "1976"
+  },
+  {
+    "name": "District and Sessions Court, Karimganj",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Karimganj district of Assam.",
+    "location": "District Court Complex, Karimganj, Assam 788710",
+    "website": "https://districts.ecourts.gov.in/karimganj",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Karimganj District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Kokrajhar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kokrajhar district of Assam.",
+    "location": "District Court Complex, Kokrajhar, Assam 783370",
+    "website": "https://districts.ecourts.gov.in/kokrajhar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kokrajhar District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Lakhimpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lakhimpur district of Assam.",
+    "location": "District Court Complex, North Lakhimpur, Assam 787001",
+    "website": "https://districts.ecourts.gov.in/lakhimpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lakhimpur District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Majuli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Majuli district of Assam.",
+    "location": "District Court Complex, Garamur, Assam 785104",
+    "website": "https://districts.ecourts.gov.in/majuli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Majuli District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Morigaon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Morigaon district of Assam.",
+    "location": "District Court Complex, Morigaon, Assam 782105",
+    "website": "https://districts.ecourts.gov.in/morigaon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Morigaon District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Nagaon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nagaon district of Assam.",
+    "location": "District Court Complex, Nagaon, Assam 782001",
+    "website": "https://districts.ecourts.gov.in/nagaon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nagaon District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Nalbari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nalbari district of Assam.",
+    "location": "District Court Complex, Nalbari, Assam 781335",
+    "website": "https://districts.ecourts.gov.in/nalbari",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nalbari District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Sivasagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sivasagar district of Assam.",
+    "location": "District Court Complex, Sivasagar, Assam 785640",
+    "website": "https://districts.ecourts.gov.in/sivasagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sivasagar District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Sonitpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sonitpur district of Assam.",
+    "location": "District Court Complex, Tezpur, Assam 784001",
+    "website": "https://districts.ecourts.gov.in/sonitpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sonitpur District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, South Salmara-Mankachar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving South Salmara-Mankachar district of Assam.",
+    "location": "District Court Complex, South Salmara, Assam 783130",
+    "website": "https://districts.ecourts.gov.in/south-salmara-mankachar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "South Salmara-Mankachar District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Tinsukia",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tinsukia district of Assam.",
+    "location": "District Court Complex, Tinsukia, Assam 786125",
+    "website": "https://districts.ecourts.gov.in/tinsukia",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tinsukia District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Udalguri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Udalguri district of Assam.",
+    "location": "District Court Complex, Udalguri, Assam 784509",
+    "website": "https://districts.ecourts.gov.in/udalguri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Udalguri District",
+    "established": "2004"
+  },
+  {
+    "name": "District and Sessions Court, West Karbi Anglong",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Karbi Anglong district of Assam.",
+    "location": "District Court Complex, Hamren, Assam 782450",
+    "website": "https://districts.ecourts.gov.in/west-karbi-anglong",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Karbi Anglong District",
+    "established": "2016"
+  }
+]

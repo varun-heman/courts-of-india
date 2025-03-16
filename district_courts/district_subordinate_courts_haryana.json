@@ -1,0 +1,486 @@
+[
+  {
+    "name": "District and Sessions Court, Ambala",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ambala district of Haryana.",
+    "location": "District Court Complex, Ambala Cantt, Haryana 133001",
+    "website": "https://districts.ecourts.gov.in/ambala",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ambala District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Bhiwani",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhiwani district of Haryana.",
+    "location": "District Court Complex, Bhiwani, Haryana 127021",
+    "website": "https://districts.ecourts.gov.in/bhiwani",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhiwani District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Charkhi Dadri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Charkhi Dadri district of Haryana.",
+    "location": "District Court Complex, Charkhi Dadri, Haryana 127306",
+    "website": "https://districts.ecourts.gov.in/charkhi-dadri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Charkhi Dadri District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Faridabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Faridabad district of Haryana.",
+    "location": "District Court Complex, Sector 12, Faridabad, Haryana 121007",
+    "website": "https://districts.ecourts.gov.in/faridabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Faridabad District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, Fatehabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Fatehabad district of Haryana.",
+    "location": "District Court Complex, Fatehabad, Haryana 125050",
+    "website": "https://districts.ecourts.gov.in/fatehabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Fatehabad District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Gurugram",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gurugram district of Haryana.",
+    "location": "District Court Complex, Civil Lines, Gurugram, Haryana 122001",
+    "website": "https://districts.ecourts.gov.in/gurugram",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gurugram District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, Hisar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hisar district of Haryana.",
+    "location": "District Court Complex, Hisar, Haryana 125001",
+    "website": "https://districts.ecourts.gov.in/hisar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hisar District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Jhajjar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jhajjar district of Haryana.",
+    "location": "District Court Complex, Jhajjar, Haryana 124103",
+    "website": "https://districts.ecourts.gov.in/jhajjar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jhajjar District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Jind",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jind district of Haryana.",
+    "location": "District Court Complex, Jind, Haryana 126102",
+    "website": "https://districts.ecourts.gov.in/jind",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jind District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Kaithal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kaithal district of Haryana.",
+    "location": "District Court Complex, Kaithal, Haryana 136027",
+    "website": "https://districts.ecourts.gov.in/kaithal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kaithal District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Karnal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Karnal district of Haryana.",
+    "location": "District Court Complex, Karnal, Haryana 132001",
+    "website": "https://districts.ecourts.gov.in/karnal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Karnal District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Kurukshetra",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kurukshetra district of Haryana.",
+    "location": "District Court Complex, Kurukshetra, Haryana 136118",
+    "website": "https://districts.ecourts.gov.in/kurukshetra",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kurukshetra District",
+    "established": "1973"
+  },
+  {
+    "name": "District and Sessions Court, Mahendragarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mahendragarh district of Haryana.",
+    "location": "District Court Complex, Narnaul, Haryana 123001",
+    "website": "https://districts.ecourts.gov.in/mahendragarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mahendragarh District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Nuh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nuh district of Haryana.",
+    "location": "District Court Complex, Nuh, Haryana 122107",
+    "website": "https://districts.ecourts.gov.in/nuh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nuh District",
+    "established": "2005"
+  },
+  {
+    "name": "District and Sessions Court, Palwal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Palwal district of Haryana.",
+    "location": "District Court Complex, Palwal, Haryana 121102",
+    "website": "https://districts.ecourts.gov.in/palwal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Palwal District",
+    "established": "2008"
+  },
+  {
+    "name": "District and Sessions Court, Panchkula",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Panchkula district of Haryana.",
+    "location": "District Court Complex, Sector 10, Panchkula, Haryana 134109",
+    "website": "https://districts.ecourts.gov.in/panchkula",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Panchkula District",
+    "established": "1995"
+  },
+  {
+    "name": "District and Sessions Court, Panipat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Panipat district of Haryana.",
+    "location": "District Court Complex, Panipat, Haryana 132103",
+    "website": "https://districts.ecourts.gov.in/panipat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Panipat District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Rewari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rewari district of Haryana.",
+    "location": "District Court Complex, Rewari, Haryana 123401",
+    "website": "https://districts.ecourts.gov.in/rewari",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rewari District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Rohtak",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rohtak district of Haryana.",
+    "location": "District Court Complex, Rohtak, Haryana 124001",
+    "website": "https://districts.ecourts.gov.in/rohtak",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rohtak District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Sirsa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sirsa district of Haryana.",
+    "location": "District Court Complex, Sirsa, Haryana 125055",
+    "website": "https://districts.ecourts.gov.in/sirsa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sirsa District",
+    "established": "1975"
+  },
+  {
+    "name": "District and Sessions Court, Sonipat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sonipat district of Haryana.",
+    "location": "District Court Complex, Sonipat, Haryana 131001",
+    "website": "https://districts.ecourts.gov.in/sonipat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sonipat District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Yamunanagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Yamunanagar district of Haryana.",
+    "location": "District Court Complex, Yamunanagar, Haryana 135001",
+    "website": "https://districts.ecourts.gov.in/yamunanagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Yamunanagar District",
+    "established": "1989"
+  }
+]

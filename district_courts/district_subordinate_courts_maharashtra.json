@@ -1,0 +1,794 @@
+[
+  {
+    "name": "District and Sessions Court, Ahmednagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ahmednagar district of Maharashtra.",
+    "location": "District Court Complex, Ahmednagar, Maharashtra 414001",
+    "website": "https://districts.ecourts.gov.in/ahmednagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ahmednagar District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Akola",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Akola district of Maharashtra.",
+    "location": "District Court Complex, Akola, Maharashtra 444001",
+    "website": "https://districts.ecourts.gov.in/akola",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Akola District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Amravati",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Amravati district of Maharashtra.",
+    "location": "District Court Complex, Amravati, Maharashtra 444601",
+    "website": "https://districts.ecourts.gov.in/amravati",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Amravati District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Aurangabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Aurangabad district of Maharashtra.",
+    "location": "District Court Complex, Aurangabad, Maharashtra 431001",
+    "website": "https://districts.ecourts.gov.in/aurangabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Aurangabad District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Beed",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Beed district of Maharashtra.",
+    "location": "District Court Complex, Beed, Maharashtra 431122",
+    "website": "https://districts.ecourts.gov.in/beed",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Beed District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Bhandara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhandara district of Maharashtra.",
+    "location": "District Court Complex, Bhandara, Maharashtra 441904",
+    "website": "https://districts.ecourts.gov.in/bhandara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhandara District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Buldhana",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Buldhana district of Maharashtra.",
+    "location": "District Court Complex, Buldhana, Maharashtra 443001",
+    "website": "https://districts.ecourts.gov.in/buldhana",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Buldhana District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Chandrapur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chandrapur district of Maharashtra.",
+    "location": "District Court Complex, Chandrapur, Maharashtra 442401",
+    "website": "https://districts.ecourts.gov.in/chandrapur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chandrapur District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Dhule",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dhule district of Maharashtra.",
+    "location": "District Court Complex, Dhule, Maharashtra 424001",
+    "website": "https://districts.ecourts.gov.in/dhule",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dhule District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Gadchiroli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gadchiroli district of Maharashtra.",
+    "location": "District Court Complex, Gadchiroli, Maharashtra 442605",
+    "website": "https://districts.ecourts.gov.in/gadchiroli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gadchiroli District",
+    "established": "1982"
+  },
+  {
+    "name": "District and Sessions Court, Gondia",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gondia district of Maharashtra.",
+    "location": "District Court Complex, Gondia, Maharashtra 441601",
+    "website": "https://districts.ecourts.gov.in/gondia",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gondia District",
+    "established": "1999"
+  },
+  {
+    "name": "District and Sessions Court, Hingoli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hingoli district of Maharashtra.",
+    "location": "District Court Complex, Hingoli, Maharashtra 431513",
+    "website": "https://districts.ecourts.gov.in/hingoli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hingoli District",
+    "established": "1999"
+  },
+  {
+    "name": "District and Sessions Court, Jalgaon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jalgaon district of Maharashtra.",
+    "location": "District Court Complex, Jalgaon, Maharashtra 425001",
+    "website": "https://districts.ecourts.gov.in/jalgaon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jalgaon District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Jalna",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jalna district of Maharashtra.",
+    "location": "District Court Complex, Jalna, Maharashtra 431203",
+    "website": "https://districts.ecourts.gov.in/jalna",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jalna District",
+    "established": "1982"
+  },
+  {
+    "name": "District and Sessions Court, Kolhapur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kolhapur district of Maharashtra.",
+    "location": "District Court Complex, Kolhapur, Maharashtra 416002",
+    "website": "https://districts.ecourts.gov.in/kolhapur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kolhapur District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Latur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Latur district of Maharashtra.",
+    "location": "District Court Complex, Latur, Maharashtra 413512",
+    "website": "https://districts.ecourts.gov.in/latur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Latur District",
+    "established": "1982"
+  },
+  {
+    "name": "District and Sessions Court, Mumbai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mumbai district of Maharashtra.",
+    "location": "District Court Complex, Fort, Mumbai, Maharashtra 400001",
+    "website": "https://districts.ecourts.gov.in/mumbai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mumbai District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Mumbai Suburban",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mumbai Suburban district of Maharashtra.",
+    "location": "District Court Complex, Bandra, Mumbai, Maharashtra 400051",
+    "website": "https://districts.ecourts.gov.in/mumbai-suburban",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mumbai Suburban District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Nagpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nagpur district of Maharashtra.",
+    "location": "District Court Complex, Nagpur, Maharashtra 440001",
+    "website": "https://districts.ecourts.gov.in/nagpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nagpur District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Nanded",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nanded district of Maharashtra.",
+    "location": "District Court Complex, Nanded, Maharashtra 431601",
+    "website": "https://districts.ecourts.gov.in/nanded",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nanded District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Nandurbar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nandurbar district of Maharashtra.",
+    "location": "District Court Complex, Nandurbar, Maharashtra 425412",
+    "website": "https://districts.ecourts.gov.in/nandurbar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nandurbar District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Nashik",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nashik district of Maharashtra.",
+    "location": "District Court Complex, Nashik, Maharashtra 422001",
+    "website": "https://districts.ecourts.gov.in/nashik",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nashik District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Osmanabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Osmanabad district of Maharashtra.",
+    "location": "District Court Complex, Osmanabad, Maharashtra 413501",
+    "website": "https://districts.ecourts.gov.in/osmanabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Osmanabad District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Palghar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Palghar district of Maharashtra.",
+    "location": "District Court Complex, Palghar, Maharashtra 401404",
+    "website": "https://districts.ecourts.gov.in/palghar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Palghar District",
+    "established": "2014"
+  },
+  {
+    "name": "District and Sessions Court, Parbhani",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Parbhani district of Maharashtra.",
+    "location": "District Court Complex, Parbhani, Maharashtra 431401",
+    "website": "https://districts.ecourts.gov.in/parbhani",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Parbhani District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Pune",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Pune district of Maharashtra.",
+    "location": "District Court Complex, Shivajinagar, Pune, Maharashtra 411005",
+    "website": "https://districts.ecourts.gov.in/pune",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Pune District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Raigad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Raigad district of Maharashtra.",
+    "location": "District Court Complex, Alibag, Raigad, Maharashtra 402201",
+    "website": "https://districts.ecourts.gov.in/raigad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Raigad District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Ratnagiri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ratnagiri district of Maharashtra.",
+    "location": "District Court Complex, Ratnagiri, Maharashtra 415612",
+    "website": "https://districts.ecourts.gov.in/ratnagiri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ratnagiri District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Sangli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sangli district of Maharashtra.",
+    "location": "District Court Complex, Sangli, Maharashtra 416416",
+    "website": "https://districts.ecourts.gov.in/sangli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sangli District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Satara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Satara district of Maharashtra.",
+    "location": "District Court Complex, Satara, Maharashtra 415001",
+    "website": "https://districts.ecourts.gov.in/satara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Satara District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Sindhudurg",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sindhudurg district of Maharashtra.",
+    "location": "District Court Complex, Oros, Sindhudurg, Maharashtra 416812",
+    "website": "https://districts.ecourts.gov.in/sindhudurg",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sindhudurg District",
+    "established": "1981"
+  },
+  {
+    "name": "District and Sessions Court, Solapur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Solapur district of Maharashtra.",
+    "location": "District Court Complex, Solapur, Maharashtra 413001",
+    "website": "https://districts.ecourts.gov.in/solapur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Solapur District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Thane",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Thane district of Maharashtra.",
+    "location": "District Court Complex, Thane, Maharashtra 400601",
+    "website": "https://districts.ecourts.gov.in/thane",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Thane District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Wardha",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Wardha district of Maharashtra.",
+    "location": "District Court Complex, Wardha, Maharashtra 442001",
+    "website": "https://districts.ecourts.gov.in/wardha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Wardha District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Washim",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Washim district of Maharashtra.",
+    "location": "District Court Complex, Washim, Maharashtra 444505",
+    "website": "https://districts.ecourts.gov.in/washim",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Washim District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Yavatmal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Yavatmal district of Maharashtra.",
+    "location": "District Court Complex, Yavatmal, Maharashtra 445001",
+    "website": "https://districts.ecourts.gov.in/yavatmal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Maharashtra",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Yavatmal District",
+    "established": "1947"
+  }
+]

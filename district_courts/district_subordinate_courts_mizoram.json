@@ -1,0 +1,244 @@
+[
+  {
+    "name": "District and Sessions Court, Aizawl",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Aizawl district of Mizoram.",
+    "location": "District Court Complex, Aizawl, Mizoram 796001",
+    "website": "https://districts.ecourts.gov.in/aizawl",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Mizoram",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Aizawl District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Champhai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Champhai district of Mizoram.",
+    "location": "District Court Complex, Champhai, Mizoram 796321",
+    "website": "https://districts.ecourts.gov.in/champhai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Mizoram",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Champhai District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Kolasib",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kolasib district of Mizoram.",
+    "location": "District Court Complex, Kolasib, Mizoram 796081",
+    "website": "https://districts.ecourts.gov.in/kolasib",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Mizoram",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kolasib District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Lawngtlai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lawngtlai district of Mizoram.",
+    "location": "District Court Complex, Lawngtlai, Mizoram 796891",
+    "website": "https://districts.ecourts.gov.in/lawngtlai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Mizoram",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lawngtlai District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Lunglei",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lunglei district of Mizoram.",
+    "location": "District Court Complex, Lunglei, Mizoram 796701",
+    "website": "https://districts.ecourts.gov.in/lunglei",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Mizoram",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lunglei District",
+    "established": "1976"
+  },
+  {
+    "name": "District and Sessions Court, Mamit",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mamit district of Mizoram.",
+    "location": "District Court Complex, Mamit, Mizoram 796441",
+    "website": "https://districts.ecourts.gov.in/mamit",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Mizoram",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mamit District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Saiha",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Saiha district of Mizoram.",
+    "location": "District Court Complex, Saiha, Mizoram 796901",
+    "website": "https://districts.ecourts.gov.in/saiha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Mizoram",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Saiha District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Serchhip",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Serchhip district of Mizoram.",
+    "location": "District Court Complex, Serchhip, Mizoram 796181",
+    "website": "https://districts.ecourts.gov.in/serchhip",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Mizoram",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Serchhip District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Hnahthial",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hnahthial district of Mizoram.",
+    "location": "District Court Complex, Hnahthial, Mizoram 796571",
+    "website": "https://districts.ecourts.gov.in/hnahthial",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Mizoram",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hnahthial District",
+    "established": "2019"
+  },
+  {
+    "name": "District and Sessions Court, Khawzawl",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Khawzawl district of Mizoram.",
+    "location": "District Court Complex, Khawzawl, Mizoram 796310",
+    "website": "https://districts.ecourts.gov.in/khawzawl",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Mizoram",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Khawzawl District",
+    "established": "2019"
+  },
+  {
+    "name": "District and Sessions Court, Saitual",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Saitual district of Mizoram.",
+    "location": "District Court Complex, Saitual, Mizoram 796261",
+    "website": "https://districts.ecourts.gov.in/saitual",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Mizoram",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Saitual District",
+    "established": "2019"
+  }
+]

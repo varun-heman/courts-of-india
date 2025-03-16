@@ -1,0 +1,266 @@
+[
+  {
+    "name": "District and Sessions Court, Bilaspur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bilaspur district of Himachal Pradesh.",
+    "location": "District Court Complex, Bilaspur, Himachal Pradesh 174001",
+    "website": "https://districts.ecourts.gov.in/bilaspur-hp",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bilaspur District",
+    "established": "1971"
+  },
+  {
+    "name": "District and Sessions Court, Chamba",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chamba district of Himachal Pradesh.",
+    "location": "District Court Complex, Chamba, Himachal Pradesh 176310",
+    "website": "https://districts.ecourts.gov.in/chamba",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chamba District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Hamirpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hamirpur district of Himachal Pradesh.",
+    "location": "District Court Complex, Hamirpur, Himachal Pradesh 177001",
+    "website": "https://districts.ecourts.gov.in/hamirpur-hp",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hamirpur District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Kangra",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kangra district of Himachal Pradesh.",
+    "location": "District Court Complex, Dharamshala, Himachal Pradesh 176215",
+    "website": "https://districts.ecourts.gov.in/kangra",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kangra District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Kinnaur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kinnaur district of Himachal Pradesh.",
+    "location": "District Court Complex, Reckong Peo, Himachal Pradesh 172107",
+    "website": "https://districts.ecourts.gov.in/kinnaur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kinnaur District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Kullu",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kullu district of Himachal Pradesh.",
+    "location": "District Court Complex, Kullu, Himachal Pradesh 175101",
+    "website": "https://districts.ecourts.gov.in/kullu",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kullu District",
+    "established": "1963"
+  },
+  {
+    "name": "District and Sessions Court, Lahaul and Spiti",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lahaul and Spiti district of Himachal Pradesh.",
+    "location": "District Court Complex, Keylong, Himachal Pradesh 172132",
+    "website": "https://districts.ecourts.gov.in/lahaul-spiti",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lahaul and Spiti District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Mandi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mandi district of Himachal Pradesh.",
+    "location": "District Court Complex, Mandi, Himachal Pradesh 175001",
+    "website": "https://districts.ecourts.gov.in/mandi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mandi District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Shimla",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shimla district of Himachal Pradesh.",
+    "location": "District Court Complex, Shimla, Himachal Pradesh 171001",
+    "website": "https://districts.ecourts.gov.in/shimla",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shimla District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Sirmaur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sirmaur district of Himachal Pradesh.",
+    "location": "District Court Complex, Nahan, Himachal Pradesh 173001",
+    "website": "https://districts.ecourts.gov.in/sirmaur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sirmaur District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Solan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Solan district of Himachal Pradesh.",
+    "location": "District Court Complex, Solan, Himachal Pradesh 173212",
+    "website": "https://districts.ecourts.gov.in/solan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Solan District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Una",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Una district of Himachal Pradesh.",
+    "location": "District Court Complex, Una, Himachal Pradesh 174303",
+    "website": "https://districts.ecourts.gov.in/una",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Una District",
+    "established": "1972"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "name": "District and Sessions Court, Nagarkurnool",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nagarkurnool district of Telangana.",
+    "location": "District Court Complex, Nagarkurnool, Telangana 509209",
+    "website": "https://districts.ecourts.gov.in/nagarkurnool",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nagarkurnool District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Nalgonda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nalgonda district of Telangana.",
+    "location": "District Court Complex, Nalgonda, Telangana 508001",
+    "website": "https://districts.ecourts.gov.in/nalgonda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nalgonda District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Narayanpet",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Narayanpet district of Telangana.",
+    "location": "District Court Complex, Narayanpet, Telangana 509210",
+    "website": "https://districts.ecourts.gov.in/narayanpet",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Narayanpet District",
+    "established": "2019"
+  },
+  {
+    "name": "District and Sessions Court, Nirmal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nirmal district of Telangana.",
+    "location": "District Court Complex, Nirmal, Telangana 504106",
+    "website": "https://districts.ecourts.gov.in/nirmal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nirmal District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Nizamabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nizamabad district of Telangana.",
+    "location": "District Court Complex, Nizamabad, Telangana 503001",
+    "website": "https://districts.ecourts.gov.in/nizamabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nizamabad District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Peddapalli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Peddapalli district of Telangana.",
+    "location": "District Court Complex, Peddapalli, Telangana 505172",
+    "website": "https://districts.ecourts.gov.in/peddapalli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Peddapalli District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Rajanna Sircilla",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rajanna Sircilla district of Telangana.",
+    "location": "District Court Complex, Sircilla, Telangana 505301",
+    "website": "https://districts.ecourts.gov.in/rajanna-sircilla",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rajanna Sircilla District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Rangareddy",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rangareddy district of Telangana.",
+    "location": "District Court Complex, L.B. Nagar, Hyderabad, Telangana 500074",
+    "website": "https://districts.ecourts.gov.in/rangareddy",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rangareddy District",
+    "established": "1978"
+  },
+  {
+    "name": "District and Sessions Court, Sangareddy",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sangareddy district of Telangana.",
+    "location": "District Court Complex, Sangareddy, Telangana 502001",
+    "website": "https://districts.ecourts.gov.in/sangareddy",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sangareddy District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Siddipet",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Siddipet district of Telangana.",
+    "location": "District Court Complex, Siddipet, Telangana 502103",
+    "website": "https://districts.ecourts.gov.in/siddipet",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Siddipet District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Suryapet",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Suryapet district of Telangana.",
+    "location": "District Court Complex, Suryapet, Telangana 508213",
+    "website": "https://districts.ecourts.gov.in/suryapet",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Suryapet District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Vikarabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Vikarabad district of Telangana.",
+    "location": "District Court Complex, Vikarabad, Telangana 501101",
+    "website": "https://districts.ecourts.gov.in/vikarabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Vikarabad District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Wanaparthy",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Wanaparthy district of Telangana.",
+    "location": "District Court Complex, Wanaparthy, Telangana 509103",
+    "website": "https://districts.ecourts.gov.in/wanaparthy",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Wanaparthy District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Warangal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Warangal district of Telangana.",
+    "location": "District Court Complex, Warangal, Telangana 506002",
+    "website": "https://districts.ecourts.gov.in/warangal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Warangal District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Yadadri Bhuvanagiri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Yadadri Bhuvanagiri district of Telangana.",
+    "location": "District Court Complex, Bhongir, Telangana 508116",
+    "website": "https://districts.ecourts.gov.in/yadadri-bhuvanagiri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Telangana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Yadadri Bhuvanagiri District",
+    "established": "2016"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "District and Sessions Court, East Sikkim",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Sikkim district of Sikkim.",
+    "location": "District Court Complex, Gangtok, East Sikkim, Sikkim 737101",
+    "website": "https://districts.ecourts.gov.in/east-sikkim",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Sikkim",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Sikkim District",
+    "established": "1975"
+  },
+  {
+    "name": "District and Sessions Court, North Sikkim",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving North Sikkim district of Sikkim.",
+    "location": "District Court Complex, Mangan, North Sikkim, Sikkim 737116",
+    "website": "https://districts.ecourts.gov.in/north-sikkim",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Sikkim",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "North Sikkim District",
+    "established": "1975"
+  },
+  {
+    "name": "District and Sessions Court, South Sikkim",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving South Sikkim district of Sikkim.",
+    "location": "District Court Complex, Namchi, South Sikkim, Sikkim 737126",
+    "website": "https://districts.ecourts.gov.in/south-sikkim",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Sikkim",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "South Sikkim District",
+    "established": "1975"
+  },
+  {
+    "name": "District and Sessions Court, West Sikkim",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Sikkim district of Sikkim.",
+    "location": "District Court Complex, Gyalshing, West Sikkim, Sikkim 737111",
+    "website": "https://districts.ecourts.gov.in/west-sikkim",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Sikkim",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Sikkim District",
+    "established": "1975"
+  }
+]

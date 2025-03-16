@@ -1,0 +1,178 @@
+[
+  {
+    "name": "District and Sessions Court, Dhalai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dhalai district of Tripura.",
+    "location": "District Court Complex, Ambassa, Dhalai, Tripura 799289",
+    "website": "https://districts.ecourts.gov.in/dhalai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tripura",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dhalai District",
+    "established": "1995"
+  },
+  {
+    "name": "District and Sessions Court, Gomati",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gomati district of Tripura.",
+    "location": "District Court Complex, Udaipur, Gomati, Tripura 799120",
+    "website": "https://districts.ecourts.gov.in/gomati",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tripura",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gomati District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Khowai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Khowai district of Tripura.",
+    "location": "District Court Complex, Khowai, Tripura 799201",
+    "website": "https://districts.ecourts.gov.in/khowai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tripura",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Khowai District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, North Tripura",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving North Tripura district of Tripura.",
+    "location": "District Court Complex, Dharmanagar, North Tripura, Tripura 799250",
+    "website": "https://districts.ecourts.gov.in/north-tripura",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tripura",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "North Tripura District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Sepahijala",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sepahijala district of Tripura.",
+    "location": "District Court Complex, Bishramganj, Sepahijala, Tripura 799103",
+    "website": "https://districts.ecourts.gov.in/sepahijala",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tripura",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sepahijala District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, South Tripura",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving South Tripura district of Tripura.",
+    "location": "District Court Complex, Belonia, South Tripura, Tripura 799155",
+    "website": "https://districts.ecourts.gov.in/south-tripura",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tripura",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "South Tripura District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Unakoti",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Unakoti district of Tripura.",
+    "location": "District Court Complex, Kailashahar, Unakoti, Tripura 799277",
+    "website": "https://districts.ecourts.gov.in/unakoti",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tripura",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Unakoti District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, West Tripura",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Tripura district of Tripura.",
+    "location": "District Court Complex, Agartala, West Tripura, Tripura 799001",
+    "website": "https://districts.ecourts.gov.in/west-tripura",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Tripura",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Tripura District",
+    "established": "1972"
+  }
+]

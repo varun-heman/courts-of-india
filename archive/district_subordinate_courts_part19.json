@@ -1,0 +1,354 @@
+[
+  {
+    "name": "District and Sessions Court, Agra",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Agra district of Uttar Pradesh.",
+    "location": "District Court Complex, Agra, Uttar Pradesh 282001",
+    "website": "https://districts.ecourts.gov.in/agra",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Agra District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Aligarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Aligarh district of Uttar Pradesh.",
+    "location": "District Court Complex, Aligarh, Uttar Pradesh 202001",
+    "website": "https://districts.ecourts.gov.in/aligarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Aligarh District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Ambedkar Nagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ambedkar Nagar district of Uttar Pradesh.",
+    "location": "District Court Complex, Akbarpur, Ambedkar Nagar, Uttar Pradesh 224122",
+    "website": "https://districts.ecourts.gov.in/ambedkar-nagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ambedkar Nagar District",
+    "established": "1995"
+  },
+  {
+    "name": "District and Sessions Court, Amethi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Amethi district of Uttar Pradesh.",
+    "location": "District Court Complex, Gauriganj, Amethi, Uttar Pradesh 227409",
+    "website": "https://districts.ecourts.gov.in/amethi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Amethi District",
+    "established": "2010"
+  },
+  {
+    "name": "District and Sessions Court, Amroha",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Amroha district of Uttar Pradesh.",
+    "location": "District Court Complex, Amroha, Uttar Pradesh 244221",
+    "website": "https://districts.ecourts.gov.in/amroha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Amroha District",
+    "established": "2011"
+  },
+  {
+    "name": "District and Sessions Court, Auraiya",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Auraiya district of Uttar Pradesh.",
+    "location": "District Court Complex, Auraiya, Uttar Pradesh 206122",
+    "website": "https://districts.ecourts.gov.in/auraiya",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Auraiya District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Azamgarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Azamgarh district of Uttar Pradesh.",
+    "location": "District Court Complex, Azamgarh, Uttar Pradesh 276001",
+    "website": "https://districts.ecourts.gov.in/azamgarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Azamgarh District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Baghpat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Baghpat district of Uttar Pradesh.",
+    "location": "District Court Complex, Baghpat, Uttar Pradesh 250609",
+    "website": "https://districts.ecourts.gov.in/baghpat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Baghpat District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Bahraich",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bahraich district of Uttar Pradesh.",
+    "location": "District Court Complex, Bahraich, Uttar Pradesh 271801",
+    "website": "https://districts.ecourts.gov.in/bahraich",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bahraich District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Ballia",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ballia district of Uttar Pradesh.",
+    "location": "District Court Complex, Ballia, Uttar Pradesh 277001",
+    "website": "https://districts.ecourts.gov.in/ballia",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ballia District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Balrampur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Balrampur district of Uttar Pradesh.",
+    "location": "District Court Complex, Balrampur, Uttar Pradesh 271201",
+    "website": "https://districts.ecourts.gov.in/balrampur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Balrampur District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Banda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Banda district of Uttar Pradesh.",
+    "location": "District Court Complex, Banda, Uttar Pradesh 210001",
+    "website": "https://districts.ecourts.gov.in/banda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Banda District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Barabanki",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Barabanki district of Uttar Pradesh.",
+    "location": "District Court Complex, Barabanki, Uttar Pradesh 225001",
+    "website": "https://districts.ecourts.gov.in/barabanki",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Barabanki District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Bareilly",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bareilly district of Uttar Pradesh.",
+    "location": "District Court Complex, Bareilly, Uttar Pradesh 243001",
+    "website": "https://districts.ecourts.gov.in/bareilly",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bareilly District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Basti",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Basti district of Uttar Pradesh.",
+    "location": "District Court Complex, Basti, Uttar Pradesh 272001",
+    "website": "https://districts.ecourts.gov.in/basti",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Basti District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Bhadohi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhadohi district of Uttar Pradesh.",
+    "location": "District Court Complex, Gyanpur, Bhadohi, Uttar Pradesh 221304",
+    "website": "https://districts.ecourts.gov.in/bhadohi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Uttar Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhadohi District",
+    "established": "1994"
+  }
+]

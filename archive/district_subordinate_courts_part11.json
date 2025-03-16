@@ -1,0 +1,354 @@
+[
+  {
+    "name": "District and Sessions Court, Ajmer",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ajmer district of Rajasthan.",
+    "location": "District Court Complex, Ajmer, Rajasthan 305001",
+    "website": "https://districts.ecourts.gov.in/ajmer",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ajmer District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Alwar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Alwar district of Rajasthan.",
+    "location": "District Court Complex, Alwar, Rajasthan 301001",
+    "website": "https://districts.ecourts.gov.in/alwar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Alwar District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Banswara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Banswara district of Rajasthan.",
+    "location": "District Court Complex, Banswara, Rajasthan 327001",
+    "website": "https://districts.ecourts.gov.in/banswara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Banswara District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Baran",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Baran district of Rajasthan.",
+    "location": "District Court Complex, Baran, Rajasthan 325205",
+    "website": "https://districts.ecourts.gov.in/baran",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Baran District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Barmer",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Barmer district of Rajasthan.",
+    "location": "District Court Complex, Barmer, Rajasthan 344001",
+    "website": "https://districts.ecourts.gov.in/barmer",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Barmer District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Bharatpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bharatpur district of Rajasthan.",
+    "location": "District Court Complex, Bharatpur, Rajasthan 321001",
+    "website": "https://districts.ecourts.gov.in/bharatpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bharatpur District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Bhilwara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhilwara district of Rajasthan.",
+    "location": "District Court Complex, Bhilwara, Rajasthan 311001",
+    "website": "https://districts.ecourts.gov.in/bhilwara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhilwara District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Bikaner",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bikaner district of Rajasthan.",
+    "location": "District Court Complex, Bikaner, Rajasthan 334001",
+    "website": "https://districts.ecourts.gov.in/bikaner",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bikaner District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Bundi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bundi district of Rajasthan.",
+    "location": "District Court Complex, Bundi, Rajasthan 323001",
+    "website": "https://districts.ecourts.gov.in/bundi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bundi District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Chittorgarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chittorgarh district of Rajasthan.",
+    "location": "District Court Complex, Chittorgarh, Rajasthan 312001",
+    "website": "https://districts.ecourts.gov.in/chittorgarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chittorgarh District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Churu",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Churu district of Rajasthan.",
+    "location": "District Court Complex, Churu, Rajasthan 331001",
+    "website": "https://districts.ecourts.gov.in/churu",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Churu District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Dausa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dausa district of Rajasthan.",
+    "location": "District Court Complex, Dausa, Rajasthan 303303",
+    "website": "https://districts.ecourts.gov.in/dausa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dausa District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Dholpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dholpur district of Rajasthan.",
+    "location": "District Court Complex, Dholpur, Rajasthan 328001",
+    "website": "https://districts.ecourts.gov.in/dholpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dholpur District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Dungarpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dungarpur district of Rajasthan.",
+    "location": "District Court Complex, Dungarpur, Rajasthan 314001",
+    "website": "https://districts.ecourts.gov.in/dungarpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dungarpur District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Hanumangarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hanumangarh district of Rajasthan.",
+    "location": "District Court Complex, Hanumangarh, Rajasthan 335512",
+    "website": "https://districts.ecourts.gov.in/hanumangarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hanumangarh District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Jaipur Metropolitan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jaipur Metropolitan area of Rajasthan.",
+    "location": "District Court Complex, Jaipur, Rajasthan 302005",
+    "website": "https://districts.ecourts.gov.in/jaipur-metropolitan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Rajasthan",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jaipur Metropolitan Area",
+    "established": "2006"
+  }
+]

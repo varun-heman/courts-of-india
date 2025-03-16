@@ -1,0 +1,264 @@
+[
+  {
+    "name": "District and Sessions Court, Tis Hazari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving North, North-West and West districts of Delhi.",
+    "location": "Tis Hazari Courts Complex, Delhi 110054",
+    "website": "https://districts.ecourts.gov.in/delhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "North, North-West and West Districts of Delhi",
+    "established": "1958"
+  },
+  {
+    "name": "District and Sessions Court, Patiala House",
+    "type": "District Court",
+    "description": "District and Sessions Court serving New Delhi and South districts of Delhi.",
+    "location": "Patiala House Courts Complex, New Delhi 110001",
+    "website": "https://districts.ecourts.gov.in/delhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "New Delhi and South Districts of Delhi",
+    "established": "1970"
+  },
+  {
+    "name": "District and Sessions Court, Karkardooma",
+    "type": "District Court",
+    "description": "District and Sessions Court serving East and North-East districts of Delhi.",
+    "location": "Karkardooma Courts Complex, Delhi 110032",
+    "website": "https://districts.ecourts.gov.in/delhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East and North-East Districts of Delhi",
+    "established": "1992"
+  },
+  {
+    "name": "District and Sessions Court, Rohini",
+    "type": "District Court",
+    "description": "District and Sessions Court serving North-West district of Delhi.",
+    "location": "Rohini Courts Complex, Delhi 110085",
+    "website": "https://districts.ecourts.gov.in/delhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "North-West District of Delhi",
+    "established": "2005"
+  },
+  {
+    "name": "District and Sessions Court, Saket",
+    "type": "District Court",
+    "description": "District and Sessions Court serving South and South-East districts of Delhi.",
+    "location": "Saket Courts Complex, New Delhi 110017",
+    "website": "https://districts.ecourts.gov.in/delhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "South and South-East Districts of Delhi",
+    "established": "2010"
+  },
+  {
+    "name": "District and Sessions Court, Dwarka",
+    "type": "District Court",
+    "description": "District and Sessions Court serving South-West district of Delhi.",
+    "location": "Dwarka Courts Complex, New Delhi 110075",
+    "website": "https://districts.ecourts.gov.in/delhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "South-West District of Delhi",
+    "established": "2008"
+  },
+  {
+    "name": "District and Sessions Court, Rouse Avenue",
+    "type": "District Court",
+    "description": "Special District and Sessions Court for cases related to MPs/MLAs and CBI cases in Delhi.",
+    "location": "Rouse Avenue Court Complex, New Delhi 110002",
+    "website": "https://districts.ecourts.gov.in/delhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Cases against MPs/MLAs",
+      "CBI cases",
+      "Special criminal cases",
+      "Anti-corruption cases"
+    ],
+    "geographicalJurisdiction": "Entire National Capital Territory of Delhi (for specified case types)",
+    "established": "2019"
+  },
+  {
+    "name": "Family Court, Tis Hazari",
+    "type": "Special Court",
+    "description": "Family Court dealing with matrimonial and family matters in North, North-West and West districts of Delhi.",
+    "location": "Tis Hazari Courts Complex, Delhi 110054",
+    "website": "https://districts.ecourts.gov.in/delhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Divorce cases",
+      "Maintenance applications",
+      "Child custody disputes",
+      "Matrimonial matters"
+    ],
+    "geographicalJurisdiction": "North, North-West and West Districts of Delhi",
+    "established": "1990"
+  },
+  {
+    "name": "Family Court, Patiala House",
+    "type": "Special Court",
+    "description": "Family Court dealing with matrimonial and family matters in New Delhi and South districts of Delhi.",
+    "location": "Patiala House Courts Complex, New Delhi 110001",
+    "website": "https://districts.ecourts.gov.in/delhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Divorce cases",
+      "Maintenance applications",
+      "Child custody disputes",
+      "Matrimonial matters"
+    ],
+    "geographicalJurisdiction": "New Delhi and South Districts of Delhi",
+    "established": "1990"
+  },
+  {
+    "name": "Family Court, Karkardooma",
+    "type": "Special Court",
+    "description": "Family Court dealing with matrimonial and family matters in East and North-East districts of Delhi.",
+    "location": "Karkardooma Courts Complex, Delhi 110032",
+    "website": "https://districts.ecourts.gov.in/delhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Divorce cases",
+      "Maintenance applications",
+      "Child custody disputes",
+      "Matrimonial matters"
+    ],
+    "geographicalJurisdiction": "East and North-East Districts of Delhi",
+    "established": "1992"
+  },
+  {
+    "name": "Special Court for POCSO Cases, Saket",
+    "type": "Special Court",
+    "description": "Special Court dealing with cases under the Protection of Children from Sexual Offences Act in South and South-East districts of Delhi.",
+    "location": "Saket Courts Complex, New Delhi 110017",
+    "website": "https://districts.ecourts.gov.in/delhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Sexual offences against children",
+      "POCSO Act cases"
+    ],
+    "geographicalJurisdiction": "South and South-East Districts of Delhi",
+    "established": "2012"
+  },
+  {
+    "name": "Commercial Court, Tis Hazari",
+    "type": "Special Court",
+    "description": "Commercial Court dealing with high-value commercial disputes in Delhi.",
+    "location": "Tis Hazari Courts Complex, Delhi 110054",
+    "website": "https://districts.ecourts.gov.in/delhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Delhi",
+    "caseTypes": [
+      "Commercial disputes",
+      "Business contracts",
+      "Intellectual property cases",
+      "High-value commercial matters"
+    ],
+    "geographicalJurisdiction": "Entire National Capital Territory of Delhi",
+    "established": "2016"
+  }
+]

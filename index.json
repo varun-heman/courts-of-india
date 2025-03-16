@@ -1,0 +1,274 @@
+{
+  "constitutional_courts": [
+    {
+      "file": "constitutional_courts/constitutional_courts.json",
+      "description": "Contains information about the Supreme Court of India and all High Courts"
+    }
+  ],
+  "district_courts": [
+    {
+      "file": "district_courts/district_subordinate_courts_andaman_nicobar.json",
+      "description": "District and subordinate courts in Andaman and Nicobar Islands"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_andhra_pradesh.json",
+      "description": "District and subordinate courts in Andhra Pradesh"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_arunachal_pradesh.json",
+      "description": "District and subordinate courts in Arunachal Pradesh"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_assam.json",
+      "description": "District and subordinate courts in Assam"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_bihar.json",
+      "description": "District and subordinate courts in Bihar"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_chandigarh.json",
+      "description": "District and subordinate courts in Chandigarh"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_chhattisgarh.json",
+      "description": "District and subordinate courts in Chhattisgarh"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_dadra_nagar_haveli_daman_diu.json",
+      "description": "District and subordinate courts in Dadra and Nagar Haveli and Daman and Diu"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_delhi.json",
+      "description": "District and subordinate courts in Delhi"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_goa.json",
+      "description": "District and subordinate courts in Goa"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_gujarat.json",
+      "description": "District and subordinate courts in Gujarat"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_haryana.json",
+      "description": "District and subordinate courts in Haryana"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_himachal_pradesh.json",
+      "description": "District and subordinate courts in Himachal Pradesh"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_jammu_kashmir.json",
+      "description": "District and subordinate courts in Jammu and Kashmir"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_jharkhand.json",
+      "description": "District and subordinate courts in Jharkhand"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_karnataka.json",
+      "description": "District and subordinate courts in Karnataka"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_kerala.json",
+      "description": "District and subordinate courts in Kerala"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_ladakh.json",
+      "description": "District and subordinate courts in Ladakh"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_lakshadweep.json",
+      "description": "District and subordinate courts in Lakshadweep"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_madhya_pradesh.json",
+      "description": "District and subordinate courts in Madhya Pradesh"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_maharashtra.json",
+      "description": "District and subordinate courts in Maharashtra"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_manipur.json",
+      "description": "District and subordinate courts in Manipur"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_meghalaya.json",
+      "description": "District and subordinate courts in Meghalaya"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_mizoram.json",
+      "description": "District and subordinate courts in Mizoram"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_nagaland.json",
+      "description": "District and subordinate courts in Nagaland"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_odisha.json",
+      "description": "District and subordinate courts in Odisha"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_puducherry.json",
+      "description": "District and subordinate courts in Puducherry"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_punjab.json",
+      "description": "District and subordinate courts in Punjab"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_rajasthan.json",
+      "description": "District and subordinate courts in Rajasthan"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_sikkim.json",
+      "description": "District and subordinate courts in Sikkim"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_tamil_nadu.json",
+      "description": "District and subordinate courts in Tamil Nadu"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_telangana.json",
+      "description": "District and subordinate courts in Telangana"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_tripura.json",
+      "description": "District and subordinate courts in Tripura"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_uttar_pradesh.json",
+      "description": "District and subordinate courts in Uttar Pradesh"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_uttarakhand.json",
+      "description": "District and subordinate courts in Uttarakhand"
+    },
+    {
+      "file": "district_courts/district_subordinate_courts_west_bengal.json",
+      "description": "District and subordinate courts in West Bengal"
+    }
+  ],
+  "tribunals": [
+    {
+      "file": "tribunals/national_tribunals.json",
+      "description": "Contains information about national-level tribunals across India"
+    },
+    {
+      "file": "tribunals/state_tribunals.json",
+      "description": "Contains information about state-level administrative and specialized tribunals"
+    },
+    {
+      "file": "tribunals/specialized_tribunals.json",
+      "description": "Contains information about specialized tribunals including consumer, labor, and family courts"
+    }
+  ],
+  "archive": [
+    {
+      "file": "archive/district_subordinate_courts_part1.json",
+      "description": "Original part 1 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part2.json",
+      "description": "Original part 2 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part3.json",
+      "description": "Original part 3 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part4.json",
+      "description": "Original part 4 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part5.json",
+      "description": "Original part 5 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part6.json",
+      "description": "Original part 6 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part7.json",
+      "description": "Original part 7 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part8.json",
+      "description": "Original part 8 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part9.json",
+      "description": "Original part 9 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part10.json",
+      "description": "Original part 10 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part11.json",
+      "description": "Original part 11 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part12.json",
+      "description": "Original part 12 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part13.json",
+      "description": "Original part 13 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part14.json",
+      "description": "Original part 14 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part15.json",
+      "description": "Original part 15 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part16.json",
+      "description": "Original part 16 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part17.json",
+      "description": "Original part 17 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part18.json",
+      "description": "Original part 18 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part19.json",
+      "description": "Original part 19 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part20.json",
+      "description": "Original part 20 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part21.json",
+      "description": "Original part 21 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part22.json",
+      "description": "Original part 22 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part23.json",
+      "description": "Original part 23 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part24.json",
+      "description": "Original part 24 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part25.json",
+      "description": "Original part 25 of district and subordinate courts data"
+    },
+    {
+      "file": "archive/district_subordinate_courts_part26.json",
+      "description": "Original part 26 of district and subordinate courts data"
+    }
+  ]
+}

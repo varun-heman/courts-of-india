@@ -1,0 +1,46 @@
+[
+  {
+    "name": "District and Sessions Court, Leh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Leh district of Ladakh.",
+    "location": "District Court Complex, Leh, Ladakh 194101",
+    "website": "https://districts.ecourts.gov.in/leh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Ladakh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Leh District",
+    "established": "2019"
+  },
+  {
+    "name": "District and Sessions Court, Kargil",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kargil district of Ladakh.",
+    "location": "District Court Complex, Kargil, Ladakh 194103",
+    "website": "https://districts.ecourts.gov.in/kargil",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Ladakh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kargil District",
+    "established": "2019"
+  }
+]

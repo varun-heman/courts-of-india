@@ -1,0 +1,288 @@
+[
+  {
+    "name": "District and Sessions Court, Alappuzha",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Alappuzha district of Kerala.",
+    "location": "District Court Complex, Alappuzha, Kerala 688011",
+    "website": "https://districts.ecourts.gov.in/alappuzha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Alappuzha District",
+    "established": "1957"
+  },
+  {
+    "name": "District and Sessions Court, Ernakulam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ernakulam district of Kerala.",
+    "location": "District Court Complex, Ernakulam, Kerala 682031",
+    "website": "https://districts.ecourts.gov.in/ernakulam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ernakulam District",
+    "established": "1957"
+  },
+  {
+    "name": "District and Sessions Court, Idukki",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Idukki district of Kerala.",
+    "location": "District Court Complex, Thodupuzha, Kerala 685584",
+    "website": "https://districts.ecourts.gov.in/idukki",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Idukki District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Kannur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kannur district of Kerala.",
+    "location": "District Court Complex, Kannur, Kerala 670002",
+    "website": "https://districts.ecourts.gov.in/kannur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kannur District",
+    "established": "1957"
+  },
+  {
+    "name": "District and Sessions Court, Kasaragod",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kasaragod district of Kerala.",
+    "location": "District Court Complex, Kasaragod, Kerala 671121",
+    "website": "https://districts.ecourts.gov.in/kasaragod",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kasaragod District",
+    "established": "1984"
+  },
+  {
+    "name": "District and Sessions Court, Kollam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kollam district of Kerala.",
+    "location": "District Court Complex, Kollam, Kerala 691001",
+    "website": "https://districts.ecourts.gov.in/kollam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kollam District",
+    "established": "1957"
+  },
+  {
+    "name": "District and Sessions Court, Kottayam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kottayam district of Kerala.",
+    "location": "District Court Complex, Kottayam, Kerala 686001",
+    "website": "https://districts.ecourts.gov.in/kottayam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kottayam District",
+    "established": "1957"
+  },
+  {
+    "name": "District and Sessions Court, Kozhikode",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kozhikode district of Kerala.",
+    "location": "District Court Complex, Kozhikode, Kerala 673001",
+    "website": "https://districts.ecourts.gov.in/kozhikode",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kozhikode District",
+    "established": "1957"
+  },
+  {
+    "name": "District and Sessions Court, Malappuram",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Malappuram district of Kerala.",
+    "location": "District Court Complex, Manjeri, Kerala 676121",
+    "website": "https://districts.ecourts.gov.in/malappuram",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Malappuram District",
+    "established": "1969"
+  },
+  {
+    "name": "District and Sessions Court, Palakkad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Palakkad district of Kerala.",
+    "location": "District Court Complex, Palakkad, Kerala 678001",
+    "website": "https://districts.ecourts.gov.in/palakkad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Palakkad District",
+    "established": "1957"
+  },
+  {
+    "name": "District and Sessions Court, Pathanamthitta",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Pathanamthitta district of Kerala.",
+    "location": "District Court Complex, Pathanamthitta, Kerala 689645",
+    "website": "https://districts.ecourts.gov.in/pathanamthitta",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Pathanamthitta District",
+    "established": "1982"
+  },
+  {
+    "name": "District and Sessions Court, Thiruvananthapuram",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Thiruvananthapuram district of Kerala.",
+    "location": "District Court Complex, Vanchiyoor, Thiruvananthapuram, Kerala 695035",
+    "website": "https://districts.ecourts.gov.in/thiruvananthapuram",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Thiruvananthapuram District",
+    "established": "1957"
+  },
+  {
+    "name": "District and Sessions Court, Thrissur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Thrissur district of Kerala.",
+    "location": "District Court Complex, Thrissur, Kerala 680001",
+    "website": "https://districts.ecourts.gov.in/thrissur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Kerala",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Thrissur District",
+    "established": "1957"
+  }
+]

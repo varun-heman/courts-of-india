@@ -1,0 +1,266 @@
+[
+  {
+    "name": "District and Sessions Court, Dimapur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dimapur district of Nagaland.",
+    "location": "District Court Complex, Dimapur, Nagaland 797112",
+    "website": "https://districts.ecourts.gov.in/dimapur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dimapur District",
+    "established": "1974"
+  },
+  {
+    "name": "District and Sessions Court, Kohima",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kohima district of Nagaland.",
+    "location": "District Court Complex, Kohima, Nagaland 797001",
+    "website": "https://districts.ecourts.gov.in/kohima",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kohima District",
+    "established": "1963"
+  },
+  {
+    "name": "District and Sessions Court, Mokokchung",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mokokchung district of Nagaland.",
+    "location": "District Court Complex, Mokokchung, Nagaland 798601",
+    "website": "https://districts.ecourts.gov.in/mokokchung",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mokokchung District",
+    "established": "1963"
+  },
+  {
+    "name": "District and Sessions Court, Mon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mon district of Nagaland.",
+    "location": "District Court Complex, Mon, Nagaland 798621",
+    "website": "https://districts.ecourts.gov.in/mon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mon District",
+    "established": "1973"
+  },
+  {
+    "name": "District and Sessions Court, Phek",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Phek district of Nagaland.",
+    "location": "District Court Complex, Phek, Nagaland 797107",
+    "website": "https://districts.ecourts.gov.in/phek",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Phek District",
+    "established": "1973"
+  },
+  {
+    "name": "District and Sessions Court, Tuensang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tuensang district of Nagaland.",
+    "location": "District Court Complex, Tuensang, Nagaland 798612",
+    "website": "https://districts.ecourts.gov.in/tuensang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tuensang District",
+    "established": "1963"
+  },
+  {
+    "name": "District and Sessions Court, Wokha",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Wokha district of Nagaland.",
+    "location": "District Court Complex, Wokha, Nagaland 797111",
+    "website": "https://districts.ecourts.gov.in/wokha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Wokha District",
+    "established": "1973"
+  },
+  {
+    "name": "District and Sessions Court, Zunheboto",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Zunheboto district of Nagaland.",
+    "location": "District Court Complex, Zunheboto, Nagaland 798620",
+    "website": "https://districts.ecourts.gov.in/zunheboto",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Zunheboto District",
+    "established": "1973"
+  },
+  {
+    "name": "District and Sessions Court, Longleng",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Longleng district of Nagaland.",
+    "location": "District Court Complex, Longleng, Nagaland 798625",
+    "website": "https://districts.ecourts.gov.in/longleng",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Longleng District",
+    "established": "2004"
+  },
+  {
+    "name": "District and Sessions Court, Kiphire",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kiphire district of Nagaland.",
+    "location": "District Court Complex, Kiphire, Nagaland 798611",
+    "website": "https://districts.ecourts.gov.in/kiphire",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kiphire District",
+    "established": "2004"
+  },
+  {
+    "name": "District and Sessions Court, Peren",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Peren district of Nagaland.",
+    "location": "District Court Complex, Peren, Nagaland 797106",
+    "website": "https://districts.ecourts.gov.in/peren",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Peren District",
+    "established": "2004"
+  },
+  {
+    "name": "District and Sessions Court, Noklak",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Noklak district of Nagaland.",
+    "location": "District Court Complex, Noklak, Nagaland 798616",
+    "website": "https://districts.ecourts.gov.in/noklak",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Nagaland",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Noklak District",
+    "established": "2021"
+  }
+]

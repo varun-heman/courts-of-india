@@ -1,0 +1,354 @@
+[
+  {
+    "name": "District and Sessions Court, Bishnupur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bishnupur district of Manipur.",
+    "location": "District Court Complex, Bishnupur, Manipur 795126",
+    "website": "https://districts.ecourts.gov.in/bishnupur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bishnupur District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Chandel",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chandel district of Manipur.",
+    "location": "District Court Complex, Chandel, Manipur 795127",
+    "website": "https://districts.ecourts.gov.in/chandel",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chandel District",
+    "established": "1974"
+  },
+  {
+    "name": "District and Sessions Court, Churachandpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Churachandpur district of Manipur.",
+    "location": "District Court Complex, Churachandpur, Manipur 795128",
+    "website": "https://districts.ecourts.gov.in/churachandpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Churachandpur District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Imphal East",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Imphal East district of Manipur.",
+    "location": "District Court Complex, Imphal East, Manipur 795001",
+    "website": "https://districts.ecourts.gov.in/imphal-east",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Imphal East District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Imphal West",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Imphal West district of Manipur.",
+    "location": "District Court Complex, Imphal West, Manipur 795001",
+    "website": "https://districts.ecourts.gov.in/imphal-west",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Imphal West District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Jiribam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jiribam district of Manipur.",
+    "location": "District Court Complex, Jiribam, Manipur 795001",
+    "website": "https://districts.ecourts.gov.in/jiribam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jiribam District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Kakching",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kakching district of Manipur.",
+    "location": "District Court Complex, Kakching, Manipur 795103",
+    "website": "https://districts.ecourts.gov.in/kakching",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kakching District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Kamjong",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kamjong district of Manipur.",
+    "location": "District Court Complex, Kamjong, Manipur 795129",
+    "website": "https://districts.ecourts.gov.in/kamjong",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kamjong District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Kangpokpi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kangpokpi district of Manipur.",
+    "location": "District Court Complex, Kangpokpi, Manipur 795129",
+    "website": "https://districts.ecourts.gov.in/kangpokpi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kangpokpi District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Noney",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Noney district of Manipur.",
+    "location": "District Court Complex, Noney, Manipur 795159",
+    "website": "https://districts.ecourts.gov.in/noney",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Noney District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Pherzawl",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Pherzawl district of Manipur.",
+    "location": "District Court Complex, Pherzawl, Manipur 795128",
+    "website": "https://districts.ecourts.gov.in/pherzawl",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Pherzawl District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Senapati",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Senapati district of Manipur.",
+    "location": "District Court Complex, Senapati, Manipur 795106",
+    "website": "https://districts.ecourts.gov.in/senapati",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Senapati District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Tamenglong",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tamenglong district of Manipur.",
+    "location": "District Court Complex, Tamenglong, Manipur 795141",
+    "website": "https://districts.ecourts.gov.in/tamenglong",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tamenglong District",
+    "established": "1976"
+  },
+  {
+    "name": "District and Sessions Court, Tengnoupal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tengnoupal district of Manipur.",
+    "location": "District Court Complex, Tengnoupal, Manipur 795126",
+    "website": "https://districts.ecourts.gov.in/tengnoupal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tengnoupal District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Thoubal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Thoubal district of Manipur.",
+    "location": "District Court Complex, Thoubal, Manipur 795138",
+    "website": "https://districts.ecourts.gov.in/thoubal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Thoubal District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Ukhrul",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ukhrul district of Manipur.",
+    "location": "District Court Complex, Ukhrul, Manipur 795142",
+    "website": "https://districts.ecourts.gov.in/ukhrul",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Manipur",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ukhrul District",
+    "established": "1969"
+  }
+]

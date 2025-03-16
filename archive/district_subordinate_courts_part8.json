@@ -1,0 +1,332 @@
+[
+  {
+    "name": "District and Sessions Court, Angul",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Angul district of Odisha.",
+    "location": "District Court Complex, Angul, Odisha 759122",
+    "website": "https://districts.ecourts.gov.in/angul",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Angul District",
+    "established": "1993"
+  },
+  {
+    "name": "District and Sessions Court, Balangir",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Balangir district of Odisha.",
+    "location": "District Court Complex, Balangir, Odisha 767001",
+    "website": "https://districts.ecourts.gov.in/balangir",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Balangir District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Balasore",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Balasore district of Odisha.",
+    "location": "District Court Complex, Balasore, Odisha 756001",
+    "website": "https://districts.ecourts.gov.in/balasore",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Balasore District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Bargarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bargarh district of Odisha.",
+    "location": "District Court Complex, Bargarh, Odisha 768028",
+    "website": "https://districts.ecourts.gov.in/bargarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bargarh District",
+    "established": "1993"
+  },
+  {
+    "name": "District and Sessions Court, Bhadrak",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhadrak district of Odisha.",
+    "location": "District Court Complex, Bhadrak, Odisha 756100",
+    "website": "https://districts.ecourts.gov.in/bhadrak",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhadrak District",
+    "established": "1993"
+  },
+  {
+    "name": "District and Sessions Court, Boudh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Boudh district of Odisha.",
+    "location": "District Court Complex, Boudh, Odisha 762014",
+    "website": "https://districts.ecourts.gov.in/boudh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Boudh District",
+    "established": "1993"
+  },
+  {
+    "name": "District and Sessions Court, Cuttack",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Cuttack district of Odisha.",
+    "location": "District Court Complex, Cuttack, Odisha 753001",
+    "website": "https://districts.ecourts.gov.in/cuttack",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Cuttack District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Deogarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Deogarh district of Odisha.",
+    "location": "District Court Complex, Deogarh, Odisha 768108",
+    "website": "https://districts.ecourts.gov.in/deogarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Deogarh District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Dhenkanal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dhenkanal district of Odisha.",
+    "location": "District Court Complex, Dhenkanal, Odisha 759001",
+    "website": "https://districts.ecourts.gov.in/dhenkanal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dhenkanal District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Gajapati",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gajapati district of Odisha.",
+    "location": "District Court Complex, Paralakhemundi, Gajapati, Odisha 761200",
+    "website": "https://districts.ecourts.gov.in/gajapati",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gajapati District",
+    "established": "1992"
+  },
+  {
+    "name": "District and Sessions Court, Ganjam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ganjam district of Odisha.",
+    "location": "District Court Complex, Berhampur, Ganjam, Odisha 760001",
+    "website": "https://districts.ecourts.gov.in/ganjam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ganjam District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Jagatsinghpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jagatsinghpur district of Odisha.",
+    "location": "District Court Complex, Jagatsinghpur, Odisha 754103",
+    "website": "https://districts.ecourts.gov.in/jagatsinghpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jagatsinghpur District",
+    "established": "1993"
+  },
+  {
+    "name": "District and Sessions Court, Jajpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jajpur district of Odisha.",
+    "location": "District Court Complex, Jajpur, Odisha 755001",
+    "website": "https://districts.ecourts.gov.in/jajpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jajpur District",
+    "established": "1993"
+  },
+  {
+    "name": "District and Sessions Court, Jharsuguda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jharsuguda district of Odisha.",
+    "location": "District Court Complex, Jharsuguda, Odisha 768201",
+    "website": "https://districts.ecourts.gov.in/jharsuguda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jharsuguda District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Kalahandi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kalahandi district of Odisha.",
+    "location": "District Court Complex, Bhawanipatna, Kalahandi, Odisha 766001",
+    "website": "https://districts.ecourts.gov.in/kalahandi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Odisha",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kalahandi District",
+    "established": "1948"
+  }
+]

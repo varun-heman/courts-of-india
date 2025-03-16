@@ -1,0 +1,6052 @@
+[
+  {
+    "name": "District and Sessions Court, Anantapur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Anantapur district of Andhra Pradesh.",
+    "location": "District Court Complex, Anantapur, Andhra Pradesh 515001",
+    "website": "https://districts.ecourts.gov.in/anantapur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Anantapur District",
+    "established": "1953"
+  },
+  {
+    "name": "District and Sessions Court, Chittoor",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chittoor district of Andhra Pradesh.",
+    "location": "District Court Complex, Chittoor, Andhra Pradesh 517001",
+    "website": "https://districts.ecourts.gov.in/chittoor",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chittoor District",
+    "established": "1911"
+  },
+  {
+    "name": "District and Sessions Court, East Godavari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Godavari district of Andhra Pradesh.",
+    "location": "District Court Complex, Rajahmundry, Andhra Pradesh 533101",
+    "website": "https://districts.ecourts.gov.in/east-godavari",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Godavari District",
+    "established": "1865"
+  },
+  {
+    "name": "District and Sessions Court, Guntur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Guntur district of Andhra Pradesh.",
+    "location": "District Court Complex, Guntur, Andhra Pradesh 522001",
+    "website": "https://districts.ecourts.gov.in/guntur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Guntur District",
+    "established": "1904"
+  },
+  {
+    "name": "District and Sessions Court, Krishna",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Krishna district of Andhra Pradesh.",
+    "location": "District Court Complex, Machilipatnam, Andhra Pradesh 521001",
+    "website": "https://districts.ecourts.gov.in/krishna",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Krishna District",
+    "established": "1859"
+  },
+  {
+    "name": "District and Sessions Court, Kurnool",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kurnool district of Andhra Pradesh.",
+    "location": "District Court Complex, Kurnool, Andhra Pradesh 518001",
+    "website": "https://districts.ecourts.gov.in/kurnool",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kurnool District",
+    "established": "1953"
+  },
+  {
+    "name": "District and Sessions Court, Nellore",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nellore district of Andhra Pradesh.",
+    "location": "District Court Complex, Nellore, Andhra Pradesh 524001",
+    "website": "https://districts.ecourts.gov.in/nellore",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nellore District",
+    "established": "1873"
+  },
+  {
+    "name": "District and Sessions Court, Prakasam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Prakasam district of Andhra Pradesh.",
+    "location": "District Court Complex, Ongole, Andhra Pradesh 523001",
+    "website": "https://districts.ecourts.gov.in/prakasam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Prakasam District",
+    "established": "1970"
+  },
+  {
+    "name": "District and Sessions Court, Srikakulam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Srikakulam district of Andhra Pradesh.",
+    "location": "District Court Complex, Srikakulam, Andhra Pradesh 532001",
+    "website": "https://districts.ecourts.gov.in/srikakulam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Srikakulam District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Visakhapatnam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Visakhapatnam district of Andhra Pradesh.",
+    "location": "District Court Complex, Visakhapatnam, Andhra Pradesh 530004",
+    "website": "https://districts.ecourts.gov.in/visakhapatnam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Visakhapatnam District",
+    "established": "1865"
+  },
+  {
+    "name": "District and Sessions Court, Vizianagaram",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Vizianagaram district of Andhra Pradesh.",
+    "location": "District Court Complex, Vizianagaram, Andhra Pradesh 535001",
+    "website": "https://districts.ecourts.gov.in/vizianagaram",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Vizianagaram District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, West Godavari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Godavari district of Andhra Pradesh.",
+    "location": "District Court Complex, Eluru, Andhra Pradesh 534001",
+    "website": "https://districts.ecourts.gov.in/west-godavari",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Godavari District",
+    "established": "1921"
+  },
+  {
+    "name": "District and Sessions Court, YSR Kadapa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving YSR Kadapa district of Andhra Pradesh.",
+    "location": "District Court Complex, Kadapa, Andhra Pradesh 516001",
+    "website": "https://districts.ecourts.gov.in/kadapa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Andhra Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "YSR Kadapa District",
+    "established": "1953"
+  },
+  {
+    "name": "District and Sessions Court, Anjaw",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Anjaw district of Arunachal Pradesh.",
+    "location": "District Court Complex, Hawai, Arunachal Pradesh 792104",
+    "website": "https://districts.ecourts.gov.in/anjaw",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Anjaw District",
+    "established": "2004"
+  },
+  {
+    "name": "District and Sessions Court, Changlang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Changlang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Changlang, Arunachal Pradesh 792120",
+    "website": "https://districts.ecourts.gov.in/changlang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Changlang District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, East Kameng",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Kameng district of Arunachal Pradesh.",
+    "location": "District Court Complex, Seppa, Arunachal Pradesh 790102",
+    "website": "https://districts.ecourts.gov.in/east-kameng",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Kameng District",
+    "established": "1999"
+  },
+  {
+    "name": "District and Sessions Court, East Siang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Siang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Pasighat, Arunachal Pradesh 791102",
+    "website": "https://districts.ecourts.gov.in/east-siang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Siang District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Kamle",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kamle district of Arunachal Pradesh.",
+    "location": "District Court Complex, Raga, Arunachal Pradesh 791126",
+    "website": "https://districts.ecourts.gov.in/kamle",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kamle District",
+    "established": "2018"
+  },
+  {
+    "name": "District and Sessions Court, Kra Daadi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kra Daadi district of Arunachal Pradesh.",
+    "location": "District Court Complex, Jamin, Arunachal Pradesh 791121",
+    "website": "https://districts.ecourts.gov.in/kra-daadi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kra Daadi District",
+    "established": "2015"
+  },
+  {
+    "name": "District and Sessions Court, Kurung Kumey",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kurung Kumey district of Arunachal Pradesh.",
+    "location": "District Court Complex, Koloriang, Arunachal Pradesh 791119",
+    "website": "https://districts.ecourts.gov.in/kurung-kumey",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kurung Kumey District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Leparada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Leparada district of Arunachal Pradesh.",
+    "location": "District Court Complex, Basar, Arunachal Pradesh 791101",
+    "website": "https://districts.ecourts.gov.in/leparada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Leparada District",
+    "established": "2018"
+  },
+  {
+    "name": "District and Sessions Court, Lohit",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lohit district of Arunachal Pradesh.",
+    "location": "District Court Complex, Tezu, Arunachal Pradesh 792001",
+    "website": "https://districts.ecourts.gov.in/lohit",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lohit District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Longding",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Longding district of Arunachal Pradesh.",
+    "location": "District Court Complex, Longding, Arunachal Pradesh 792131",
+    "website": "https://districts.ecourts.gov.in/longding",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Longding District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Lower Dibang Valley",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lower Dibang Valley district of Arunachal Pradesh.",
+    "location": "District Court Complex, Roing, Arunachal Pradesh 792110",
+    "website": "https://districts.ecourts.gov.in/lower-dibang-valley",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lower Dibang Valley District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Lower Siang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lower Siang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Likabali, Arunachal Pradesh 791125",
+    "website": "https://districts.ecourts.gov.in/lower-siang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lower Siang District",
+    "established": "2017"
+  },
+  {
+    "name": "District and Sessions Court, Namsai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Namsai district of Arunachal Pradesh.",
+    "location": "District Court Complex, Namsai, Arunachal Pradesh 792103",
+    "website": "https://districts.ecourts.gov.in/namsai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Namsai District",
+    "established": "2014"
+  },
+  {
+    "name": "District and Sessions Court, Pakke Kessang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Pakke Kessang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Pakke Kessang, Arunachal Pradesh 790102",
+    "website": "https://districts.ecourts.gov.in/pakke-kessang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Pakke Kessang District",
+    "established": "2018"
+  },
+  {
+    "name": "District and Sessions Court, Papum Pare",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Papum Pare district of Arunachal Pradesh.",
+    "location": "District Court Complex, Yupia, Arunachal Pradesh 791112",
+    "website": "https://districts.ecourts.gov.in/papum-pare",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Papum Pare District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Shi Yomi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shi Yomi district of Arunachal Pradesh.",
+    "location": "District Court Complex, Tato, Arunachal Pradesh 791105",
+    "website": "https://districts.ecourts.gov.in/shi-yomi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shi Yomi District",
+    "established": "2018"
+  },
+  {
+    "name": "District and Sessions Court, Siang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Siang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Pangin, Arunachal Pradesh 791103",
+    "website": "https://districts.ecourts.gov.in/siang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Siang District",
+    "established": "2015"
+  },
+  {
+    "name": "District and Sessions Court, Tawang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tawang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Tawang, Arunachal Pradesh 790104",
+    "website": "https://districts.ecourts.gov.in/tawang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tawang District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Tirap",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tirap district of Arunachal Pradesh.",
+    "location": "District Court Complex, Khonsa, Arunachal Pradesh 792130",
+    "website": "https://districts.ecourts.gov.in/tirap",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tirap District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Upper Dibang Valley",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Upper Dibang Valley district of Arunachal Pradesh.",
+    "location": "District Court Complex, Anini, Arunachal Pradesh 792101",
+    "website": "https://districts.ecourts.gov.in/upper-dibang-valley",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Upper Dibang Valley District",
+    "established": "2001"
+  },
+  {
+    "name": "District and Sessions Court, Upper Siang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Upper Siang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Yingkiong, Arunachal Pradesh 791001",
+    "website": "https://districts.ecourts.gov.in/upper-siang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Upper Siang District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Upper Subansiri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Upper Subansiri district of Arunachal Pradesh.",
+    "location": "District Court Complex, Daporijo, Arunachal Pradesh 791122",
+    "website": "https://districts.ecourts.gov.in/upper-subansiri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Upper Subansiri District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, West Kameng",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Kameng district of Arunachal Pradesh.",
+    "location": "District Court Complex, Bomdila, Arunachal Pradesh 790001",
+    "website": "https://districts.ecourts.gov.in/west-kameng",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Kameng District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, West Siang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Siang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Aalo, Arunachal Pradesh 791001",
+    "website": "https://districts.ecourts.gov.in/west-siang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Siang District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Baksa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Baksa district of Assam.",
+    "location": "District Court Complex, Mushalpur, Assam 781372",
+    "website": "https://districts.ecourts.gov.in/baksa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Baksa District",
+    "established": "2004"
+  },
+  {
+    "name": "District and Sessions Court, Barpeta",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Barpeta district of Assam.",
+    "location": "District Court Complex, Barpeta, Assam 781301",
+    "website": "https://districts.ecourts.gov.in/barpeta",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Barpeta District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Biswanath",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Biswanath district of Assam.",
+    "location": "District Court Complex, Biswanath Chariali, Assam 784176",
+    "website": "https://districts.ecourts.gov.in/biswanath",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Biswanath District",
+    "established": "2015"
+  },
+  {
+    "name": "District and Sessions Court, Bongaigaon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bongaigaon district of Assam.",
+    "location": "District Court Complex, Bongaigaon, Assam 783380",
+    "website": "https://districts.ecourts.gov.in/bongaigaon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bongaigaon District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Cachar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Cachar district of Assam.",
+    "location": "District Court Complex, Silchar, Assam 788001",
+    "website": "https://districts.ecourts.gov.in/cachar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Cachar District",
+    "established": "1832"
+  },
+  {
+    "name": "District and Sessions Court, Charaideo",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Charaideo district of Assam.",
+    "location": "District Court Complex, Sonari, Assam 785690",
+    "website": "https://districts.ecourts.gov.in/charaideo",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Charaideo District",
+    "established": "2015"
+  },
+  {
+    "name": "District and Sessions Court, Chirang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chirang district of Assam.",
+    "location": "District Court Complex, Kajalgaon, Assam 783385",
+    "website": "https://districts.ecourts.gov.in/chirang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chirang District",
+    "established": "2004"
+  },
+  {
+    "name": "District and Sessions Court, Darrang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Darrang district of Assam.",
+    "location": "District Court Complex, Mangaldoi, Assam 784125",
+    "website": "https://districts.ecourts.gov.in/darrang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Darrang District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Dhemaji",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dhemaji district of Assam.",
+    "location": "District Court Complex, Dhemaji, Assam 787057",
+    "website": "https://districts.ecourts.gov.in/dhemaji",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dhemaji District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Dhubri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dhubri district of Assam.",
+    "location": "District Court Complex, Dhubri, Assam 783301",
+    "website": "https://districts.ecourts.gov.in/dhubri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dhubri District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Dibrugarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dibrugarh district of Assam.",
+    "location": "District Court Complex, Dibrugarh, Assam 786001",
+    "website": "https://districts.ecourts.gov.in/dibrugarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dibrugarh District",
+    "established": "1840"
+  },
+  {
+    "name": "District and Sessions Court, Dima Hasao",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dima Hasao district of Assam.",
+    "location": "District Court Complex, Haflong, Assam 788819",
+    "website": "https://districts.ecourts.gov.in/dima-hasao",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dima Hasao District",
+    "established": "1970"
+  },
+  {
+    "name": "District and Sessions Court, Goalpara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Goalpara district of Assam.",
+    "location": "District Court Complex, Goalpara, Assam 783101",
+    "website": "https://districts.ecourts.gov.in/goalpara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Goalpara District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Golaghat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Golaghat district of Assam.",
+    "location": "District Court Complex, Golaghat, Assam 785621",
+    "website": "https://districts.ecourts.gov.in/golaghat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Golaghat District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Hailakandi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hailakandi district of Assam.",
+    "location": "District Court Complex, Hailakandi, Assam 788151",
+    "website": "https://districts.ecourts.gov.in/hailakandi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hailakandi District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Hojai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hojai district of Assam.",
+    "location": "District Court Complex, Hojai, Assam 782435",
+    "website": "https://districts.ecourts.gov.in/hojai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hojai District",
+    "established": "2015"
+  },
+  {
+    "name": "District and Sessions Court, Jorhat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jorhat district of Assam.",
+    "location": "District Court Complex, Jorhat, Assam 785001",
+    "website": "https://districts.ecourts.gov.in/jorhat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jorhat District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Kamrup",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kamrup district of Assam.",
+    "location": "District Court Complex, Amingaon, Assam 781031",
+    "website": "https://districts.ecourts.gov.in/kamrup",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kamrup District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Kamrup Metropolitan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kamrup Metropolitan district of Assam.",
+    "location": "District Court Complex, Guwahati, Assam 781001",
+    "website": "https://districts.ecourts.gov.in/kamrup-metropolitan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kamrup Metropolitan District",
+    "established": "2003"
+  },
+  {
+    "name": "District and Sessions Court, Karbi Anglong",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Karbi Anglong district of Assam.",
+    "location": "District Court Complex, Diphu, Assam 782460",
+    "website": "https://districts.ecourts.gov.in/karbi-anglong",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Karbi Anglong District",
+    "established": "1976"
+  },
+  {
+    "name": "District and Sessions Court, Karimganj",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Karimganj district of Assam.",
+    "location": "District Court Complex, Karimganj, Assam 788710",
+    "website": "https://districts.ecourts.gov.in/karimganj",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Karimganj District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Kokrajhar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kokrajhar district of Assam.",
+    "location": "District Court Complex, Kokrajhar, Assam 783370",
+    "website": "https://districts.ecourts.gov.in/kokrajhar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kokrajhar District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Lakhimpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lakhimpur district of Assam.",
+    "location": "District Court Complex, North Lakhimpur, Assam 787001",
+    "website": "https://districts.ecourts.gov.in/lakhimpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lakhimpur District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Majuli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Majuli district of Assam.",
+    "location": "District Court Complex, Garamur, Assam 785104",
+    "website": "https://districts.ecourts.gov.in/majuli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Majuli District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Morigaon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Morigaon district of Assam.",
+    "location": "District Court Complex, Morigaon, Assam 782105",
+    "website": "https://districts.ecourts.gov.in/morigaon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Morigaon District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Nagaon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nagaon district of Assam.",
+    "location": "District Court Complex, Nagaon, Assam 782001",
+    "website": "https://districts.ecourts.gov.in/nagaon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nagaon District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Nalbari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nalbari district of Assam.",
+    "location": "District Court Complex, Nalbari, Assam 781335",
+    "website": "https://districts.ecourts.gov.in/nalbari",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nalbari District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Sivasagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sivasagar district of Assam.",
+    "location": "District Court Complex, Sivasagar, Assam 785640",
+    "website": "https://districts.ecourts.gov.in/sivasagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sivasagar District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Sonitpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sonitpur district of Assam.",
+    "location": "District Court Complex, Tezpur, Assam 784001",
+    "website": "https://districts.ecourts.gov.in/sonitpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sonitpur District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, South Salmara-Mankachar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving South Salmara-Mankachar district of Assam.",
+    "location": "District Court Complex, South Salmara, Assam 783130",
+    "website": "https://districts.ecourts.gov.in/south-salmara-mankachar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "South Salmara-Mankachar District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Tinsukia",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tinsukia district of Assam.",
+    "location": "District Court Complex, Tinsukia, Assam 786125",
+    "website": "https://districts.ecourts.gov.in/tinsukia",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tinsukia District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Udalguri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Udalguri district of Assam.",
+    "location": "District Court Complex, Udalguri, Assam 784509",
+    "website": "https://districts.ecourts.gov.in/udalguri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Udalguri District",
+    "established": "2004"
+  },
+  {
+    "name": "District and Sessions Court, West Karbi Anglong",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Karbi Anglong district of Assam.",
+    "location": "District Court Complex, Hamren, Assam 782450",
+    "website": "https://districts.ecourts.gov.in/west-karbi-anglong",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Assam",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Karbi Anglong District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Araria",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Araria district of Bihar.",
+    "location": "District Court Complex, Araria, Bihar 854311",
+    "website": "https://districts.ecourts.gov.in/araria",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Araria District",
+    "established": "1990"
+  },
+  {
+    "name": "District and Sessions Court, Arwal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Arwal district of Bihar.",
+    "location": "District Court Complex, Arwal, Bihar 804419",
+    "website": "https://districts.ecourts.gov.in/arwal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Arwal District",
+    "established": "2001"
+  },
+  {
+    "name": "District and Sessions Court, Aurangabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Aurangabad district of Bihar.",
+    "location": "District Court Complex, Aurangabad, Bihar 824101",
+    "website": "https://districts.ecourts.gov.in/aurangabad-bihar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Aurangabad District",
+    "established": "1973"
+  },
+  {
+    "name": "District and Sessions Court, Banka",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Banka district of Bihar.",
+    "location": "District Court Complex, Banka, Bihar 813102",
+    "website": "https://districts.ecourts.gov.in/banka",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Banka District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Begusarai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Begusarai district of Bihar.",
+    "location": "District Court Complex, Begusarai, Bihar 851101",
+    "website": "https://districts.ecourts.gov.in/begusarai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Begusarai District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Bhagalpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhagalpur district of Bihar.",
+    "location": "District Court Complex, Bhagalpur, Bihar 812001",
+    "website": "https://districts.ecourts.gov.in/bhagalpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhagalpur District",
+    "established": "1864"
+  },
+  {
+    "name": "District and Sessions Court, Bhojpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhojpur district of Bihar.",
+    "location": "District Court Complex, Arrah, Bihar 802301",
+    "website": "https://districts.ecourts.gov.in/bhojpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhojpur District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Buxar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Buxar district of Bihar.",
+    "location": "District Court Complex, Buxar, Bihar 802101",
+    "website": "https://districts.ecourts.gov.in/buxar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Buxar District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Darbhanga",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Darbhanga district of Bihar.",
+    "location": "District Court Complex, Darbhanga, Bihar 846004",
+    "website": "https://districts.ecourts.gov.in/darbhanga",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Darbhanga District",
+    "established": "1875"
+  },
+  {
+    "name": "District and Sessions Court, East Champaran",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Champaran district of Bihar.",
+    "location": "District Court Complex, Motihari, Bihar 845401",
+    "website": "https://districts.ecourts.gov.in/east-champaran",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Champaran District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Gaya",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gaya district of Bihar.",
+    "location": "District Court Complex, Gaya, Bihar 823001",
+    "website": "https://districts.ecourts.gov.in/gaya",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gaya District",
+    "established": "1865"
+  },
+  {
+    "name": "District and Sessions Court, Gopalganj",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gopalganj district of Bihar.",
+    "location": "District Court Complex, Gopalganj, Bihar 841428",
+    "website": "https://districts.ecourts.gov.in/gopalganj",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gopalganj District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Jamui",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jamui district of Bihar.",
+    "location": "District Court Complex, Jamui, Bihar 811307",
+    "website": "https://districts.ecourts.gov.in/jamui",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jamui District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Jehanabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jehanabad district of Bihar.",
+    "location": "District Court Complex, Jehanabad, Bihar 804408",
+    "website": "https://districts.ecourts.gov.in/jehanabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jehanabad District",
+    "established": "1986"
+  },
+  {
+    "name": "District and Sessions Court, Kaimur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kaimur district of Bihar.",
+    "location": "District Court Complex, Bhabua, Bihar 821101",
+    "website": "https://districts.ecourts.gov.in/kaimur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kaimur District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Katihar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Katihar district of Bihar.",
+    "location": "District Court Complex, Katihar, Bihar 854105",
+    "website": "https://districts.ecourts.gov.in/katihar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Katihar District",
+    "established": "1973"
+  },
+  {
+    "name": "District and Sessions Court, Khagaria",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Khagaria district of Bihar.",
+    "location": "District Court Complex, Khagaria, Bihar 851204",
+    "website": "https://districts.ecourts.gov.in/khagaria",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Khagaria District",
+    "established": "1981"
+  },
+  {
+    "name": "District and Sessions Court, Kishanganj",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kishanganj district of Bihar.",
+    "location": "District Court Complex, Kishanganj, Bihar 855107",
+    "website": "https://districts.ecourts.gov.in/kishanganj",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kishanganj District",
+    "established": "1990"
+  },
+  {
+    "name": "District and Sessions Court, Lakhisarai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lakhisarai district of Bihar.",
+    "location": "District Court Complex, Lakhisarai, Bihar 811311",
+    "website": "https://districts.ecourts.gov.in/lakhisarai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lakhisarai District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Madhepura",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Madhepura district of Bihar.",
+    "location": "District Court Complex, Madhepura, Bihar 852113",
+    "website": "https://districts.ecourts.gov.in/madhepura",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Madhepura District",
+    "established": "1981"
+  },
+  {
+    "name": "District and Sessions Court, Madhubani",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Madhubani district of Bihar.",
+    "location": "District Court Complex, Madhubani, Bihar 847211",
+    "website": "https://districts.ecourts.gov.in/madhubani",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Madhubani District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Munger",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Munger district of Bihar.",
+    "location": "District Court Complex, Munger, Bihar 811201",
+    "website": "https://districts.ecourts.gov.in/munger",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Munger District",
+    "established": "1832"
+  },
+  {
+    "name": "District and Sessions Court, Muzaffarpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Muzaffarpur district of Bihar.",
+    "location": "District Court Complex, Muzaffarpur, Bihar 842001",
+    "website": "https://districts.ecourts.gov.in/muzaffarpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Muzaffarpur District",
+    "established": "1875"
+  },
+  {
+    "name": "District and Sessions Court, Nalanda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nalanda district of Bihar.",
+    "location": "District Court Complex, Bihar Sharif, Bihar 803101",
+    "website": "https://districts.ecourts.gov.in/nalanda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nalanda District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Nawada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nawada district of Bihar.",
+    "location": "District Court Complex, Nawada, Bihar 805110",
+    "website": "https://districts.ecourts.gov.in/nawada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nawada District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Patna",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Patna district of Bihar.",
+    "location": "District Court Complex, Patna, Bihar 800001",
+    "website": "https://districts.ecourts.gov.in/patna",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Patna District",
+    "established": "1857"
+  },
+  {
+    "name": "District and Sessions Court, Purnia",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Purnia district of Bihar.",
+    "location": "District Court Complex, Purnia, Bihar 854301",
+    "website": "https://districts.ecourts.gov.in/purnia",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Purnia District",
+    "established": "1872"
+  },
+  {
+    "name": "District and Sessions Court, Rohtas",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rohtas district of Bihar.",
+    "location": "District Court Complex, Sasaram, Bihar 821115",
+    "website": "https://districts.ecourts.gov.in/rohtas",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rohtas District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Saharsa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Saharsa district of Bihar.",
+    "location": "District Court Complex, Saharsa, Bihar 852201",
+    "website": "https://districts.ecourts.gov.in/saharsa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Saharsa District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Samastipur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Samastipur district of Bihar.",
+    "location": "District Court Complex, Samastipur, Bihar 848101",
+    "website": "https://districts.ecourts.gov.in/samastipur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Samastipur District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Saran",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Saran district of Bihar.",
+    "location": "District Court Complex, Chapra, Bihar 841301",
+    "website": "https://districts.ecourts.gov.in/saran",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Saran District",
+    "established": "1872"
+  },
+  {
+    "name": "District and Sessions Court, Sheikhpura",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sheikhpura district of Bihar.",
+    "location": "District Court Complex, Sheikhpura, Bihar 811105",
+    "website": "https://districts.ecourts.gov.in/sheikhpura",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sheikhpura District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Sheohar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sheohar district of Bihar.",
+    "location": "District Court Complex, Sheohar, Bihar 843329",
+    "website": "https://districts.ecourts.gov.in/sheohar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sheohar District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Sitamarhi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sitamarhi district of Bihar.",
+    "location": "District Court Complex, Sitamarhi, Bihar 843302",
+    "website": "https://districts.ecourts.gov.in/sitamarhi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sitamarhi District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Siwan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Siwan district of Bihar.",
+    "location": "District Court Complex, Siwan, Bihar 841226",
+    "website": "https://districts.ecourts.gov.in/siwan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Siwan District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Supaul",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Supaul district of Bihar.",
+    "location": "District Court Complex, Supaul, Bihar 852131",
+    "website": "https://districts.ecourts.gov.in/supaul",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Supaul District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Vaishali",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Vaishali district of Bihar.",
+    "location": "District Court Complex, Hajipur, Bihar 844101",
+    "website": "https://districts.ecourts.gov.in/vaishali",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Vaishali District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, West Champaran",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Champaran district of Bihar.",
+    "location": "District Court Complex, Bettiah, Bihar 845438",
+    "website": "https://districts.ecourts.gov.in/west-champaran",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Bihar",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Champaran District",
+    "established": "1866"
+  },
+  {
+    "name": "District and Sessions Court, Balod",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Balod district of Chhattisgarh.",
+    "location": "District Court Complex, Balod, Chhattisgarh 491226",
+    "website": "https://districts.ecourts.gov.in/balod",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Balod District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Baloda Bazar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Baloda Bazar district of Chhattisgarh.",
+    "location": "District Court Complex, Baloda Bazar, Chhattisgarh 493332",
+    "website": "https://districts.ecourts.gov.in/balodabazar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Baloda Bazar District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Balrampur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Balrampur district of Chhattisgarh.",
+    "location": "District Court Complex, Balrampur, Chhattisgarh 497119",
+    "website": "https://districts.ecourts.gov.in/balrampur-cg",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Balrampur District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Bastar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bastar district of Chhattisgarh.",
+    "location": "District Court Complex, Jagdalpur, Chhattisgarh 494001",
+    "website": "https://districts.ecourts.gov.in/bastar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bastar District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Bemetara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bemetara district of Chhattisgarh.",
+    "location": "District Court Complex, Bemetara, Chhattisgarh 491335",
+    "website": "https://districts.ecourts.gov.in/bemetara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bemetara District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Bijapur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bijapur district of Chhattisgarh.",
+    "location": "District Court Complex, Bijapur, Chhattisgarh 494444",
+    "website": "https://districts.ecourts.gov.in/bijapur-cg",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bijapur District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Bilaspur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bilaspur district of Chhattisgarh.",
+    "location": "District Court Complex, Bilaspur, Chhattisgarh 495001",
+    "website": "https://districts.ecourts.gov.in/bilaspur-cg",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bilaspur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Dantewada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dantewada district of Chhattisgarh.",
+    "location": "District Court Complex, Dantewada, Chhattisgarh 494449",
+    "website": "https://districts.ecourts.gov.in/dantewada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dantewada District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Dhamtari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dhamtari district of Chhattisgarh.",
+    "location": "District Court Complex, Dhamtari, Chhattisgarh 493773",
+    "website": "https://districts.ecourts.gov.in/dhamtari",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dhamtari District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Durg",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Durg district of Chhattisgarh.",
+    "location": "District Court Complex, Durg, Chhattisgarh 491001",
+    "website": "https://districts.ecourts.gov.in/durg",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Durg District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Gariaband",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gariaband district of Chhattisgarh.",
+    "location": "District Court Complex, Gariaband, Chhattisgarh 493889",
+    "website": "https://districts.ecourts.gov.in/gariaband",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gariaband District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Janjgir-Champa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Janjgir-Champa district of Chhattisgarh.",
+    "location": "District Court Complex, Janjgir, Chhattisgarh 495668",
+    "website": "https://districts.ecourts.gov.in/janjgir-champa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Janjgir-Champa District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Jashpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jashpur district of Chhattisgarh.",
+    "location": "District Court Complex, Jashpur Nagar, Chhattisgarh 496331",
+    "website": "https://districts.ecourts.gov.in/jashpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jashpur District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Kabirdham",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kabirdham district of Chhattisgarh.",
+    "location": "District Court Complex, Kawardha, Chhattisgarh 491995",
+    "website": "https://districts.ecourts.gov.in/kawardha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kabirdham District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Kanker",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kanker district of Chhattisgarh.",
+    "location": "District Court Complex, Kanker, Chhattisgarh 494334",
+    "website": "https://districts.ecourts.gov.in/kanker",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kanker District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Kondagaon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kondagaon district of Chhattisgarh.",
+    "location": "District Court Complex, Kondagaon, Chhattisgarh 494226",
+    "website": "https://districts.ecourts.gov.in/kondagaon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kondagaon District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Korba",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Korba district of Chhattisgarh.",
+    "location": "District Court Complex, Korba, Chhattisgarh 495677",
+    "website": "https://districts.ecourts.gov.in/korba",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Korba District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Korea",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Korea district of Chhattisgarh.",
+    "location": "District Court Complex, Baikunthpur, Chhattisgarh 497335",
+    "website": "https://districts.ecourts.gov.in/korea",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Korea District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Mahasamund",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mahasamund district of Chhattisgarh.",
+    "location": "District Court Complex, Mahasamund, Chhattisgarh 493445",
+    "website": "https://districts.ecourts.gov.in/mahasamund",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mahasamund District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Mungeli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mungeli district of Chhattisgarh.",
+    "location": "District Court Complex, Mungeli, Chhattisgarh 495334",
+    "website": "https://districts.ecourts.gov.in/mungeli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mungeli District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Narayanpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Narayanpur district of Chhattisgarh.",
+    "location": "District Court Complex, Narayanpur, Chhattisgarh 494661",
+    "website": "https://districts.ecourts.gov.in/narayanpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Narayanpur District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Raigarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Raigarh district of Chhattisgarh.",
+    "location": "District Court Complex, Raigarh, Chhattisgarh 496001",
+    "website": "https://districts.ecourts.gov.in/raigarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Raigarh District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Raipur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Raipur district of Chhattisgarh.",
+    "location": "District Court Complex, Raipur, Chhattisgarh 492001",
+    "website": "https://districts.ecourts.gov.in/raipur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Raipur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Rajnandgaon",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rajnandgaon district of Chhattisgarh.",
+    "location": "District Court Complex, Rajnandgaon, Chhattisgarh 491441",
+    "website": "https://districts.ecourts.gov.in/rajnandgaon",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rajnandgaon District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Sukma",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sukma district of Chhattisgarh.",
+    "location": "District Court Complex, Sukma, Chhattisgarh 494111",
+    "website": "https://districts.ecourts.gov.in/sukma",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sukma District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Surajpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Surajpur district of Chhattisgarh.",
+    "location": "District Court Complex, Surajpur, Chhattisgarh 497229",
+    "website": "https://districts.ecourts.gov.in/surajpur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Surajpur District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Surguja",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Surguja district of Chhattisgarh.",
+    "location": "District Court Complex, Ambikapur, Chhattisgarh 497001",
+    "website": "https://districts.ecourts.gov.in/surguja",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Chhattisgarh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Surguja District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, North Goa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving North Goa district of Goa.",
+    "location": "District Court Complex, Panaji, Goa 403001",
+    "website": "https://districts.ecourts.gov.in/north-goa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Goa",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "North Goa District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, South Goa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving South Goa district of Goa.",
+    "location": "District Court Complex, Margao, Goa 403601",
+    "website": "https://districts.ecourts.gov.in/south-goa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Goa",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "South Goa District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Ahmedabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ahmedabad district of Gujarat.",
+    "location": "District Court Complex, Bhadra, Ahmedabad, Gujarat 380001",
+    "website": "https://districts.ecourts.gov.in/ahmedabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ahmedabad District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Amreli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Amreli district of Gujarat.",
+    "location": "District Court Complex, Amreli, Gujarat 365601",
+    "website": "https://districts.ecourts.gov.in/amreli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Amreli District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Anand",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Anand district of Gujarat.",
+    "location": "District Court Complex, Anand, Gujarat 388001",
+    "website": "https://districts.ecourts.gov.in/anand",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Anand District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Aravalli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Aravalli district of Gujarat.",
+    "location": "District Court Complex, Modasa, Gujarat 383315",
+    "website": "https://districts.ecourts.gov.in/aravalli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Aravalli District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Banaskantha",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Banaskantha district of Gujarat.",
+    "location": "District Court Complex, Palanpur, Gujarat 385001",
+    "website": "https://districts.ecourts.gov.in/banaskantha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Banaskantha District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Bharuch",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bharuch district of Gujarat.",
+    "location": "District Court Complex, Bharuch, Gujarat 392001",
+    "website": "https://districts.ecourts.gov.in/bharuch",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bharuch District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Bhavnagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhavnagar district of Gujarat.",
+    "location": "District Court Complex, Bhavnagar, Gujarat 364001",
+    "website": "https://districts.ecourts.gov.in/bhavnagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhavnagar District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Botad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Botad district of Gujarat.",
+    "location": "District Court Complex, Botad, Gujarat 364710",
+    "website": "https://districts.ecourts.gov.in/botad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Botad District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Chhota Udaipur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chhota Udaipur district of Gujarat.",
+    "location": "District Court Complex, Chhota Udaipur, Gujarat 391165",
+    "website": "https://districts.ecourts.gov.in/chhota-udaipur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chhota Udaipur District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Dahod",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dahod district of Gujarat.",
+    "location": "District Court Complex, Dahod, Gujarat 389151",
+    "website": "https://districts.ecourts.gov.in/dahod",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dahod District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Devbhumi Dwarka",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Devbhumi Dwarka district of Gujarat.",
+    "location": "District Court Complex, Khambhalia, Gujarat 361305",
+    "website": "https://districts.ecourts.gov.in/devbhumi-dwarka",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Devbhumi Dwarka District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Gandhinagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gandhinagar district of Gujarat.",
+    "location": "District Court Complex, Sector 11, Gandhinagar, Gujarat 382011",
+    "website": "https://districts.ecourts.gov.in/gandhinagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gandhinagar District",
+    "established": "1964"
+  },
+  {
+    "name": "District and Sessions Court, Gir Somnath",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gir Somnath district of Gujarat.",
+    "location": "District Court Complex, Veraval, Gujarat 362265",
+    "website": "https://districts.ecourts.gov.in/gir-somnath",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gir Somnath District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Jamnagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jamnagar district of Gujarat.",
+    "location": "District Court Complex, Jamnagar, Gujarat 361001",
+    "website": "https://districts.ecourts.gov.in/jamnagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jamnagar District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Junagadh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Junagadh district of Gujarat.",
+    "location": "District Court Complex, Junagadh, Gujarat 362001",
+    "website": "https://districts.ecourts.gov.in/junagadh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Junagadh District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Kachchh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kachchh district of Gujarat.",
+    "location": "District Court Complex, Bhuj, Gujarat 370001",
+    "website": "https://districts.ecourts.gov.in/kachchh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kachchh District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Kheda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kheda district of Gujarat.",
+    "location": "District Court Complex, Nadiad, Gujarat 387001",
+    "website": "https://districts.ecourts.gov.in/kheda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kheda District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Mahisagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mahisagar district of Gujarat.",
+    "location": "District Court Complex, Lunavada, Gujarat 389230",
+    "website": "https://districts.ecourts.gov.in/mahisagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mahisagar District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Mehsana",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mehsana district of Gujarat.",
+    "location": "District Court Complex, Mehsana, Gujarat 384001",
+    "website": "https://districts.ecourts.gov.in/mehsana",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mehsana District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Morbi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Morbi district of Gujarat.",
+    "location": "District Court Complex, Morbi, Gujarat 363641",
+    "website": "https://districts.ecourts.gov.in/morbi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Morbi District",
+    "established": "2013"
+  },
+  {
+    "name": "District and Sessions Court, Narmada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Narmada district of Gujarat.",
+    "location": "District Court Complex, Rajpipla, Gujarat 393145",
+    "website": "https://districts.ecourts.gov.in/narmada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Narmada District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Navsari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Navsari district of Gujarat.",
+    "location": "District Court Complex, Navsari, Gujarat 396445",
+    "website": "https://districts.ecourts.gov.in/navsari",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Navsari District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Panchmahal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Panchmahal district of Gujarat.",
+    "location": "District Court Complex, Godhra, Gujarat 389001",
+    "website": "https://districts.ecourts.gov.in/panchmahal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Panchmahal District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Patan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Patan district of Gujarat.",
+    "location": "District Court Complex, Patan, Gujarat 384265",
+    "website": "https://districts.ecourts.gov.in/patan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Patan District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Porbandar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Porbandar district of Gujarat.",
+    "location": "District Court Complex, Porbandar, Gujarat 360575",
+    "website": "https://districts.ecourts.gov.in/porbandar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Porbandar District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Rajkot",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rajkot district of Gujarat.",
+    "location": "District Court Complex, Rajkot, Gujarat 360001",
+    "website": "https://districts.ecourts.gov.in/rajkot",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rajkot District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Sabarkantha",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sabarkantha district of Gujarat.",
+    "location": "District Court Complex, Himmatnagar, Gujarat 383001",
+    "website": "https://districts.ecourts.gov.in/sabarkantha",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sabarkantha District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Surat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Surat district of Gujarat.",
+    "location": "District Court Complex, Athwalines, Surat, Gujarat 395001",
+    "website": "https://districts.ecourts.gov.in/surat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Surat District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Surendranagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Surendranagar district of Gujarat.",
+    "location": "District Court Complex, Surendranagar, Gujarat 363001",
+    "website": "https://districts.ecourts.gov.in/surendranagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Surendranagar District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Tapi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tapi district of Gujarat.",
+    "location": "District Court Complex, Vyara, Gujarat 394650",
+    "website": "https://districts.ecourts.gov.in/tapi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tapi District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Vadodara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Vadodara district of Gujarat.",
+    "location": "District Court Complex, Vadodara, Gujarat 390001",
+    "website": "https://districts.ecourts.gov.in/vadodara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Vadodara District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Valsad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Valsad district of Gujarat.",
+    "location": "District Court Complex, Valsad, Gujarat 396001",
+    "website": "https://districts.ecourts.gov.in/valsad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Gujarat",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Valsad District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Ambala",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ambala district of Haryana.",
+    "location": "District Court Complex, Ambala Cantt, Haryana 133001",
+    "website": "https://districts.ecourts.gov.in/ambala",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ambala District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Bhiwani",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bhiwani district of Haryana.",
+    "location": "District Court Complex, Bhiwani, Haryana 127021",
+    "website": "https://districts.ecourts.gov.in/bhiwani",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bhiwani District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Charkhi Dadri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Charkhi Dadri district of Haryana.",
+    "location": "District Court Complex, Charkhi Dadri, Haryana 127306",
+    "website": "https://districts.ecourts.gov.in/charkhi-dadri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Charkhi Dadri District",
+    "established": "2016"
+  },
+  {
+    "name": "District and Sessions Court, Faridabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Faridabad district of Haryana.",
+    "location": "District Court Complex, Sector 12, Faridabad, Haryana 121007",
+    "website": "https://districts.ecourts.gov.in/faridabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Faridabad District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, Fatehabad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Fatehabad district of Haryana.",
+    "location": "District Court Complex, Fatehabad, Haryana 125050",
+    "website": "https://districts.ecourts.gov.in/fatehabad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Fatehabad District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Gurugram",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gurugram district of Haryana.",
+    "location": "District Court Complex, Civil Lines, Gurugram, Haryana 122001",
+    "website": "https://districts.ecourts.gov.in/gurugram",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gurugram District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, Hisar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hisar district of Haryana.",
+    "location": "District Court Complex, Hisar, Haryana 125001",
+    "website": "https://districts.ecourts.gov.in/hisar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hisar District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Jhajjar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jhajjar district of Haryana.",
+    "location": "District Court Complex, Jhajjar, Haryana 124103",
+    "website": "https://districts.ecourts.gov.in/jhajjar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jhajjar District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Jind",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jind district of Haryana.",
+    "location": "District Court Complex, Jind, Haryana 126102",
+    "website": "https://districts.ecourts.gov.in/jind",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jind District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Kaithal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kaithal district of Haryana.",
+    "location": "District Court Complex, Kaithal, Haryana 136027",
+    "website": "https://districts.ecourts.gov.in/kaithal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kaithal District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Karnal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Karnal district of Haryana.",
+    "location": "District Court Complex, Karnal, Haryana 132001",
+    "website": "https://districts.ecourts.gov.in/karnal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Karnal District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Kurukshetra",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kurukshetra district of Haryana.",
+    "location": "District Court Complex, Kurukshetra, Haryana 136118",
+    "website": "https://districts.ecourts.gov.in/kurukshetra",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kurukshetra District",
+    "established": "1973"
+  },
+  {
+    "name": "District and Sessions Court, Mahendragarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mahendragarh district of Haryana.",
+    "location": "District Court Complex, Narnaul, Haryana 123001",
+    "website": "https://districts.ecourts.gov.in/mahendragarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mahendragarh District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Nuh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Nuh district of Haryana.",
+    "location": "District Court Complex, Nuh, Haryana 122107",
+    "website": "https://districts.ecourts.gov.in/nuh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Nuh District",
+    "established": "2005"
+  },
+  {
+    "name": "District and Sessions Court, Palwal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Palwal district of Haryana.",
+    "location": "District Court Complex, Palwal, Haryana 121102",
+    "website": "https://districts.ecourts.gov.in/palwal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Palwal District",
+    "established": "2008"
+  },
+  {
+    "name": "District and Sessions Court, Panchkula",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Panchkula district of Haryana.",
+    "location": "District Court Complex, Sector 10, Panchkula, Haryana 134109",
+    "website": "https://districts.ecourts.gov.in/panchkula",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Panchkula District",
+    "established": "1995"
+  },
+  {
+    "name": "District and Sessions Court, Panipat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Panipat district of Haryana.",
+    "location": "District Court Complex, Panipat, Haryana 132103",
+    "website": "https://districts.ecourts.gov.in/panipat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Panipat District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Rewari",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rewari district of Haryana.",
+    "location": "District Court Complex, Rewari, Haryana 123401",
+    "website": "https://districts.ecourts.gov.in/rewari",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rewari District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Rohtak",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rohtak district of Haryana.",
+    "location": "District Court Complex, Rohtak, Haryana 124001",
+    "website": "https://districts.ecourts.gov.in/rohtak",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rohtak District",
+    "established": "1966"
+  },
+  {
+    "name": "District and Sessions Court, Sirsa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sirsa district of Haryana.",
+    "location": "District Court Complex, Sirsa, Haryana 125055",
+    "website": "https://districts.ecourts.gov.in/sirsa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sirsa District",
+    "established": "1975"
+  },
+  {
+    "name": "District and Sessions Court, Sonipat",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sonipat district of Haryana.",
+    "location": "District Court Complex, Sonipat, Haryana 131001",
+    "website": "https://districts.ecourts.gov.in/sonipat",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sonipat District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Yamunanagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Yamunanagar district of Haryana.",
+    "location": "District Court Complex, Yamunanagar, Haryana 135001",
+    "website": "https://districts.ecourts.gov.in/yamunanagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Haryana",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Yamunanagar District",
+    "established": "1989"
+  },
+  {
+    "name": "District and Sessions Court, Bilaspur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bilaspur district of Himachal Pradesh.",
+    "location": "District Court Complex, Bilaspur, Himachal Pradesh 174001",
+    "website": "https://districts.ecourts.gov.in/bilaspur-hp",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bilaspur District",
+    "established": "1971"
+  },
+  {
+    "name": "District and Sessions Court, Chamba",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chamba district of Himachal Pradesh.",
+    "location": "District Court Complex, Chamba, Himachal Pradesh 176310",
+    "website": "https://districts.ecourts.gov.in/chamba",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chamba District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Hamirpur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hamirpur district of Himachal Pradesh.",
+    "location": "District Court Complex, Hamirpur, Himachal Pradesh 177001",
+    "website": "https://districts.ecourts.gov.in/hamirpur-hp",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hamirpur District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Kangra",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kangra district of Himachal Pradesh.",
+    "location": "District Court Complex, Dharamshala, Himachal Pradesh 176215",
+    "website": "https://districts.ecourts.gov.in/kangra",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kangra District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Kinnaur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kinnaur district of Himachal Pradesh.",
+    "location": "District Court Complex, Reckong Peo, Himachal Pradesh 172107",
+    "website": "https://districts.ecourts.gov.in/kinnaur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kinnaur District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Kullu",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kullu district of Himachal Pradesh.",
+    "location": "District Court Complex, Kullu, Himachal Pradesh 175101",
+    "website": "https://districts.ecourts.gov.in/kullu",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kullu District",
+    "established": "1963"
+  },
+  {
+    "name": "District and Sessions Court, Lahaul and Spiti",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lahaul and Spiti district of Himachal Pradesh.",
+    "location": "District Court Complex, Keylong, Himachal Pradesh 172132",
+    "website": "https://districts.ecourts.gov.in/lahaul-spiti",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lahaul and Spiti District",
+    "established": "1960"
+  },
+  {
+    "name": "District and Sessions Court, Mandi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mandi district of Himachal Pradesh.",
+    "location": "District Court Complex, Mandi, Himachal Pradesh 175001",
+    "website": "https://districts.ecourts.gov.in/mandi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mandi District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Shimla",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shimla district of Himachal Pradesh.",
+    "location": "District Court Complex, Shimla, Himachal Pradesh 171001",
+    "website": "https://districts.ecourts.gov.in/shimla",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shimla District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Sirmaur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sirmaur district of Himachal Pradesh.",
+    "location": "District Court Complex, Nahan, Himachal Pradesh 173001",
+    "website": "https://districts.ecourts.gov.in/sirmaur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sirmaur District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Solan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Solan district of Himachal Pradesh.",
+    "location": "District Court Complex, Solan, Himachal Pradesh 173212",
+    "website": "https://districts.ecourts.gov.in/solan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Solan District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Una",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Una district of Himachal Pradesh.",
+    "location": "District Court Complex, Una, Himachal Pradesh 174303",
+    "website": "https://districts.ecourts.gov.in/una",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Himachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Una District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Anantnag",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Anantnag district of Jammu and Kashmir.",
+    "location": "District Court Complex, Anantnag, Jammu and Kashmir 192101",
+    "website": "https://districts.ecourts.gov.in/anantnag",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Anantnag District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Bandipora",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bandipora district of Jammu and Kashmir.",
+    "location": "District Court Complex, Bandipora, Jammu and Kashmir 193502",
+    "website": "https://districts.ecourts.gov.in/bandipora",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bandipora District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Baramulla",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Baramulla district of Jammu and Kashmir.",
+    "location": "District Court Complex, Baramulla, Jammu and Kashmir 193101",
+    "website": "https://districts.ecourts.gov.in/baramulla",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Baramulla District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Budgam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Budgam district of Jammu and Kashmir.",
+    "location": "District Court Complex, Budgam, Jammu and Kashmir 191111",
+    "website": "https://districts.ecourts.gov.in/budgam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Budgam District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, Doda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Doda district of Jammu and Kashmir.",
+    "location": "District Court Complex, Doda, Jammu and Kashmir 182202",
+    "website": "https://districts.ecourts.gov.in/doda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Doda District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Ganderbal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ganderbal district of Jammu and Kashmir.",
+    "location": "District Court Complex, Ganderbal, Jammu and Kashmir 191201",
+    "website": "https://districts.ecourts.gov.in/ganderbal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ganderbal District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Jammu",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jammu district of Jammu and Kashmir.",
+    "location": "District Court Complex, Janipur, Jammu, Jammu and Kashmir 180007",
+    "website": "https://districts.ecourts.gov.in/jammu",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jammu District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Kathua",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kathua district of Jammu and Kashmir.",
+    "location": "District Court Complex, Kathua, Jammu and Kashmir 184101",
+    "website": "https://districts.ecourts.gov.in/kathua",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kathua District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Kishtwar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kishtwar district of Jammu and Kashmir.",
+    "location": "District Court Complex, Kishtwar, Jammu and Kashmir 182204",
+    "website": "https://districts.ecourts.gov.in/kishtwar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kishtwar District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Kulgam",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kulgam district of Jammu and Kashmir.",
+    "location": "District Court Complex, Kulgam, Jammu and Kashmir 192231",
+    "website": "https://districts.ecourts.gov.in/kulgam",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kulgam District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Kupwara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kupwara district of Jammu and Kashmir.",
+    "location": "District Court Complex, Kupwara, Jammu and Kashmir 193222",
+    "website": "https://districts.ecourts.gov.in/kupwara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kupwara District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, Pulwama",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Pulwama district of Jammu and Kashmir.",
+    "location": "District Court Complex, Pulwama, Jammu and Kashmir 192301",
+    "website": "https://districts.ecourts.gov.in/pulwama",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Pulwama District",
+    "established": "1979"
+  },
+  {
+    "name": "District and Sessions Court, Poonch",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Poonch district of Jammu and Kashmir.",
+    "location": "District Court Complex, Poonch, Jammu and Kashmir 185101",
+    "website": "https://districts.ecourts.gov.in/poonch",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Poonch District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Rajouri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Rajouri district of Jammu and Kashmir.",
+    "location": "District Court Complex, Rajouri, Jammu and Kashmir 185131",
+    "website": "https://districts.ecourts.gov.in/rajouri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Rajouri District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Ramban",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ramban district of Jammu and Kashmir.",
+    "location": "District Court Complex, Ramban, Jammu and Kashmir 182144",
+    "website": "https://districts.ecourts.gov.in/ramban",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ramban District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Reasi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Reasi district of Jammu and Kashmir.",
+    "location": "District Court Complex, Reasi, Jammu and Kashmir 182311",
+    "website": "https://districts.ecourts.gov.in/reasi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Reasi District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Samba",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Samba district of Jammu and Kashmir.",
+    "location": "District Court Complex, Samba, Jammu and Kashmir 184121",
+    "website": "https://districts.ecourts.gov.in/samba",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Samba District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Shopian",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shopian district of Jammu and Kashmir.",
+    "location": "District Court Complex, Shopian, Jammu and Kashmir 192303",
+    "website": "https://districts.ecourts.gov.in/shopian",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shopian District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Srinagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Srinagar district of Jammu and Kashmir.",
+    "location": "District Court Complex, Srinagar, Jammu and Kashmir 190001",
+    "website": "https://districts.ecourts.gov.in/srinagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Srinagar District",
+    "established": "1947"
+  },
+  {
+    "name": "District and Sessions Court, Udhampur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Udhampur district of Jammu and Kashmir.",
+    "location": "District Court Complex, Udhampur, Jammu and Kashmir 182101",
+    "website": "https://districts.ecourts.gov.in/udhampur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jammu and Kashmir",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Udhampur District",
+    "established": "1948"
+  },
+  {
+    "name": "District and Sessions Court, Bokaro",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bokaro district of Jharkhand.",
+    "location": "District Court Complex, Bokaro, Jharkhand 827001",
+    "website": "https://districts.ecourts.gov.in/bokaro",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bokaro District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Chatra",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chatra district of Jharkhand.",
+    "location": "District Court Complex, Chatra, Jharkhand 825401",
+    "website": "https://districts.ecourts.gov.in/chatra",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chatra District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Deoghar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Deoghar district of Jharkhand.",
+    "location": "District Court Complex, Deoghar, Jharkhand 814112",
+    "website": "https://districts.ecourts.gov.in/deoghar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Deoghar District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Dhanbad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dhanbad district of Jharkhand.",
+    "location": "District Court Complex, Dhanbad, Jharkhand 826001",
+    "website": "https://districts.ecourts.gov.in/dhanbad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dhanbad District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Dumka",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dumka district of Jharkhand.",
+    "location": "District Court Complex, Dumka, Jharkhand 814101",
+    "website": "https://districts.ecourts.gov.in/dumka",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dumka District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, East Singhbhum",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Singhbhum district of Jharkhand.",
+    "location": "District Court Complex, Jamshedpur, Jharkhand 831001",
+    "website": "https://districts.ecourts.gov.in/east-singhbhum",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Singhbhum District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Garhwa",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Garhwa district of Jharkhand.",
+    "location": "District Court Complex, Garhwa, Jharkhand 822114",
+    "website": "https://districts.ecourts.gov.in/garhwa",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Garhwa District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Giridih",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Giridih district of Jharkhand.",
+    "location": "District Court Complex, Giridih, Jharkhand 815301",
+    "website": "https://districts.ecourts.gov.in/giridih",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Giridih District",
+    "established": "1972"
+  },
+  {
+    "name": "District and Sessions Court, Godda",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Godda district of Jharkhand.",
+    "location": "District Court Complex, Godda, Jharkhand 814133",
+    "website": "https://districts.ecourts.gov.in/godda",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Godda District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Gumla",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gumla district of Jharkhand.",
+    "location": "District Court Complex, Gumla, Jharkhand 835207",
+    "website": "https://districts.ecourts.gov.in/gumla",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gumla District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Hazaribagh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hazaribagh district of Jharkhand.",
+    "location": "District Court Complex, Hazaribagh, Jharkhand 825301",
+    "website": "https://districts.ecourts.gov.in/hazaribagh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hazaribagh District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Jamtara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Jamtara district of Jharkhand.",
+    "location": "District Court Complex, Jamtara, Jharkhand 815351",
+    "website": "https://districts.ecourts.gov.in/jamtara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Jamtara District",
+    "established": "2001"
+  },
+  {
+    "name": "District and Sessions Court, Khunti",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Khunti district of Jharkhand.",
+    "location": "District Court Complex, Khunti, Jharkhand 835210",
+    "website": "https://districts.ecourts.gov.in/khunti",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Khunti District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Koderma",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Koderma district of Jharkhand.",
+    "location": "District Court Complex, Koderma, Jharkhand 825410",
+    "website": "https://districts.ecourts.gov.in/koderma",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Koderma District",
+    "established": "1991"
+  },
+  {
+    "name": "District and Sessions Court, Latehar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Latehar district of Jharkhand.",
+    "location": "District Court Complex, Latehar, Jharkhand 829207",
+    "website": "https://districts.ecourts.gov.in/latehar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Latehar District",
+    "established": "2001"
+  },
+  {
+    "name": "District and Sessions Court, Lohardaga",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lohardaga district of Jharkhand.",
+    "location": "District Court Complex, Lohardaga, Jharkhand 835302",
+    "website": "https://districts.ecourts.gov.in/lohardaga",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lohardaga District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Pakur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Pakur district of Jharkhand.",
+    "location": "District Court Complex, Pakur, Jharkhand 816107",
+    "website": "https://districts.ecourts.gov.in/pakur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Pakur District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Palamu",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Palamu district of Jharkhand.",
+    "location": "District Court Complex, Daltonganj, Jharkhand 822101",
+    "website": "https://districts.ecourts.gov.in/palamu",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Palamu District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Ramgarh",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ramgarh district of Jharkhand.",
+    "location": "District Court Complex, Ramgarh, Jharkhand 829122",
+    "website": "https://districts.ecourts.gov.in/ramgarh",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ramgarh District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Ranchi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ranchi district of Jharkhand.",
+    "location": "District Court Complex, Ranchi, Jharkhand 834001",
+    "website": "https://districts.ecourts.gov.in/ranchi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ranchi District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Sahebganj",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Sahebganj district of Jharkhand.",
+    "location": "District Court Complex, Sahebganj, Jharkhand 816109",
+    "website": "https://districts.ecourts.gov.in/sahebganj",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Sahebganj District",
+    "established": "1983"
+  },
+  {
+    "name": "District and Sessions Court, Seraikela-Kharsawan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Seraikela-Kharsawan district of Jharkhand.",
+    "location": "District Court Complex, Seraikela, Jharkhand 833219",
+    "website": "https://districts.ecourts.gov.in/seraikela-kharsawan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Seraikela-Kharsawan District",
+    "established": "2001"
+  },
+  {
+    "name": "District and Sessions Court, Simdega",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Simdega district of Jharkhand.",
+    "location": "District Court Complex, Simdega, Jharkhand 835223",
+    "website": "https://districts.ecourts.gov.in/simdega",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Simdega District",
+    "established": "2001"
+  },
+  {
+    "name": "District and Sessions Court, West Singhbhum",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Singhbhum district of Jharkhand.",
+    "location": "District Court Complex, Chaibasa, Jharkhand 833201",
+    "website": "https://districts.ecourts.gov.in/west-singhbhum",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Jharkhand",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Singhbhum District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Bagalkot",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bagalkot district of Karnataka.",
+    "location": "District Court Complex, Bagalkot, Karnataka 587101",
+    "website": "https://districts.ecourts.gov.in/bagalkot",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bagalkot District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Bangalore Rural",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bangalore Rural district of Karnataka.",
+    "location": "District Court Complex, Bangalore Rural, Karnataka 562123",
+    "website": "https://districts.ecourts.gov.in/bangalore-rural",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bangalore Rural District",
+    "established": "1986"
+  },
+  {
+    "name": "District and Sessions Court, Bangalore Urban",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bangalore Urban district of Karnataka.",
+    "location": "City Civil Court Complex, Mayo Hall, Bangalore, Karnataka 560001",
+    "website": "https://districts.ecourts.gov.in/bangalore",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bangalore Urban District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Belgaum",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Belgaum district of Karnataka.",
+    "location": "District Court Complex, Belgaum, Karnataka 590001",
+    "website": "https://districts.ecourts.gov.in/belgaum",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Belgaum District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Bellary",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bellary district of Karnataka.",
+    "location": "District Court Complex, Bellary, Karnataka 583101",
+    "website": "https://districts.ecourts.gov.in/bellary",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bellary District",
+    "established": "1953"
+  },
+  {
+    "name": "District and Sessions Court, Bidar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bidar district of Karnataka.",
+    "location": "District Court Complex, Bidar, Karnataka 585401",
+    "website": "https://districts.ecourts.gov.in/bidar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bidar District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Bijapur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Bijapur district of Karnataka.",
+    "location": "District Court Complex, Bijapur, Karnataka 586101",
+    "website": "https://districts.ecourts.gov.in/bijapur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Bijapur District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Chamarajanagar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chamarajanagar district of Karnataka.",
+    "location": "District Court Complex, Chamarajanagar, Karnataka 571313",
+    "website": "https://districts.ecourts.gov.in/chamarajanagar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chamarajanagar District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Chickmagalur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chickmagalur district of Karnataka.",
+    "location": "District Court Complex, Chickmagalur, Karnataka 577101",
+    "website": "https://districts.ecourts.gov.in/chickmagalur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chickmagalur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Chitradurga",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Chitradurga district of Karnataka.",
+    "location": "District Court Complex, Chitradurga, Karnataka 577501",
+    "website": "https://districts.ecourts.gov.in/chitradurga",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Chitradurga District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Dakshina Kannada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dakshina Kannada district of Karnataka.",
+    "location": "District Court Complex, Mangalore, Karnataka 575001",
+    "website": "https://districts.ecourts.gov.in/dakshina-kannada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dakshina Kannada District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Davangere",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Davangere district of Karnataka.",
+    "location": "District Court Complex, Davangere, Karnataka 577002",
+    "website": "https://districts.ecourts.gov.in/davangere",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Davangere District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Dharwad",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dharwad district of Karnataka.",
+    "location": "District Court Complex, Dharwad, Karnataka 580001",
+    "website": "https://districts.ecourts.gov.in/dharwad",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dharwad District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Gadag",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gadag district of Karnataka.",
+    "location": "District Court Complex, Gadag, Karnataka 582101",
+    "website": "https://districts.ecourts.gov.in/gadag",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gadag District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Gulbarga",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Gulbarga district of Karnataka.",
+    "location": "District Court Complex, Gulbarga, Karnataka 585101",
+    "website": "https://districts.ecourts.gov.in/gulbarga",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Gulbarga District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Hassan",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Hassan district of Karnataka.",
+    "location": "District Court Complex, Hassan, Karnataka 573201",
+    "website": "https://districts.ecourts.gov.in/hassan",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Hassan District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Haveri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Haveri district of Karnataka.",
+    "location": "District Court Complex, Haveri, Karnataka 581110",
+    "website": "https://districts.ecourts.gov.in/haveri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Haveri District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Kodagu",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kodagu district of Karnataka.",
+    "location": "District Court Complex, Madikeri, Karnataka 571201",
+    "website": "https://districts.ecourts.gov.in/kodagu",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kodagu District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Kolar",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kolar district of Karnataka.",
+    "location": "District Court Complex, Kolar, Karnataka 563101",
+    "website": "https://districts.ecourts.gov.in/kolar",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kolar District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Koppal",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Koppal district of Karnataka.",
+    "location": "District Court Complex, Koppal, Karnataka 583231",
+    "website": "https://districts.ecourts.gov.in/koppal",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Koppal District",
+    "established": "1998"
+  },
+  {
+    "name": "District and Sessions Court, Mandya",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mandya district of Karnataka.",
+    "location": "District Court Complex, Mandya, Karnataka 571401",
+    "website": "https://districts.ecourts.gov.in/mandya",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mandya District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Mysore",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Mysore district of Karnataka.",
+    "location": "District Court Complex, Mysore, Karnataka 570001",
+    "website": "https://districts.ecourts.gov.in/mysore",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Mysore District",
+    "established": "1950"
+  },
+  {
+    "name": "District and Sessions Court, Raichur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Raichur district of Karnataka.",
+    "location": "District Court Complex, Raichur, Karnataka 584101",
+    "website": "https://districts.ecourts.gov.in/raichur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Raichur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Ramanagara",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Ramanagara district of Karnataka.",
+    "location": "District Court Complex, Ramanagara, Karnataka 562159",
+    "website": "https://districts.ecourts.gov.in/ramanagara",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Ramanagara District",
+    "established": "2007"
+  },
+  {
+    "name": "District and Sessions Court, Shimoga",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shimoga district of Karnataka.",
+    "location": "District Court Complex, Shimoga, Karnataka 577201",
+    "website": "https://districts.ecourts.gov.in/shimoga",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shimoga District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Tumkur",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tumkur district of Karnataka.",
+    "location": "District Court Complex, Tumkur, Karnataka 572101",
+    "website": "https://districts.ecourts.gov.in/tumkur",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tumkur District",
+    "established": "1956"
+  },
+  {
+    "name": "District and Sessions Court, Udupi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Udupi district of Karnataka.",
+    "location": "District Court Complex, Udupi, Karnataka 576101",
+    "website": "https://districts.ecourts.gov.in/udupi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Udupi District",
+    "established": "1997"
+  },
+  {
+    "name": "District and Sessions Court, Uttara Kannada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Uttara Kannada district of Karnataka.",
+    "location": "District Court Complex, Karwar, Karnataka 581301",
+    "website": "https://districts.ecourts.gov.in/uttara-kannada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Karnataka",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Uttara Kannada District",
+    "established": "1956"
+  }
+]

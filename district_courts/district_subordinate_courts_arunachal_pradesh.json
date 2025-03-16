@@ -1,0 +1,530 @@
+[
+  {
+    "name": "District and Sessions Court, Anjaw",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Anjaw district of Arunachal Pradesh.",
+    "location": "District Court Complex, Hawai, Arunachal Pradesh 792104",
+    "website": "https://districts.ecourts.gov.in/anjaw",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Anjaw District",
+    "established": "2004"
+  },
+  {
+    "name": "District and Sessions Court, Changlang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Changlang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Changlang, Arunachal Pradesh 792120",
+    "website": "https://districts.ecourts.gov.in/changlang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Changlang District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, East Kameng",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Kameng district of Arunachal Pradesh.",
+    "location": "District Court Complex, Seppa, Arunachal Pradesh 790102",
+    "website": "https://districts.ecourts.gov.in/east-kameng",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Kameng District",
+    "established": "1999"
+  },
+  {
+    "name": "District and Sessions Court, East Siang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving East Siang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Pasighat, Arunachal Pradesh 791102",
+    "website": "https://districts.ecourts.gov.in/east-siang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "East Siang District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Kamle",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kamle district of Arunachal Pradesh.",
+    "location": "District Court Complex, Raga, Arunachal Pradesh 791126",
+    "website": "https://districts.ecourts.gov.in/kamle",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kamle District",
+    "established": "2018"
+  },
+  {
+    "name": "District and Sessions Court, Kra Daadi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kra Daadi district of Arunachal Pradesh.",
+    "location": "District Court Complex, Jamin, Arunachal Pradesh 791121",
+    "website": "https://districts.ecourts.gov.in/kra-daadi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kra Daadi District",
+    "established": "2015"
+  },
+  {
+    "name": "District and Sessions Court, Kurung Kumey",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Kurung Kumey district of Arunachal Pradesh.",
+    "location": "District Court Complex, Koloriang, Arunachal Pradesh 791119",
+    "website": "https://districts.ecourts.gov.in/kurung-kumey",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Kurung Kumey District",
+    "established": "2000"
+  },
+  {
+    "name": "District and Sessions Court, Leparada",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Leparada district of Arunachal Pradesh.",
+    "location": "District Court Complex, Basar, Arunachal Pradesh 791101",
+    "website": "https://districts.ecourts.gov.in/leparada",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Leparada District",
+    "established": "2018"
+  },
+  {
+    "name": "District and Sessions Court, Lohit",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lohit district of Arunachal Pradesh.",
+    "location": "District Court Complex, Tezu, Arunachal Pradesh 792001",
+    "website": "https://districts.ecourts.gov.in/lohit",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lohit District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Longding",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Longding district of Arunachal Pradesh.",
+    "location": "District Court Complex, Longding, Arunachal Pradesh 792131",
+    "website": "https://districts.ecourts.gov.in/longding",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Longding District",
+    "established": "2012"
+  },
+  {
+    "name": "District and Sessions Court, Lower Dibang Valley",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lower Dibang Valley district of Arunachal Pradesh.",
+    "location": "District Court Complex, Roing, Arunachal Pradesh 792110",
+    "website": "https://districts.ecourts.gov.in/lower-dibang-valley",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lower Dibang Valley District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Lower Siang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Lower Siang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Likabali, Arunachal Pradesh 791125",
+    "website": "https://districts.ecourts.gov.in/lower-siang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Lower Siang District",
+    "established": "2017"
+  },
+  {
+    "name": "District and Sessions Court, Namsai",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Namsai district of Arunachal Pradesh.",
+    "location": "District Court Complex, Namsai, Arunachal Pradesh 792103",
+    "website": "https://districts.ecourts.gov.in/namsai",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Namsai District",
+    "established": "2014"
+  },
+  {
+    "name": "District and Sessions Court, Pakke Kessang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Pakke Kessang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Pakke Kessang, Arunachal Pradesh 790102",
+    "website": "https://districts.ecourts.gov.in/pakke-kessang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Pakke Kessang District",
+    "established": "2018"
+  },
+  {
+    "name": "District and Sessions Court, Papum Pare",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Papum Pare district of Arunachal Pradesh.",
+    "location": "District Court Complex, Yupia, Arunachal Pradesh 791112",
+    "website": "https://districts.ecourts.gov.in/papum-pare",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Papum Pare District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Shi Yomi",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Shi Yomi district of Arunachal Pradesh.",
+    "location": "District Court Complex, Tato, Arunachal Pradesh 791105",
+    "website": "https://districts.ecourts.gov.in/shi-yomi",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Shi Yomi District",
+    "established": "2018"
+  },
+  {
+    "name": "District and Sessions Court, Siang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Siang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Pangin, Arunachal Pradesh 791103",
+    "website": "https://districts.ecourts.gov.in/siang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Siang District",
+    "established": "2015"
+  },
+  {
+    "name": "District and Sessions Court, Tawang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tawang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Tawang, Arunachal Pradesh 790104",
+    "website": "https://districts.ecourts.gov.in/tawang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tawang District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Tirap",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Tirap district of Arunachal Pradesh.",
+    "location": "District Court Complex, Khonsa, Arunachal Pradesh 792130",
+    "website": "https://districts.ecourts.gov.in/tirap",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Tirap District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, Upper Dibang Valley",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Upper Dibang Valley district of Arunachal Pradesh.",
+    "location": "District Court Complex, Anini, Arunachal Pradesh 792101",
+    "website": "https://districts.ecourts.gov.in/upper-dibang-valley",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Upper Dibang Valley District",
+    "established": "2001"
+  },
+  {
+    "name": "District and Sessions Court, Upper Siang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Upper Siang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Yingkiong, Arunachal Pradesh 791001",
+    "website": "https://districts.ecourts.gov.in/upper-siang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Upper Siang District",
+    "established": "1994"
+  },
+  {
+    "name": "District and Sessions Court, Upper Subansiri",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Upper Subansiri district of Arunachal Pradesh.",
+    "location": "District Court Complex, Daporijo, Arunachal Pradesh 791122",
+    "website": "https://districts.ecourts.gov.in/upper-subansiri",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Upper Subansiri District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, West Kameng",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Kameng district of Arunachal Pradesh.",
+    "location": "District Court Complex, Bomdila, Arunachal Pradesh 790001",
+    "website": "https://districts.ecourts.gov.in/west-kameng",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Kameng District",
+    "established": "1987"
+  },
+  {
+    "name": "District and Sessions Court, West Siang",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving West Siang district of Arunachal Pradesh.",
+    "location": "District Court Complex, Aalo, Arunachal Pradesh 791001",
+    "website": "https://districts.ecourts.gov.in/west-siang",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Arunachal Pradesh",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "West Siang District",
+    "established": "1987"
+  }
+]

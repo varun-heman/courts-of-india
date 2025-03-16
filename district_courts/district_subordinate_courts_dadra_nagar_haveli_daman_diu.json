@@ -1,0 +1,175 @@
+[
+  {
+    "name": "District and Sessions Court, Dadra and Nagar Haveli",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Dadra and Nagar Haveli region of the Union Territory of Dadra and Nagar Haveli and Daman and Diu.",
+    "location": "District Court Complex, Silvassa, Dadra and Nagar Haveli 396230",
+    "website": "https://districts.ecourts.gov.in/dadra-nagar-haveli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Dadra and Nagar Haveli Region",
+    "established": "1961"
+  },
+  {
+    "name": "District and Sessions Court, Daman",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Daman region of the Union Territory of Dadra and Nagar Haveli and Daman and Diu.",
+    "location": "District Court Complex, Moti Daman, Daman 396220",
+    "website": "https://districts.ecourts.gov.in/daman",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Daman Region",
+    "established": "1961"
+  },
+  {
+    "name": "District and Sessions Court, Diu",
+    "type": "District Court",
+    "description": "Principal District and Sessions Court serving Diu region of the Union Territory of Dadra and Nagar Haveli and Daman and Diu.",
+    "location": "District Court Complex, Diu 362520",
+    "website": "https://districts.ecourts.gov.in/diu",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "caseTypes": [
+      "Civil suits",
+      "Criminal cases",
+      "Sessions trials",
+      "Appeals from lower courts"
+    ],
+    "geographicalJurisdiction": "Diu Region",
+    "established": "1961"
+  },
+  {
+    "name": "Chief Judicial Magistrate Court, Silvassa",
+    "type": "Subordinate Court",
+    "description": "Chief Judicial Magistrate Court serving Dadra and Nagar Haveli region.",
+    "location": "District Court Complex, Silvassa, Dadra and Nagar Haveli 396230",
+    "website": "https://districts.ecourts.gov.in/dadra-nagar-haveli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "caseTypes": [
+      "Criminal cases",
+      "Summary trials",
+      "Petty offenses"
+    ],
+    "geographicalJurisdiction": "Dadra and Nagar Haveli Region",
+    "established": "1961"
+  },
+  {
+    "name": "Chief Judicial Magistrate Court, Daman",
+    "type": "Subordinate Court",
+    "description": "Chief Judicial Magistrate Court serving Daman region.",
+    "location": "District Court Complex, Moti Daman, Daman 396220",
+    "website": "https://districts.ecourts.gov.in/daman",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "caseTypes": [
+      "Criminal cases",
+      "Summary trials",
+      "Petty offenses"
+    ],
+    "geographicalJurisdiction": "Daman Region",
+    "established": "1961"
+  },
+  {
+    "name": "Chief Judicial Magistrate Court, Diu",
+    "type": "Subordinate Court",
+    "description": "Chief Judicial Magistrate Court serving Diu region.",
+    "location": "District Court Complex, Diu 362520",
+    "website": "https://districts.ecourts.gov.in/diu",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "caseTypes": [
+      "Criminal cases",
+      "Summary trials",
+      "Petty offenses"
+    ],
+    "geographicalJurisdiction": "Diu Region",
+    "established": "1961"
+  },
+  {
+    "name": "Civil Judge (Senior Division) Court, Silvassa",
+    "type": "Subordinate Court",
+    "description": "Civil Judge (Senior Division) Court serving Dadra and Nagar Haveli region.",
+    "location": "District Court Complex, Silvassa, Dadra and Nagar Haveli 396230",
+    "website": "https://districts.ecourts.gov.in/dadra-nagar-haveli",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "caseTypes": [
+      "Civil suits",
+      "Rent cases",
+      "Family disputes",
+      "Property matters"
+    ],
+    "geographicalJurisdiction": "Dadra and Nagar Haveli Region",
+    "established": "1961"
+  },
+  {
+    "name": "Civil Judge (Senior Division) Court, Daman",
+    "type": "Subordinate Court",
+    "description": "Civil Judge (Senior Division) Court serving Daman region.",
+    "location": "District Court Complex, Moti Daman, Daman 396220",
+    "website": "https://districts.ecourts.gov.in/daman",
+    "documentTypes": [
+      "Judgments",
+      "Orders",
+      "Cause Lists",
+      "Case Status"
+    ],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "caseTypes": [
+      "Civil suits",
+      "Rent cases",
+      "Family disputes",
+      "Property matters"
+    ],
+    "geographicalJurisdiction": "Daman Region",
+    "established": "1961"
+  }
+]
